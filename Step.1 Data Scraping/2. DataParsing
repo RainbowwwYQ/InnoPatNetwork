@@ -61,7 +61,7 @@ inventor_patent <- inventor_patent[complete.cases(inventor_patent$patent_number)
 
 # ---- export ----
 
-#write.csv(assignee_patent, "assignee_patent.csv")
-#write.csv(assignee, "assignee.csv")
-#write.csv(inventor_patent, "inventor_patent.csv")
-#write.csv(inventor, "inventor.csv")
+#write.csv(assignee_patent, "assignee_patent.csv", row.names = FALSE)
+#write.csv(assignee, "assignee.csv", row.names = FALSE)
+#write.csv(inventor_patent, "inventor_patent.csv", row.names = FALSE)
+#write.csv(inventor, "inventor.csv", row.names = FALSE)
