@@ -1,0 +1,43 @@
+# packages required:
+# install.packages("httr")
+# install.packages("rlist")
+# install.packages("tidyverse")
+
+# API Websites: https://www.patentsview.org/web/#viz/relationships
+
+library(httr)
+library(rlist)
+library(tidyverse)
+
+city <- "Ottawa"   # enter the city scale of patents
+
+# ---- check assignees: ----
+# include: patent number, patent date, assignee id, assignee first name&lastname, assignee city&country
+# assignee's organization, assignee's total number of inventors,total patents, assignee's type
+
+url <- paste("https://www.patentsview.org/api/assignees/query?q={%22assignee_lastknown_city%22:%22",
+             city,
+             "%22}&f=[%22patent_number%22,%22patent_date%22,%22assignee_id%22,%22assignee_first_name%22,%22assignee_last_name%22,%22assignee_lastknown_city%22,%22assignee_lastknown_country%22,%22assignee_organization%22,%22assignee_total_num_inventors%22,%22assignee_total_num_patents%22,%22assignee_type%22]",
+             sep = "")
+
+assignee_ori <-GET(url)
+if (assignee_ori[["status_code"]] == 200){
+  "successful extraction!"
+} else {
+  assignee_ori[["status_code"]]
+}
+
+
+# ---- check inventor: ----
+# include: inventor id, inventor first&last name, patent number, patent date, inventor's city&country, total number of patents
+url2 <- paste("https://www.patentsview.org/api/inventors/query?q={%22inventor_lastknown_city%22:%22",
+             city,
+             "%22}&f=[%22inventor_id%22,%22inventor_last_name%22,%22inventor_first_name%22,%22patent_number%22,%22patent_date%22,%22inventor_lastknown_city%22,%22inventor_lastknown_country%22,%22inventor_total_num_patents%22]",
+             sep = "")
+
+inventor_ori <-GET(url2)
+if (inventor_ori[["status_code"]] == 200){
+  "successful extraction!"
+} else {
+  inventor_ori[["status_code"]]
+}
