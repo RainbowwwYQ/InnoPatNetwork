@@ -1,0 +1,67 @@
+
+# packages required: 
+# install.packages("jsonlite")
+# install.packages("dplyr")
+
+library(jsonlite)
+library(dplyr)
+
+# ---- assignee ----
+
+assignee_list <- fromJSON(content(assignee_ori, as="text"))
+
+assignee <- data.frame(id=assignee_list[["assignees"]][["assignee_id"]],
+                       first_name=assignee_list[["assignees"]][["assignee_first_name"]],
+                       last_name=assignee_list[["assignees"]][["assignee_last_name"]],
+                       city=assignee_list[["assignees"]][["assignee_lastknown_city"]],
+                       country=assignee_list[["assignees"]][["assignee_lastknown_country"]],
+                       organization=assignee_list[["assignees"]][["assignee_organization"]],
+                       total_number_inventor=assignee_list[["assignees"]][["assignee_total_num_inventors"]],
+                       total_number_patent=assignee_list[["assignees"]][["assignee_total_num_patents"]],
+                       type=assignee_list[["assignees"]][["assignee_type"]])
+
+assignee$id <- as.character(assignee$id)
+class(assignee$id)
+
+assignee_patent <- data.frame(patent_number=NA, patent_date=NA,patent_id=NA)
+
+obs = assignee_list[["count"]]
+for (i in 1:obs){
+  data <- assignee_list[["assignees"]][["patents"]][[i]]
+  data$id <- assignee[i,"id"]
+  assignee_patent <- bind_rows(assignee_patent, data)
+}
+assignee_patent <- assignee_patent[complete.cases(assignee_patent$patent_number),]
+
+
+# ---- inventor ----
+
+inventor_list <- fromJSON(content(inventor_ori, as="text"))
+
+inventor <- data.frame(id=inventor_list[["inventors"]][["inventor_id"]],
+                       first_name=inventor_list[["inventors"]][["inventor_first_name"]],
+                       last_name=inventor_list[["inventors"]][["inventor_last_name"]],
+                       city=inventor_list[["inventors"]][["inventor_lastknown_city"]],
+                       country=inventor_list[["inventors"]][["inventor_lastknown_country"]],
+                       total_number_patent=inventor_list[["inventors"]][["inventor_total_num_patents"]])
+
+inventor$id <- as.character(inventor$id)
+
+# class(inventor$id)
+
+inventor_patent <- data.frame(patent_number=NA, patent_date=NA,patent_id=NA)
+
+obs = inventor_list[["count"]]
+for (i in 1:obs){
+  data <- inventor_list[["inventors"]][["patents"]][[i]]
+  data$id <- inventor[i,"id"]
+  inventor_patent <- bind_rows(inventor_patent, data)
+}
+inventor_patent <- inventor_patent[complete.cases(inventor_patent$patent_number),]
+
+# ---- export ----
+
+#write.csv(assignee_patent, "assignee_patent.csv")
+#write.csv(assignee, "assignee.csv")
+#write.csv(inventor_patent, "inventor_patent.csv")
+#write.csv(inventor, "inventor.csv")
