@@ -1,0 +1,22 @@
+Label,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector,pagerank,role_bonding,role_connecting
+Wyeth ,Madison,NJ,external,business,outside,0.043918919,13,0.00622254,2.10E-05,4681.033333,0.107215605,0.44014868,0.008531901,bonding,connecting
+American Home Products Corp.,New York,NY,external,business,outside,0.023648649,7,0.006227122,2.10E-05,4557,0.104374714,0.087991806,0.004960549,bonding,connecting
+Polymer Corporation Limited ,Sarnia,CA,internal,business,within,0.043918919,13,0.006226074,2.10E-05,3686.624237,0.084439401,0.000356951,0.010322708,bonding,connecting
+United Technologies Corp.,Hartford,CT,external,business,outside,0.043918919,13,0.006215876,2.10E-05,2671.7,0.061193312,1.52E-05,0.012655172,bonding,connecting
+Pharmacopeia Inc.,San Diego,CA,external,business,within,0.067567568,20,0.006214049,2.10E-05,2355.64503,0.053954307,1,0.010653531,bonding,connecting
+Bristol-Meyers Squibb Company ,Princeton,NJ,external,business,outside,0.064189189,19,0.00620363,2.10E-05,2169.221071,0.049684404,0.417916065,0.014024435,bonding,connecting
+BASF Corporation ,Florham Park,NJ,external,business,outside,0.027027027,8,0.006223848,2.10E-05,1510.183333,0.034589632,0.001902867,0.00794268,bonding,connecting
+Exxon Research & Engineering Co.,Annandale,NJ,external,business,outside,0.043918919,13,0.006212353,2.10E-05,1241,0.028424187,1.52E-05,0.013520385,bonding,connecting
+Merck Sharp & Dohme ,Rahway,NJ,external,business,outside,0.074324324,22,0.00620337,2.10E-05,1240.421748,0.028410942,0.904458869,0.013151397,bonding,connecting
+Lanxess Inc.,Sarnia,CA,internal,business,within,0.067567568,20,0.006212745,2.10E-05,1053.838462,0.02413739,8.42E-05,0.012392645,bonding,connecting
+Rhodia Inc.,Cranbury,NJ,external,business,outside,0.013513514,4,0.006210007,2.10E-05,928,0.021255153,3.27E-05,0.005218251,NA,connecting
+Mobile Oil Corporation ,Fairfax,VA,external,business,outside,0.02027027,6,0.00620142,2.10E-05,745,0.017063674,2.87E-06,0.006929674,bonding,connecting
+FMC Corporation ,Philadelphia,PA,external,business,outside,0.023648649,7,0.006210007,2.10E-05,720,0.016491067,0.063449068,0.007038409,bonding,connecting
+Scheeing Corporation ,Kenilworth,NJ,external,business,outside,0.047297297,14,0.006211441,2.10E-05,551.7404762,0.012637207,0.824522885,0.007549226,bonding,connecting
+Bayer Inc.,Sarnia,CA,internal,business,within,0.033783784,10,0.00621105,2.10E-05,490.9856532,0.011245663,6.47E-05,0.006329783,bonding,connecting
+Rhodia Chimie ,Billancourt Cedex,FR,external,business,outside,0.013513514,4,0.006176317,2.09E-05,408,0.009344938,2.70E-07,0.006739437,NA,connecting
+"Pharmacopeia Drug Disclovery, Inc.",Princeton,NJ,external,business,outside,0.047297297,14,0.006211571,2.10E-05,402.652381,0.009222455,0.84436217,0.007422919,bonding,connecting
+"UTC Fuel Cells, LLC ",Windsor,CT,internal,business,outside,0.027027027,8,0.006199732,2.09E-05,371.4333333,0.008507406,3.73E-06,0.007895133,bonding,connecting
+ExxonMobil Reasearch and Engineering Company ,Florham Park,NJ,external,business,outside,0.023648649,7,0.006199342,2.09E-05,321,0.007352268,3.17E-06,0.007005774,bonding,connecting
+Bayer Aktiengesellschaft ,Leverkusen,DE,external,business,outside,0.033783784,10,0.006196358,2.09E-05,316.2190476,0.007242763,3.47E-05,0.006588724,bonding,connecting
+International Fuel Cells ,Windsor,CT,internal,business,outside,0.023648649,7,0.006199342,2.09E-05,276.8,0.006339899,3.59E-06,0.00715506,bonding,connecting
