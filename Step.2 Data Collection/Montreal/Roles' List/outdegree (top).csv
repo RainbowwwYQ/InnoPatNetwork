@@ -1,0 +1,24 @@
+Label,internal,external,outdegree,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector
+Merck Frosst Company ,3,87,90,Kirkland,CA,external,business,within,0.061583578,21,0.005033879,1.48E-05,600.1333333,0.005176241,0.690694444
+McGill Univeristy ,17,43,60,Montreal,CA,internal,university,within,0.137829912,47,0.004247104,1.25E-05,4984.85,0.042995084,1
+Universite d'Angers ,24,20,44,Angers,FR,external,university,outside,0.096774194,33,0.004245782,1.25E-05,5501.213889,0.0474488,0.842712978
+Bio-Chem Pharma Inc.,3,33,36,Laval,CA,external,business,within,0.058651026,20,0.005023053,1.47E-05,445.9,0.003845955,0.237280762
+Hydro-Quabac ,2,24,26,Montreal,CA,internal,business,within,0.064516129,22,0.004238131,1.24E-05,1610.955952,0.013894738,0.687713294
+"Ayerst, McKeena & Harrison, Inc.",3,21,24,Montreal,CA,internal,business,within,0.020527859,7,0.003172477,9.30E-06,76,0.000655511,0.007589274
+Merck & Co. Inc.,0,24,24,Kirkland,CA,external,business,within,0.041055718,14,0.005028386,1.47E-05,357.1388889,0.003080377,0.342292607
+Centre National de la Rechecch Scientifique ,4,19,23,Paris,FR,external,public institute,outside,0.046920821,16,0.004242454,1.24E-05,1734.610714,0.014961279,0.481466564
+Merck Sharp & Dohme Corp.,0,23,23,Rahway,NJ,external,business,outside,0.026392962,9,0.005028164,1.47E-05,517.2222222,0.00446112,0.420922045
+ConjuChem Inc.,19,0,19,Montreal,CA,internal,business,within,0.011730205,4,0.003066905,8.99E-06,0,0,0.023321988
+The Royal Institute for the Advancement of Learning/McGill University ,2,17,19,Montreal,CA,internal,university,within,0.055718475,19,0.004242296,1.24E-05,3133.933333,0.027030648,0.629094822
+"Viro Chem Pharma, Inc.",0,19,19,Montreal,CA,internal,business,within,0.005865103,2,0.00301141,8.83E-06,0,0,0.036166414
+Boehringer Ingelheim International GmbH ,0,17,17,Ingelheim am Rhein,DE,external,business,outside,0.029325513,10,0.003123855,9.16E-06,157.8333333,0.001361336,0.186973938
+Bio-Mega Inc.,10,6,16,Laval,CA,external,business,within,0.014662757,5,0.004849329,1.42E-05,0,0,0.058507067
+"Methyl Gene, Inc.",0,16,16,Montreal,CA,internal,business,within,0.032258065,11,0.005030389,1.48E-05,503.1055556,0.004339361,0.437627386
+Bristol-Meyers Company ,0,15,15,New York,NY,external,business,outside,0.026392962,9,0.004241557,1.24E-05,1163.466667,0.010035076,0.378984179
+The Hong Kong Polytechnic University ,0,15,15,Hung Hom,HK,external,university,outside,0.014662757,5,0.004241927,1.24E-05,99,0.00085389,0.366662995
+Valorisation-Recherche L.P.,10,4,14,Montreal,CA,internal,public institute,within,0.020527859,7,0.004241241,1.24E-05,1019.704762,0.008795107,0.265235426
+National Research Coucil of Canada ,1,11,12,Ottawa,CA,external,business,within,0.04398827,15,0.004438717,1.30E-05,638.125,0.005503924,0.030036119
+BHI Limited Partnership ,10,1,11,Laval,CA,external,business,within,0.020527859,7,0.002958529,8.68E-06,50,0.000431258,0.144643976
+"DANA-FARBER CANCER INSTITUTE, INC.",0,11,11,Boston,MA,external,business,outside,0.014662757,5,0.002958529,8.68E-06,43.16666667,0.000372319,0.084239778
+"Gilead Sciences, Inc.",0,11,11,Foster City,CA,external,business,within,0.011730205,4,0.003123254,9.16E-06,17.5,0.00015094,0.100196709
+Shire Biochem Inc.,0,11,11,Laval,CA,external,business,within,0.035190616,12,0.004358329,1.28E-05,195.75,0.001688373,0.1376214
