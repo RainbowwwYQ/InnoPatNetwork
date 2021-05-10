@@ -1,0 +1,22 @@
+Label,internal,external,outdegree,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector
+"Pharmacopeia Drug Disclovery, Inc.",12,140,152,Cranbury,NJ,external,business,outside,0.04379562,12,0.004434016,1.62E-05,463.9333333,0.006202151,0.87452486
+Scheeing Corporation ,9,85,94,Kenilworth,NJ,external,business,outside,0.040145985,11,0.004433944,1.62E-05,422.7333333,0.005651364,0.787491994
+Exxon Research & Engineering Co.,6,30,36,Florham Park,NJ,external,business,outside,0.04379562,12,0.003965956,1.45E-05,185,0.002473196,6.08E-05
+"Pharmaceopeia, Inc.",12,18,30,Cranbury,NJ,external,business,outside,0.018248175,5,0.004451593,1.62E-05,0,0,0.372892387
+Merck Sharp & Dohme ,0,25,25,Rahway,NJ,external,business,outside,0.069343066,19,0.004431864,1.62E-05,786.3333333,0.010512197,0.888733798
+"UTC Fuel Cells, LLC ",22,3,25,Windsor,CT,internal,business,outside,0.02919708,8,0.003830936,1.40E-05,249,0.003328788,2.14E-05
+Polymer Corporation Limited ,14,10,24,Sarnia,CA,internal,business,within,0.047445255,13,0.00421506,1.54E-05,118.5,0.001584182,0.001119553
+Lanxess Inc.,13,7,20,Sarnia,CA,internal,business,within,0.054744526,15,0.003759141,1.37E-05,95.5,0.001276704,0.000317739
+Wyeth ,10,10,20,Madison,NJ,external,business,outside,0.047445255,13,0.004435451,1.62E-05,980.4,0.013106601,0.581210617
+Bayer Aktiengesellschaft ,8,7,15,Leverkusen,DE,external,business,outside,0.032846715,9,0.003759192,1.37E-05,38.5,0.000514692,0.000134358
+"E. R. Squibb & Sons, Inc.",12,3,15,Princeton,NJ,external,business,outside,0.01459854,4,0.004485406,1.64E-05,0,0,0.060986279
+The Carborundum Company ,0,15,15,Niagara Falls,NY,external,business,outside,0.003649635,1,0.003662955,1.34E-05,0,0,0
+Bayer CropScience AG ,0,14,14,Monheim,DE,external,business,outside,0.00729927,2,0.004425279,1.62E-05,0,0,0.022775053
+Bayer Inc.,9,5,14,Sarnia,CA,internal,business,within,0.02919708,8,0.003759192,1.37E-05,34,0.000454533,0.000245226
+Lexicon Pharmaceuticals ,0,14,14,The Woodlands,TX,external,business,outside,0.01459854,4,0.004465304,1.63E-05,1.5,2.01E-05,0.051134422
+Mobile Oil Corporation ,0,14,14,Fairfax,VA,external,business,outside,0.02189781,6,0.004014005,1.46E-05,52,0.000695169,1.49E-05
+United Technologies Corp.,0,14,14,Hartford,CT,external,business,outside,0.047445255,13,0.003830936,1.40E-05,836.5,0.011182856,6.47E-05
+International Fuel Cells ,10,2,12,Windsor,CT,internal,business,outside,0.025547445,7,0.003830668,1.40E-05,75.5,0.001009331,2.04E-05
+JDS Uniphase Corporation ,0,12,12,Milpitas,CA,external,business,within,0.010948905,3,0.003663004,1.34E-05,0,0,0
+MSD OSS B.V.,9,3,12,Oss,NL,external,business,outside,0.025547445,7,0.004431577,1.62E-05,20.83333333,0.000278513,0.496509881
+Rhodia Inc.,0,12,12,Cranbury,NJ,external,business,outside,0.01459854,4,0.003649635,1.33E-05,7,9.36E-05,0.000127515
