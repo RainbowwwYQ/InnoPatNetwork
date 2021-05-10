@@ -1,0 +1,24 @@
+Label,internal,external,indegree,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector
+Merck & Co. Inc.,0,60,60,Kirkland,CA,external,business,within,0.041055718,14,0.005028386,1.47E-05,357.1388889,0.003080377,0.342292607
+McGill Univeristy ,4,37,41,Montreal,CA,internal,university,within,0.137829912,47,0.004247104,1.25E-05,4984.85,0.042995084,1
+The Royal Institute for the Advancement of Learning/McGill University ,8,32,40,Montreal,CA,internal,university,within,0.055718475,19,0.004242296,1.24E-05,3133.933333,0.027030648,0.629094822
+Universite d'Angers ,11,25,36,Angers,FR,external,university,outside,0.096774194,33,0.004245782,1.25E-05,5501.213889,0.0474488,0.842712978
+Vertex Pharmaceuticals ,0,33,33,Boston,MA,external,business,outside,0.038123167,13,0.002993591,8.78E-06,626.3333333,0.00540222,0.255573729
+Centre National de la Rechecch Scientifique ,1,31,32,Paris,FR,external,public institute,outside,0.046920821,16,0.004242454,1.24E-05,1734.610714,0.014961279,0.481466564
+Hydro-Quabac ,8,19,27,Montreal,CA,internal,business,within,0.064516129,22,0.004238131,1.24E-05,1610.955952,0.013894738,0.687713294
+Merck Sharp & Dohme Corp.,0,22,22,Rahway,NJ,external,business,outside,0.026392962,9,0.005028164,1.47E-05,517.2222222,0.00446112,0.420922045
+Boehringer Ingelheim International GmbH ,0,21,21,Ingelheim am Rhein,DE,external,business,outside,0.029325513,10,0.003123855,9.16E-06,157.8333333,0.001361336,0.186973938
+Merck Frosst Company ,5,15,20,Kirkland,CA,external,business,within,0.061583578,21,0.005033879,1.48E-05,600.1333333,0.005176241,0.690694444
+American Home Products Corp.,0,19,19,New York,NY,external,business,outside,0.011730205,4,0.003171739,9.30E-06,26,0.000224254,0.001876887
+"Forum Pharmaceuticals, Inc.",0,18,18,Waltham,MA,external,business,outside,0.008797654,3,0.002923977,8.57E-06,0,0,0.096274229
+Bristol-Meyers Company ,0,16,16,New York,NY,external,business,outside,0.026392962,9,0.004241557,1.24E-05,1163.466667,0.010035076,0.378984179
+The Hong Kong Polytechnic University ,0,16,16,Hong Kong,HK,external,university,outside,0.014662757,5,0.004241927,1.24E-05,99,0.00085389,0.366662995
+Conjuchem Biotechnologies Inc.,15,0,15,Montreal,CA,internal,business,within,0.011730205,4,0.003039134,8.91E-06,7,6.04E-05,0.037477997
+Boehringer Ingelheim ,1,13,14,Burlington,CA,external,business,within,0.023460411,8,0.003123597,9.16E-06,80.83333333,0.0006972,0.140294493
+Bio-Mega Boehringer Ingelheim Research Inc.,10,3,13,Laval,CA,external,business,within,0.017595308,6,0.003123569,9.16E-06,99.83333333,0.000861078,0.062232066
+"Syros Pharmaceuticals, Inc.",0,13,13,Cambridge,MA,external,business,outside,0.011730205,4,0.002923977,8.57E-06,0,0,0.107591098
+University of Montreal ,0,13,13,Montreal,CA,internal,business,within,0.008797654,3,0.002923977,8.57E-06,0,0,0.100650823
+Shire Biochem Inc.,1,11,12,Laval,CA,external,business,within,0.035190616,12,0.004358329,1.28E-05,195.75,0.001688373,0.1376214
+AstraZeneca A.B.,0,11,11,Sodertalje,SE,external,business,outside,0.020527859,7,0.002932551,8.60E-06,26,0.000224254,0.032421063
+National Research Coucil of Canada ,7,4,11,Ottawa,CA,external,business,within,0.04398827,15,0.004438717,1.30E-05,638.125,0.005503924,0.030036119
+PROMETIC PHARMA SMT LIMITED ,0,11,11,Cambridge,GB,external,business,outside,0.014662757,5,0.002923977,8.57E-06,0,0,0.067393798
