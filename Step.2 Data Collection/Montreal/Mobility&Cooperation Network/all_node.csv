@@ -1,0 +1,373 @@
+Label,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector,pagerank
+McGill Univeristy ,Montreal,CA,internal,university,within,0.196891192,76,0.013830664,3.58E-05,23812.08135,0.320464051,1,0.041012788
+Universite d'Angers ,Angers,FR,external,university,within,0.155440415,60,0.01381433,3.58E-05,16540.26088,0.222599568,0.995038338,0.026771989
+Hydro-Quebec ,Montreal,CA,internal,public institute,within,0.093264249,36,0.013758198,3.56E-05,3988.770147,0.053681046,0.791188222,0.015950883
+The Royal Institute for the Advancement of Learning,Montreal,CA,internal,public institute,within,0.082901554,32,0.013755746,3.56E-05,4214.789708,0.056722828,0.604242081,0.016300537
+Centre National de la Rechecch Scientifique ,Paris,FR,external,public institute,outside,0.07253886,28,0.013741056,3.56E-05,1642.328427,0.022102529,0.719564701,0.011236147
+Merck Frosst Company ,Kirkland,CA,external,business,within,0.062176166,24,0.013736655,3.56E-05,4933.081238,0.066389627,0.318531278,0.011273174
+Bio-Chem Pharma Inc.,Laval,CA,external,business,within,0.051813472,20,0.013709821,3.55E-05,4283.445704,0.057646803,0.045769188,0.010403662
+National Research Coucil of Canada ,Toronto,CA,external,business,within,0.049222798,19,0.013657915,3.54E-05,5656.437678,0.07612459,0.017362858,0.013773473
+Merck & Co. Inc.,Rahway,NJ,external,business,outside,0.046632124,18,0.013742034,3.56E-05,3610.860414,0.04859512,0.210818139,0.009197626
+Institut de Cardiologie de Montreal ,Montreal,CA,internal,public institute,within,0.041450777,16,0.013724444,3.56E-05,3331.5423,0.044836045,0.09217046,0.009412764
+Bristol-Meyers Company ,Princeton,NJ,external,business,outside,0.033678756,13,0.01371323,3.55E-05,902.6587544,0.012148022,0.343454517,0.005691589
+Vertex Pharmaceuticals ,Boston,MA,external,business,within,0.033678756,13,0.0136894,3.55E-05,1678.168651,0.022584868,0.061618517,0.00679543
+"Methyl Gene, Inc.",Montreal,CA,internal,business,within,0.033678756,13,0.013759179,3.56E-05,1790.932761,0.024102453,0.221311214,0.006535708
+Shire Biochem Inc.,Montreal,CA,internal,business,within,0.033678756,13,0.013653567,3.54E-05,1910.548855,0.025712252,0.023356962,0.007014967
+Valorisation-Recherche L.P.,Montreal,CA,internal,public institute,within,0.033678756,13,0.013699116,3.55E-05,1495.703308,0.020129242,0.282189404,0.006157586
+Merck Sharp & Dohme Corp.,Rahway,NJ,external,business,outside,0.028497409,11,0.013721517,3.55E-05,1195.32156,0.016086691,0.177055155,0.00508066
+Theratechnologies Inc.,Saint Laurent,CA,external,business,within,0.028497409,11,0.0136894,3.55E-05,1697.702987,0.022847762,0.171931131,0.005999747
+ACEP Inc ,Montreal,CA,internal,business,within,0.025906736,10,0.013672428,3.54E-05,71.12989904,0.000957269,0.297363752,0.004008938
+Boehringer Ingelheim International GmbH ,Ingelheim am Rhein,DE,external,business,outside,0.025906736,10,0.013647774,3.54E-05,1049.703098,0.014126951,0.037914663,0.004953136
+"RSEM, Limited Partnership ",Montreal,CA,internal,business,within,0.025906736,10,0.01371323,3.55E-05,631.0464362,0.008492651,0.140567773,0.004926178
+"TaiMed Biologics, Inc.",Taipei,TW,external,business,outside,0.025906736,10,0.013749866,3.56E-05,3061.254999,0.041198506,0.173425385,0.005153902
+Gemin X Biotechnologies ,Montreal,CA,internal,business,within,0.023316062,9,0.013719566,3.55E-05,1571.894492,0.021154626,0.116796468,0.004620231
+Institut National de la Sante et de la Recherche Medicale ,Paris,FR,external,public institute,outside,0.023316062,9,0.013728349,3.56E-05,534.3231119,0.007190944,0.248442333,0.004127525
+The Hong Kong Polytechnic University ,Kowloon,HK,external,university,outside,0.023316062,9,0.01369377,3.55E-05,8.513429463,0.000114574,0.365462353,0.004360128
+The Regents of the University of California ,Oakland,CA,external,university,within,0.023316062,9,0.013735677,3.56E-05,1021.451812,0.013746744,0.200462155,0.004959822
+Boehringer Ingelheim ,Burlington,CA,external,business,within,0.020725389,8,0.013627538,3.53E-05,1325.972194,0.017844993,0.030752025,0.004302231
+Johnson Matthey Public Limited Company ,London,GB,external,business,outside,0.020725389,8,0.013670492,3.54E-05,70.28420947,0.000945888,0.235675951,0.003363711
+Institute of Organic Chemistry National Academy of Sciences of Ukraine ,Kyiv,UA,external,public institute,outside,0.020725389,8,0.013671944,3.54E-05,2.501552557,3.37E-05,0.345893382,0.00330234
+Alcan Internatinal Limited ,Montreal,CA,internal,business,within,0.018134715,7,0.013353167,3.46E-05,1874,0.025220375,7.84E-05,0.007308932
+AstraZeneca A.B.,Sodertalje,SE,external,business,outside,0.018134715,7,0.01360832,3.53E-05,1889.689877,0.025431531,0.004662694,0.005070572
+"Ayerst, McKeena & Harrison, Inc.",Montreal,CA,internal,business,within,0.018134715,7,0.013405105,3.47E-05,2178.5,0.02931835,0.000581389,0.005531847
+BHI Limited Partnership ,Laval,CA,external,business,within,0.018134715,7,0.013643433,3.53E-05,448.7976764,0.006039939,0.029522045,0.003729423
+Centre Hospitalier de l'Universite de Montreal ,Lausanne,CH,external,university,outside,0.018134715,7,0.013664201,3.54E-05,628,0.008451652,0.096994446,0.00344558
+Phostech Lithium Inc.,Boucherville,CA,external,business,within,0.018134715,7,0.013665652,3.54E-05,3.168196509,4.26E-05,0.28446174,0.00295687
+Bathium Canada Inc.,Boucherville,CA,external,business,within,0.018134715,7,0.013592028,3.52E-05,2.706291747,3.64E-05,0.146011863,0.002856975
+Kong; Xianqi ,Dollard-des-Ormeaux,CA,external,individual,within,0.018134715,7,0.013598253,3.52E-05,291.0791042,0.003917356,0.012631062,0.003634509
+"Polyvalor, Limited Partnership ",Montreal,CA,internal,business,within,0.018134715,7,0.013349011,3.46E-05,2961,0.03984927,3.25E-05,0.006819219
+Val-Chum Limited Partnership ,Montreal,CA,internal,business,within,0.010362694,7,0.01351446,3.50E-05,315,0.004239284,0.013669652,0.002432623
+"Valorisation HSJ, Limited Partnership ",Montreal,CA,internal,business,within,0.018134715,7,0.01367485,3.54E-05,693.2393678,0.009329646,0.122677178,0.003601946
+Adaerata Limited Partnership ,Montreal,CA,internal,business,within,0.015544041,6,0.013727373,3.56E-05,2062.185282,0.027752981,0.103874752,0.003300268
+Bio-Mega Boehringer Ingelheim Research Inc.,Laval,CA,external,business,within,0.015544041,6,0.013546712,3.51E-05,2494.999349,0.033577812,0.008064922,0.003444538
+Centre de la Recherche Scientifique ,Paris,FR,external,public institute,within,0.015544041,6,0.013666136,3.54E-05,42.27067435,0.000568881,0.175752377,0.002551909
+CNRS ,Paris,FR,external,business,outside,0.015544041,6,0.013670976,3.54E-05,14.13188654,0.000190188,0.293013321,0.00260827
+"Cytovia, Inc.",San Diego,CA,external,business,within,0.015544041,6,0.013636685,3.53E-05,317.038442,0.004266717,0.015917279,0.003231094
+Gemin X Pharmaceuticals Canada inc.,Montreal,CA,internal,business,within,0.015544041,6,0.013638612,3.53E-05,116.8129973,0.001572075,0.035807123,0.003198693
+Hopital Maisonneuve-Rosemont ,Montreal,CA,internal,public institute,within,0.015544041,6,0.013672913,3.54E-05,222.2232091,0.00299069,0.159179952,0.003012859
+Hopital Sainte-Justine ,Montreal,CA,internal,public institute,within,0.015544041,6,0.013686973,3.55E-05,1990.20564,0.026784276,0.152591329,0.004024912
+"Isis Pharmaceuticals, Inc.",Carlsbad,CA,external,business,within,0.015544041,6,0.013715666,3.55E-05,1000.2409,0.013461287,0.180963659,0.003250973
+Kiadis Pharma Canada Inc.,Amsterdam,NL,external,business,outside,0.015544041,6,0.013671944,3.54E-05,718.8500305,0.009674316,0.099305076,0.003380273
+"Tetraphase Pharmaceuticals, Inc.",Montreal,CA,internal,business,within,0.015544041,6,0.013625613,3.53E-05,397.4689187,0.005349154,0.015647412,0.003526183
+The Sir Mortimer B.,Montreal,CA,internal,business,within,0.015544041,6,0.002610966,6.76E-06,0.8,1.08E-05,0,0.003412084
+University of South Florida ,Tampa,FL,external,university,outside,0.015544041,6,0.01369377,3.55E-05,5.675619642,7.64E-05,0.177851438,0.002998625
+ACADEMISCH ZIKENHUIS LEIDEN ,Leiden,NL,external,public institute,outside,0.012953368,5,0.013663233,3.54E-05,0,0,0.095226936,0.002418895
+Angiochem Inc.,Montreal,CA,internal,business,within,0.012953368,5,0.013610239,3.53E-05,415.5371521,0.005592318,0.022038118,0.003209708
+ARIZONA BOARD OF REGENTS ,Phoenix,AZ,external,business,outside,0.012953368,5,0.013663233,3.54E-05,0,0,0.095226936,0.002418895
+Bio-Mega Inc.,Laval,CA,external,business,within,0.012953368,5,0.013625613,3.53E-05,984.383616,0.013247879,0.011813826,0.002889098
+Clariant ,Lachine,CA,external,business,within,0.012953368,5,0.013616481,3.53E-05,3.90017647,5.25E-05,0.151057589,0.00217913
+British Columbia Cancer Agency Branch ,Vancouver,CA,external,business,within,0.012953368,5,0.013632832,3.53E-05,53.04710161,0.00071391,0.049156902,0.002591193
+Canadian Industries Limited ,Montreal,CA,internal,business,within,0.012953368,5,0.013074995,3.39E-05,1253,0.01686293,3.30E-07,0.005260192
+Canadian Patent and Development Ltd.,Ottawa,CA,external,business,within,0.012953368,5,0.013712743,3.55E-05,1759.736717,0.023682615,0.076763669,0.003770817
+CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS ,Madrid,ES,external,business,outside,0.012953368,5,0.013663233,3.54E-05,0,0,0.095226936,0.002418895
+Corporation de I'Ecole Polytechnique ,Montreal,CA,internal,business,within,0.012953368,5,0.013212391,3.42E-05,1766,0.023766907,4.68E-06,0.004697685
+"DANA-FARBER CANCER INSTITUTE, INC.",Boston,MA,external,business,outside,0.012953368,5,0.013589635,3.52E-05,68.20562971,0.000917914,0.01068203,0.002606938
+DNA Landmarks Inc.,Montreal,CA,internal,business,within,0.012953368,5,0.013683091,3.54E-05,315,0.004239284,0.162042698,0.003078666
+"E. R. Squibb & Sons, Inc.",Princeton,NJ,external,business,outside,0.012953368,5,0.013590114,3.52E-05,0,0,0.141947023,0.00223367
+FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.,Munich,DE,external,business,outside,0.012953368,5,0.013606401,3.52E-05,0,0,0.183915211,0.002342174
+Enobia Pharma ,Montreal,CA,internal,business,within,0.012953368,5,0.013665168,3.54E-05,694.0367999,0.009340378,0.078035301,0.003422329
+Merk Frosst Canada & Co.,Kirkland,CA,external,business,within,0.012953368,5,0.013649705,3.54E-05,35.81780086,0.000482038,0.100419337,0.002472939
+Nova Molecular Inc.,Montreal,CA,internal,business,within,0.012953368,5,0.013682606,3.54E-05,1077.001991,0.014494341,0.075881247,0.003540615
+Pharmacor Inc.,Laval,CA,external,business,within,0.012953368,5,0.013656949,3.54E-05,211.8299509,0.002850817,0.024830557,0.002706937
+Pharmascience Inc.,Montreal,CA,internal,business,within,0.012953368,5,0.01361408,3.53E-05,152.6227153,0.002054003,0.027948121,0.002746212
+PROMETIC PHARMA SMT LIMITED ,Cambridge,GB,external,business,outside,0.012953368,5,0.01363813,3.53E-05,2574.442733,0.034646965,0.015714148,0.003073141
+Queen's University at Kingston ,Kingston,CA,external,university,within,0.012953368,5,0.002610948,6.76E-06,0.4,5.38E-06,0,0.00287069
+SANOFI PASTEUR LIMITED ,Toronto,CA,external,business,within,0.012953368,5,0.013663233,3.54E-05,0,0,0.095226936,0.002418895
+SHOWA DENKO K.K.,Tokyo,JP,external,business,outside,0.012953368,5,0.013695228,3.55E-05,0.333333333,4.49E-06,0.198999792,0.00248227
+Targanta Therapeutics ,St. Laurent,CA,external,business,within,0.012953368,5,0.01367146,3.54E-05,381.6076525,0.005135693,0.073484157,0.002956728
+Universita Degli Studi di Milano ,Montreal,CA,internal,university,within,0.012953368,5,0.013695714,3.55E-05,54.29277366,0.000730675,0.159129564,0.002451102
+Universite Louis Pasteur ,Paris,FR,external,university,outside,0.012953368,5,0.013627056,3.53E-05,5.068631092,6.82E-05,0.117631159,0.002260204
+"Valorisation HSJ, Societe en Commandite ",Montreal,CA,internal,business,within,0.012953368,5,0.013564325,3.51E-05,64.57252747,0.00086902,0.035874397,0.002820998
+"Valorisation-Recherche, Societe en Commandite ",Montreal,CA,internal,business,within,0.012953368,5,0.013585809,3.52E-05,60.24333006,0.000810757,0.02980548,0.002815235
+Aegera Therapeutics Inc.,Montreal,CA,internal,business,within,0.010362694,4,0.013575775,3.52E-05,116.8649812,0.001572774,0.007420271,0.002404183
+Ambrilia Biopharma Inc.,Verdun,CA,external,business,within,0.010362694,4,0.013698144,3.55E-05,65.84660552,0.000886167,0.094809988,0.002182635
+American Home Products Corp.,New York,NY,external,business,outside,0.010362694,4,0.013260959,3.44E-05,0.5,6.73E-06,8.68E-05,0.003211556
+"Biosyntech Canada, Inc.",Laval,CA,external,business,within,0.010362694,4,0.002610966,6.76E-06,5,6.73E-05,0,0.004988858
+Biochem Therapeutics Incorporated ,Montreal,CA,internal,business,within,0.010362694,4,0.01363235,3.53E-05,135.3440929,0.001821467,0.032776432,0.002104882
+Celmed Biosciences Inc.,Saint-Laurent,CA,external,business,within,0.010362694,4,0.013534836,3.51E-05,14.66944444,0.000197422,0.023859445,0.002487635
+Noranda Inc.,Toronto,CA,external,business,within,0.010362694,4,0.013694742,3.55E-05,628,0.008451652,0.11203446,0.002700579
+Complexe Hospitalier de la Sagamie ,Chicoutimi,CA,external,business,within,0.010362694,4,0.013680666,3.54E-05,2.666666667,3.59E-05,0.154300817,0.002456732
+Conjuchem Biotechnologies Inc.,Montreal,CA,internal,business,within,0.010362694,4,0.013584853,3.52E-05,195.816628,0.002635309,0.015182682,0.002518643
+ConjuChem Inc.,Montreal,CA,internal,business,within,0.010362694,4,0.013551943,3.51E-05,629,0.00846511,0.013057991,0.003202098
+CONSORZIO INTERUNIVERSITARIO NAZIONALE PER LA SCIENZA E TECNOLOGIA DEI MATERIALI INSTM ,Florence,IT,external,university,outside,0.010362694,4,0.01361552,3.53E-05,2.98998295,4.02E-05,0.128133652,0.001920169
+"Cornell Research Foundation, Inc.",Ithaca,NY,external,business,outside,0.010362694,4,0.013626094,3.53E-05,379.7880023,0.005111204,0.0162415,0.002388689
+Delmar Chemicals ,Montreal,CA,internal,business,within,0.010362694,4,0.013647292,3.54E-05,253.8580406,0.003416433,0.020311426,0.002215889
+"Tranzyme Pharma, Inc.",Sherbrooke,CA,external,business,within,0.010362694,4,0.013579118,3.52E-05,411.475033,0.005537649,0.005688733,0.003015146
+Ecopia Biosciences Inc.,Saint-Laurent,CA,external,business,within,0.010362694,4,0.013571956,3.52E-05,315,0.004239284,0.01028514,0.002626996
+Ecole Polytechnique ,Montreal,CA,internal,business,within,0.010362694,4,0.013619363,3.53E-05,4935.540598,0.066422725,0.006509708,0.003102967
+"Forum Pharmaceuticals, Inc.",Waltham,MA,external,business,outside,0.010362694,4,0.013629944,3.53E-05,7.911147186,0.000106469,0.04424746,0.002123104
+"Gilead Sciences, Inc.",Foster City,CA,external,business,within,0.010362694,4,0.01361456,3.53E-05,118.063116,0.001588899,0.028005734,0.002151909
+Humphries; Keith ,Oakland,CA,external,individual,within,0.010362694,4,0.013627056,3.53E-05,56.54435666,0.000760976,0.025374839,0.002295998
+Ibex Technologies ,Montreal,CA,internal,business,within,0.010362694,4,0.013530566,3.51E-05,380.0145958,0.005114253,0.00867068,0.002882583
+Labopharm Europe Limited ,Dublin,IE,external,business,outside,0.010362694,4,0.013670007,3.54E-05,390.0106213,0.00524878,0.071416997,0.00230895
+"Nuvelo, Inc.",Sunnyvale,CA,external,business,within,0.010362694,4,0.013681151,3.54E-05,569.6990257,0.007667035,0.07548252,0.002960408
+Osta Biotechnologies ,Dollard-des-Ormeaux,CA,external,business,within,0.010362694,4,0.002610948,6.76E-06,0.4,5.38E-06,0,0.002380112
+Pulp and Paper Research Institute of Canada ,Pointe Claire,CA,external,public institute,within,0.010362694,4,0.0137069,3.55E-05,4287.828525,0.057705787,0.070981324,0.002806979
+Royal Institute for the Advancement of Learning ,Montreal,CA,internal,public institute,within,0.010362694,4,0.013700089,3.55E-05,139.0962312,0.001871963,0.118530758,0.002296218
+Schipper; Hyman M.,Montreal,CA,internal,individual,within,0.010362694,4,0.002610948,6.76E-06,0.2,2.69E-06,0,0.002375473
+Societe Nationale Elf Aquitaine ,Courbevoie,FR,external,public institute,outside,0.010362694,4,0.013668555,3.54E-05,0,0,0.202057729,0.001870977
+"Syros Pharmaceuticals, Inc.",Cambridge,MA,external,business,outside,0.010362694,4,0.013613599,3.53E-05,114.9118237,0.001546488,0.028707319,0.002174012
+"The United States of America, as represented by the Department of Health ",Washington,DC,external,public institute,outside,0.010362694,4,0.013670007,3.54E-05,295.1187864,0.003971722,0.104270473,0.002347656
+Astra AB ,Sodertalje,SE,external,business,outside,0.010362694,4,0.013580073,3.52E-05,627.8808999,0.008450049,0.004866846,0.002629788
+University of Montreal ,Montreal,CA,internal,university,within,0.010362694,4,0.013673397,3.54E-05,224.2160661,0.00301751,0.073335899,0.002376397
+"Variagenics, Inc.",Cambridge,MA,external,business,outside,0.010362694,4,0.013534836,3.51E-05,214.1499625,0.00288204,0.010958986,0.003049551
+Wayne State University ,Tampa,FL,external,university,outside,0.010362694,4,0.013677273,3.54E-05,0,0,0.118966156,0.002107693
+American Diagnostica Inc.,Greenwich,CT,external,business,outside,0.007772021,3,0.013679212,3.54E-05,939,0.012637104,0.070472779,0.002399711
+"Amicus Therapeutics, Inc.",Cranbury,NJ,external,business,outside,0.007772021,3,0.013664201,3.54E-05,0,0,0.187289178,0.001487234
+"Axys Pharmaceuticals, Inc.",South San Francisco,CA,external,business,within,0.007772021,3,0.013642951,3.53E-05,0,0,0.058605127,0.001620446
+"Bioartificial Gel Technologies Inc, ",Montreal,CA,internal,business,within,0.007772021,3,0.013516826,3.50E-05,315,0.004239284,0.005188811,0.002781938
+Chertkow; Howard ,CA,CA,external,individual,within,0.007772021,3,0.002610948,6.76E-06,0.2,2.69E-06,0,0.001881537
+"Board of Regents, The University of Texas System ",Austin,TX,external,university,outside,0.007772021,3,0.013607361,3.53E-05,1.383131313,1.86E-05,0.087388141,0.001466495
+Canada Packers Limited ,Toronto,CA,external,business,within,0.007772021,3,0.002597403,6.73E-06,0,0,0,0.002869224
+"Dai-Ichi Kogyo Seiyaku Co., Ltd.",Kyoto,JP,external,business,outside,0.007772021,3,0.01361456,3.53E-05,0,0,0.159109123,0.00148193
+Eastern Virginia Medical School of the Medical College of Hampton Roads ,Norfolk,VA,external,business,outside,0.007772021,3,0.013676788,3.54E-05,0,0,0.143703144,0.001892558
+Elitra Pharmaceuticals Inc.,San Diego,CA,external,business,within,0.007772021,3,0.01369377,3.55E-05,9.756565657,0.000131304,0.082618206,0.001975278
+EnVivo Pharmaceuticals ,Watertown,MA,external,business,outside,0.007772021,3,0.013621767,3.53E-05,67.44746025,0.000907711,0.020480861,0.001723203
+Florida Institute of Technology ,Melbourne,FL,external,public institute,outside,0.007772021,3,0.013612639,3.53E-05,37.35365613,0.000502707,0.084942876,0.001822321
+FPINNOVATION ,Pointe-Claire,CA,external,business,within,0.007772021,3,0.013579595,3.52E-05,315,0.004239284,0.005381857,0.002598794
+"Gas Metropolitain and Company, Limited ",Montreal,CA,internal,business,within,0.007772021,3,0.013209678,3.42E-05,315,0.004239284,2.58E-06,0.003087212
+GERMAN CANCER RESEARCH CENTER ,DKFZ,DKFZ,external,public institute,outside,0.007772021,3,0.013603524,3.52E-05,0,0,0.089732118,0.001749158
+Hong Kong Polytechnic University ,Hong Kong,CN,external,university,outside,0.007772021,3,0.013693285,3.55E-05,0,0,0.119117854,0.001785036
+H&ocirc ;pital Sainte-Justine ,Montreal,CA,internal,individual,within,0.007772021,3,0.013539584,3.51E-05,1251,0.016836014,0.01064904,0.003043668
+Her Majesty the Queen in the Right of Canada as Represented by the Minister of Agriculture and Agri-Food Soils and Crops Research and Dev ,Montreal,CA,internal,public institute,within,0.007772021,3,0.013682606,3.54E-05,0,0,0.096667684,0.001845989
+Hospital Sainte-Justine ,Montreal,CA,internal,public institute,within,0.007772021,3,0.013617442,3.53E-05,104.5473839,0.001407003,0.032146825,0.001840135
+Institut Pasteur ,Lille,FR,external,public institute,outside,0.007772021,3,0.013542909,3.51E-05,133.8853942,0.001801836,0.00606204,0.002384709
+Kotinos Pharmaceuticals Inc.,New York,NY,external,business,outside,0.007772021,3,0.013560513,3.51E-05,48.11858974,0.000647582,0.004251372,0.002019729
+Labopharm ,Laval,CA,external,business,within,0.007772021,3,0.013557179,3.51E-05,9.952964519,0.000133947,0.011276537,0.001839777
+Institut National de la Recherche Scientifique ,Montreal,CA,internal,public institute,within,0.007772021,3,0.01361552,3.53E-05,444.2661379,0.005978953,0.013941673,0.002003885
+Massachusetts Institute of Technology ,Cambridge,MA,external,public institute,outside,0.007772021,3,0.013679697,3.54E-05,460.7855294,0.006201272,0.070495271,0.002313192
+La Corporation de l'Ecole Polytechnique ,Montreal,CA,internal,business,within,0.007772021,3,0.013662266,3.54E-05,0,0,0.104728277,0.00148331
+Martin R&F Inc.,Montreal,CA,internal,business,within,0.007772021,3,0.013665168,3.54E-05,1555,0.020927259,0.069495752,0.002298688
+MSD Italia S.R.L.,Rome,IT,external,business,outside,0.007772021,3,0.013628981,3.53E-05,1.837835775,2.47E-05,0.034475841,0.001627928
+MURATA MANUFACTURING CO.,Kyoto,JP,external,business,outside,0.007772021,3,0.013694742,3.55E-05,0,0,0.137560889,0.001644897
+Mimetogen Pharmaceuticals Inc.,Montreal,CA,internal,business,within,0.007772021,3,0.013505003,3.50E-05,629,0.00846511,0.001629997,0.002903889
+Nortel Networks Corporation ,Montreal,CA,internal,business,within,0.007772021,3,0.002597403,6.73E-06,0,0,0,0.002869224
+"Ocera Therapeutics, Inc.",Palo Alto,CA,external,business,within,0.007772021,3,0.013681636,3.54E-05,820.0118199,0.011035756,0.069846439,0.002392714
+Odyssey Thera Inc.,San Ramon,CA,external,business,within,0.007772021,3,0.013604004,3.52E-05,559.6142209,0.007531313,0.020804309,0.002286517
+ORBITE TECHNOLOGIES INC.,St-Laurent,CA,external,business,within,0.007772021,3,0.013509257,3.50E-05,629,0.00846511,0.001211691,0.003207768
+"Paladin Labs, Inc.",Montreal,CA,internal,business,within,0.007772021,3,0.013693285,3.55E-05,0,0,0.119117854,0.001785036
+Pence ,Edmonton,CA,external,business,within,0.007772021,3,0.013677273,3.54E-05,315,0.004239284,0.138902698,0.002152947
+"Phagetech, Inc.",Montreal,CA,internal,business,within,0.007772021,3,0.01357864,3.52E-05,8.333333333,0.00011215,0.015030984,0.002048289
+Polyvalor Societe en Commandite ,Montreal,CA,internal,business,within,0.007772021,3,0.013483774,3.49E-05,4517.333333,0.060794473,0.00045439,0.002704874
+Prometic Biosciences Inc.,Laval,CA,external,business,within,0.007772021,3,0.013571479,3.52E-05,208.6163638,0.002807568,0.004642903,0.001992905
+"Quebepharma Recherche, Inc.",Montreal,CA,internal,business,within,0.007772021,3,0.013530092,3.51E-05,628,0.008451652,0.009789085,0.002741327
+Queen's University ,Kingston,CA,external,university,within,0.007772021,3,0.002597403,6.73E-06,0,0,0,0.002869224
+Sauvageau; Guy ,Oakland,CA,external,individual,within,0.007772021,3,0.01361552,3.53E-05,4.388888889,5.91E-05,0.025325731,0.001762649
+The Institute of Microbiology and Hygiene of the University of Montreal ,Ville Laval,CA,external,university,within,0.007772021,3,0.002597403,6.73E-06,0,0,0,0.002869224
+The Trustees of the University of Pennsylvania ,Philadelphia,PA,external,university,outside,0.007772021,3,0.013576252,3.52E-05,0,0,0.010491063,0.00184483
+UNIVERSITATSKLINIKUM HEIDELBERG ,Heidelberg,DE,external,university,outside,0.007772021,3,0.013603524,3.52E-05,0,0,0.089732118,0.001749158
+Universite Laval ,Laval,CA,external,university,within,0.007772021,3,0.013707873,3.55E-05,706.3891467,0.009506617,0.073208939,0.001758112
+Universite Pierre Et Marie Curie ,Paris,,external,university,outside,0.007772021,3,0.013527247,3.50E-05,315,0.004239284,0.011011621,0.002152364
+Valorbec S.E.C.,Montreal,CA,internal,business,within,0.007772021,3,0.013508784,3.50E-05,315,0.004239284,0.001295442,0.002755134
+Xerox Corporation ,Norwalk,CT,external,business,outside,0.007772021,3,0.013600648,3.52E-05,44.87234432,0.000603894,0.015044085,0.001994049
+Abbott Laboratories ,Abbott Park,IL,external,public institute,outside,0.005181347,2,0.01351304,3.50E-05,35.93055556,0.000483555,0.001192537,0.001664407
+"Achaogen, Inc.",South San Francisco,CA,external,business,within,0.005181347,2,0.01357673,3.52E-05,166.3547241,0.002238809,0.012590553,0.001555524
+Actelion Pharmaceuticals Ltd.,Allschwil,CH,external,business,outside,0.005181347,2,0.013610719,3.53E-05,5.519491709,7.43E-05,0.018830698,0.001266246
+Aenorasis SA Pharmaceuticals and Medical Devices ,Athens,GR,external,business,outside,0.005181347,2,0.013559084,3.51E-05,0,0,0.003457398,0.001402009
+Alethia Biotherapeutics Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013507366,3.50E-05,0,0,0.002400226,0.00161996
+Beta Pharma Canada Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013590592,3.52E-05,315,0.004239284,0.014641604,0.001802562
+Bioaxone Therapeutique Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013665652,3.54E-05,0,0,0.080660398,0.001230484
+Biochem Immunosystems Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013559084,3.51E-05,39.01442654,0.000525058,0.003290856,0.001451614
+Bioniche Life Sciences Inc.,Belleville,CA,external,business,within,0.005181347,2,0.002597403,6.73E-06,0,0,0,0.002583979
+"Bionicrie Life Sciences, Inc.",Belleville,CA,external,business,within,0.005181347,2,0.002597403,6.73E-06,0,0,0,0.002583979
+BL Technology Limited ,London,GB2,external,business,outside,0.005181347,2,0.013209226,3.42E-05,0,0,1.08E-05,0.002162623
+BRAV METAL TECHNOLOGIES INC.,Montreal,CA,internal,business,within,0.005181347,2,0.01354386,3.51E-05,0,0,0.00831876,0.001672122
+C-I-L Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.012937391,3.35E-05,0,0,2.45E-08,0.002229269
+Cancer Care Ontario ,Toronto,CA,external,business,within,0.005181347,2,0.013676788,3.54E-05,0,0,0.079784747,0.001368348
+"Caprion Pharmaceuticals, Inc.",Saint Laurent,CA,external,business,within,0.005181347,2,0.013370281,3.46E-05,0,0,0.000387275,0.001967308
+Centre de Recherche de l'Hopital Ste-Justine ,Montreal,CA,internal,public institute,within,0.005181347,2,0.002597403,6.73E-06,1,1.35E-05,0,0.003771213
+Universite de Montreal ,Montreal,CA,internal,university,within,0.005181347,2,0.013507366,3.50E-05,0,0,0.002400226,0.00161996
+"CERESTECH, INC.",Montreal,CA,internal,business,within,0.005181347,2,0.013072338,3.39E-05,3.333333333,4.49E-05,4.81E-07,0.002078233
+Chaichem Pharmaceuticals International ,Laval,CA,external,business,within,0.005181347,2,0.013393477,3.47E-05,628,0.008451652,0.000739607,0.002408002
+"Chemetics International Company, Ltd.",Montreal,CA,internal,business,within,0.005181347,2,0.012937391,3.35E-05,0,0,2.45E-08,0.002229269
+Clinical Research Institute of Montreal ,Montreal,CA,internal,public institute,within,0.005181347,2,0.013630425,3.53E-05,8.077791986,0.000108711,0.013550556,0.001355188
+Conseil National de Recherches Canada ,Ottawa,CA,external,business,within,0.005181347,2,0.013508311,3.50E-05,0,0,0.001289653,0.0017844
+"Synergistics Industries, Inc.",Missisauga,CA,external,business,within,0.005181347,2,0.013692799,3.55E-05,0,0,0.110884482,0.001279276
+"Exelixis Pharmaceuticals, Inc.",South San Francisco,CA,external,business,within,0.005181347,2,0.013583418,3.52E-05,0,0,0.027711706,0.001324452
+Enerkem Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013677273,3.54E-05,315,0.004239284,0.069451349,0.001840704
+ExxonMobil Chemical Patents Inc.,Baytown,TX,external,business,outside,0.005181347,2,0.013344396,3.46E-05,1006.666667,0.013547765,3.17E-05,0.001952584
+Glaxo Wellcome Inc.,Research Triangle Park,NC,external,business,outside,0.005181347,2,0.013504058,3.50E-05,6.583333333,8.86E-05,0.001841885,0.001463204
+M. S. & D. ,Kirkland,CA,external,business,outside,0.005181347,2,0.013596337,3.52E-05,21.67492595,0.000291702,0.020442867,0.001338253
+Her Majesty the Queen in Right of Canada as represented by the National ,Ottawa,CA,external,public institute,within,0.005181347,2,0.013541009,3.51E-05,0,0,0.001522396,0.001619491
+"Her Majesty the Queen in right of Canada, as represented by the Minister ",Ottawa,CA,external,public institute,within,0.005181347,2,0.013611679,3.53E-05,0,0,0.071034392,0.001240538
+Bioniche Urology IP Inc.,CA,CA,external,business,within,0.005181347,2,0.002597403,6.73E-06,0,0,1.52E-18,0.002583979
+Haemacure Biotech Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.01324958,3.43E-05,315,0.004239284,5.14E-05,0.002724783
+HT Materials Corporation ,Clifton Park,NY,external,business,outside,0.005181347,2,0.013551467,3.51E-05,63.24260041,0.000851122,0.004106505,0.001650679
+"Hybridon, Inc.",Milford,MA,external,business,outside,0.005181347,2,0.013676304,3.54E-05,0,0,0.138239089,0.001304988
+ID Biomedical Corporation of Quebec ,Laval,CA,external,business,within,0.005181347,2,0.013484245,3.49E-05,43.92976449,0.000591209,0.001680855,0.001499688
+Imperial Cancer Research Technology ,London,GB,external,public institute,outside,0.005181347,2,0.013676788,3.54E-05,0,0,0.074251795,0.001471813
+Imperial Chemical Industries PLC ,London,GB3,external,business,outside,0.005181347,2,0.01326187,3.44E-05,628,0.008451652,4.04E-05,0.002142187
+Biosystemix Ltd.,Sydenham,CA,external,business,within,0.005181347,2,0.013660332,3.54E-05,0,0,0.137553193,0.001146137
+Institute Pasteur ,Paris,FR,external,public institute,outside,0.005181347,2,0.013469188,3.49E-05,32.76579992,0.000440964,0.000863476,0.001758067
+International Center for Genetic Engineering and Biotechnology ,Trieste,IT,external,public institute,outside,0.005181347,2,0.013676788,3.54E-05,0,0,0.074251795,0.001471813
+Johns Hopkins University ,Baltimore,MD,external,university,outside,0.005181347,2,0.013589635,3.52E-05,0,0,0.029143307,0.001256262
+L'Institut Armand-Frappier ,Laval,CA,external,public institute,within,0.005181347,2,0.002597403,6.73E-06,0,0,0,0.00201349
+"IAF BioChem International, Inc.",Montreal,CA,internal,business,within,0.005181347,2,0.013567186,3.51E-05,0,0,0.004777968,0.001288423
+Institut Armand Frappier ,Montreal,CA,internal,public institute,within,0.005181347,2,0.013120772,3.40E-05,315,0.004239284,2.80E-06,0.00254792
+Johnson & Johnson ,Montreal,CA,internal,business,within,0.005181347,2,0.01321013,3.42E-05,315,0.004239284,5.45E-06,0.002512043
+L'Institut de Recherches Cliniques de Montreal ,Montreal,CA,internal,public institute,within,0.005181347,2,0.013577207,3.52E-05,216.4656501,0.002913204,0.006430463,0.001634828
+Micrologix Biotech Inc.,Vancouver,CA,external,business,within,0.005181347,2,0.013677273,3.54E-05,315,0.004239284,0.069451349,0.001840704
+Milestone Pharmaceuticals ,Saint-Laurent,CA,external,business,within,0.005181347,2,0.01360784,3.53E-05,0,0,0.014462056,0.001278827
+LCB Pharma Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013642468,3.53E-05,78.80183927,0.001060519,0.020942434,0.001321982
+Martinex R & D Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013676304,3.54E-05,0,0,0.138239089,0.001304988
+Montedison S.p.A.,Milan,IT,external,business,outside,0.005181347,2,0.013445261,3.48E-05,939,0.012637104,0.00281173,0.002042516
+MOUNT SINAI HOSPITAL ,Toronto,CA,external,public institute,within,0.005181347,2,0.013660332,3.54E-05,0,0,0.137553193,0.001146137
+Neomed Institute ,Montreal,CA,internal,public institute,within,0.005181347,2,0.013458856,3.49E-05,0,0,0.000644567,0.001619022
+Northern Telecom Limited ,Montreal,CA,internal,business,within,0.005181347,2,0.002597403,6.73E-06,0,0,3.99E-18,0.00201349
+Novartis AG ,Basel,CH,external,business,outside,0.005181347,2,0.013603045,3.52E-05,0,0,0.083529875,0.001253563
+Nymox Corporation ,Dorval,CA,external,business,within,0.005181347,2,0.002597403,6.73E-06,1,1.35E-05,0,0.003771213
+Ocean University of China ,Qingdao,CN,external,university,outside,0.005181347,2,0.013604004,3.52E-05,315,0.004239284,0.041965428,0.00180045
+Oligo Medic Inc ,Montreal,CA,internal,business,within,0.005181347,2,0.002610931,6.76E-06,0,0,0,0.00251779
+OTV SA ,Saint-Maurice Cedex,FR,external,business,outside,0.005181347,2,0.002590674,6.71E-06,0,0,0,0.002583979
+OVIVO INC ,Montreal,CA,internal,business,within,0.005181347,2,0.002597403,6.73E-06,1,1.35E-05,1.70E-18,0.003771213
+"PerkinElmer LAS, Inc.",Boston,MA,external,business,outside,0.005181347,2,0.013370281,3.46E-05,0,0,0.000387275,0.001967308
+Pharmacia Biotech Inc.,Milwaukee,WI,external,business,outside,0.005181347,2,0.013532464,3.51E-05,102.5167042,0.001379674,0.005322663,0.001744797
+"Pierce Biotechnology, Inc.",Rockford,IL,external,business,outside,0.005181347,2,0.013387902,3.47E-05,0.5,6.73E-06,0.00112538,0.001777165
+"Polymics, LTD ",State College,PA,external,business,outside,0.005181347,2,0.013630425,3.53E-05,187.9093246,0.002528892,0.042048777,0.001522118
+Procyon Biopharma Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013613599,3.53E-05,81.96293075,0.001103061,0.012280936,0.001397935
+Proscan RX Pharma ,Montreal,CA,internal,business,within,0.005181347,2,0.013686973,3.55E-05,131.5084241,0.001769846,0.081003346,0.001309909
+Pyrogenesis Inc.,Montreal,CA,internal,business,within,0.005181347,2,0.013606401,3.52E-05,315,0.004239284,0.054949089,0.001712207
+Regents of the University of Minnesota ,Minneapolis,MN,external,university,outside,0.005181347,2,0.013676304,3.54E-05,0,0,0.138239089,0.001304988
+Rio Tinto Alcan International Limited ,Montreal,CA,internal,business,within,0.005181347,2,0.013494616,3.50E-05,2163,0.02910975,0.001091577,0.001797544
+Royal Canadian Mint ,Ottawa,CA,external,business,within,0.005181347,2,0.01354386,3.51E-05,0,0,0.00831876,0.001672122
+Slemon; Clarke ,Potland,CA,external,individual,within,0.005181347,2,0.013383261,3.47E-05,315,0.004239284,0.000679865,0.002338573
+Societe de Conseils de Recherches et d'Applications Scientifiques ,Paris,FR,external,business,outside,0.005181347,2,0.013539109,3.51E-05,315,0.004239284,0.004279489,0.001818193
+Socovar S.E.C.,Montreal,CA,internal,business,within,0.005181347,2,0.01336704,3.46E-05,0,0,0.00188968,0.001421462
+TEKNOR APEX COMPANY ,Pawtucket,RI,external,business,outside,0.005181347,2,0.013206062,3.42E-05,102.6666667,0.001381693,2.28E-06,0.002098894
+The Abestos Institute ,Montreal,CA,internal,public institute,within,0.005181347,2,0.013301172,3.45E-05,628,0.008451652,0.000195283,0.002415945
+The Administrators of the Tulane Educational Fund ,New Orleans,LA,external,public institute,outside,0.005181347,2,0.013676304,3.54E-05,0,0,0.138239089,0.001304988
+The Medicines Company ,Parsippany,NJ,external,business,outside,0.005181347,2,0.01358294,3.52E-05,26.27429237,0.000353601,0.009338235,0.001334557
+The National Research Council of Canada ,Ottawa,CA,external,business,within,0.005181347,2,0.013559084,3.51E-05,492.248072,0.006624696,0.002016679,0.001494925
+The Rockefeller University ,New York,NY,external,university,outside,0.005181347,2,0.013676304,3.54E-05,0,0,0.138239089,0.001304988
+Transfert Plus ,Montreal,CA,internal,business,within,0.005181347,2,0.013546236,3.51E-05,0,0,0.013407066,0.001396864
+Universite Paul Sabatier Toulouse III ,Toulouse Cedex,FR,external,university,outside,0.005181347,2,0.013549089,3.51E-05,0,0,0.027984194,0.001227587
+University of Vermont and State Agricultural College ,Burlington,VT,external,university,outside,0.005181347,2,0.013676304,3.54E-05,0,0,0.138239089,0.001304988
+"Val-Chum, S.E.C.",Montreal,CA,internal,business,within,0.005181347,2,0.01367146,3.54E-05,0,0,0.110541534,0.00119985
+"Viro Chem Pharma, Inc.",Montreal,CA,internal,business,within,0.005181347,2,0.013547663,3.51E-05,5.881263858,7.92E-05,0.005359239,0.001289652
+Vanderbilt University ,Nashville,TN,external,university,outside,0.005181347,2,0.013584374,3.52E-05,0,0,0.044033474,0.001186113
+Veolia Water Solutions & Technologies Support ,Saint Maurice,FR,external,business,outside,0.005181347,2,0.002590674,6.71E-06,0,0,1.90E-18,0.002583979
+Wisconsin Alumni Research Foundation ,Madison,WI,external,business,outside,0.005181347,2,0.013603045,3.52E-05,0,0,0.083529875,0.001253563
+Wyeth ,Madison,NJ,external,business,outside,0.005181347,2,0.013260504,3.44E-05,0,0,4.62E-05,0.001741777
+Biota Scientific Management Pty Ltd ,Notting Hill,AU,external,business,outside,0.002590674,1,0.013477654,3.49E-05,0,0,0.002125566,0.000844709
+3M Innovative Properties Company (St.,St. Paul,MN,external,business,outside,0.002590674,1,0.013605442,3.52E-05,0,0,0.054686569,0.000764215
+Adherex Technologies ,Ottawa,CA,external,business,within,0.002590674,1,0.013676304,3.54E-05,0,0,0.069119544,0.000846293
+"ADM Agri-Industries, Ltd.",Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+AFINA ENERGY INC.,Montreal,CA,internal,business,within,0.002590674,1,0.013526299,3.50E-05,0,0,0.004800446,0.001169896
+Aktiebolaget Astra ,Sodertalje,SE,external,business,outside,0.002590674,1,0.013431226,3.48E-05,0,0,0.000336394,0.000946427
+Akzo Nobel ,Arnhem,NL,external,business,outside,0.002590674,1,0.013589635,3.52E-05,0,0,0.014571654,0.000821929
+Air Liquide Canada ,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Alcan Research & Development Limited ,Montreal,CA,internal,business,within,0.002590674,1,0.013209226,3.42E-05,0,0,5.42E-06,0.00127511
+Alcon International Limited ,Montreal,CA,internal,business,within,0.002590674,1,0.013209226,3.42E-05,0,0,5.42E-06,0.00127511
+"Alexion Pharmaceuticals, Inc.",New Haven,CT,external,business,outside,0.002590674,1,0.01351446,3.50E-05,0,0,0.005393764,0.000969393
+American Air Liquide Inc.,Fremont,CA,external,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Amgen Canada Inc.,Mississauge,CA,external,business,within,0.002590674,1,0.013676304,3.54E-05,0,0,0.069119544,0.000846293
+"American Iron & Metal Company, Inc.",Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Aquaconsult Anlagenbau GmbH ,Traiskirchen,AT,external,business,outside,0.002590674,1,0.002597385,6.73E-06,0,0,3.36E-19,0.001990362
+Archambault; Denis ,Longueuil,CA,external,individual,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Archer Daniels Midland Company ,Decatur,IL,external,business,outside,0.002590674,1,0.002610913,6.76E-06,0,0,0,0.001447729
+Astar Biotech LLC ,Richmond,VA,external,business,outside,0.002590674,1,0.013441515,3.48E-05,0,0,0.001012021,0.001153686
+Astra Pharma Inc.,Mississauga,CA,external,business,within,0.002590674,1,0.013458856,3.49E-05,0,0,0.000322283,0.001003309
+APTALIS PHARMA CANADA ULC ,Mont-Saint-Hilaire,CA,external,business,within,0.002590674,1,0.013442452,3.48E-05,0,0,0.002798232,0.001015739
+Ayerst.,Montreal,CA,internal,business,within,0.002590674,1,0.013260048,3.44E-05,0,0,4.02E-05,0.001059321
+Barbara Ann Karmanos Cancer Institute ,Detroit,MI,external,public institute,outside,0.002590674,1,0.002590674,6.71E-06,0,0,1.59E-18,0.002583979
+BASF Plant Science GmbH ,Research Triangle Park,NC,external,business,outside,0.002590674,1,0.013531989,3.51E-05,0,0,0.011200317,0.00091097
+Bellus Health Inc.,Laval,CA,external,business,within,0.002590674,1,0.013493201,3.50E-05,0,0,0.00204055,0.000840455
+BIOAMBER INC.,Montreal,CA,internal,business,outside,0.002590674,1,0.012981772,3.36E-05,0,0,1.94E-07,0.001470463
+Beth Israel Deaconess Medical Center ,Boston,MA,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Bio Syntech ,Laval,CA,external,business,within,0.002590674,1,0.002610913,6.76E-06,0,0,0,0.001447729
+"biOasis Technologies, Inc.",Guilford,CT,external,business,outside,0.002590674,1,0.013460734,3.49E-05,0,0,0.001523265,0.000933247
+BioMarin Pharmaceutical Inc.,Novato,CA,external,business,within,0.002590674,1,0.013382797,3.47E-05,0,0,0.000599313,0.001000146
+"Biotech Cardio-Vision, Societe en Commandite Enregistree ",Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Bitumar Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+"Minister of Energy, Mines and Resources Canada ",Ottawa,CA,external,public institute,within,0.002590674,1,0.013560989,3.51E-05,0,0,0.00530587,0.001028636
+British Columbia Research Council ,Vancouver,CA,external,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Cascades Canada ULC ,Montreal,CA,internal,business,within,0.002590674,1,0.01336195,3.46E-05,0,0,8.38E-05,0.001296465
+Celluforce Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.013430759,3.48E-05,0,0,0.000371991,0.001123922
+Center for Translation Research in cancer ,Montreal,CA,internal,public institute,within,0.002590674,1,0.013454634,3.49E-05,0,0,0.002900631,0.001152788
+Chu Sainte-Justine ,Montreal,CA,internal,business,within,0.002590674,1,0.013535786,3.51E-05,0,0,0.010547043,0.000957793
+Concordia University ,Montreal,CA,internal,university,within,0.002590674,1,0.013442452,3.48E-05,0,0,0.002798232,0.001015739
+Critical Outcome Technologies Inc.,London,CA,external,business,within,0.002590674,1,0.013584374,3.52E-05,0,0,0.022016737,0.000786855
+"Cubist Pharmaceuticals, Inc.",Lexington,MA,external,business,outside,0.002590674,1,0.013423286,3.48E-05,0,0,0.000710904,0.000945833
+DALSA Semiconductor Inc.,Waterloo,CA,external,business,within,0.002590674,1,0.013430291,3.48E-05,0,0,0.000393203,0.001028315
+DMS Pharmaceutical Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.002597385,6.73E-06,0,0,0,0.001990362
+Domtar Inc ,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+"Elkimia, Inc.",Rosemere,CA,external,business,within,0.002590674,1,0.013606401,3.52E-05,0,0,0.01529693,0.000814932
+Dundee Sustainable Technologies Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.013605442,3.52E-05,0,0,0.054686569,0.000764215
+Exploration Orbite VSPA Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.01336195,3.46E-05,0,0,8.38E-05,0.001296465
+"General Dynamics Ordnance and Tactical Systems--Canada Valleyfield, Inc.",Salaberry-de-Valleyfield,CA,external,business,within,0.002590674,1,0.013205159,3.42E-05,0,0,2.25E-06,0.001215645
+Genome Atlantic ,Halifax,CA,external,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+GRIFFON PHARMACEUTICALS INC.,Montreal,CA,internal,business,within,0.002590674,1,0.013391618,3.47E-05,0,0,0.000736057,0.001249969
+GENE SIGNAL INTERNATIONAL,Lausanne,CH,external,business,outside,0.002590674,1,0.013572433,3.52E-05,0,0,0.00637078,0.00088765
+Group NanoXplore Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Her Majesty in Right of Canada as represented by the Minister of Agriculture and Agri-Food Canada ,Ottawa,CA,external,public institute,within,0.002590674,1,0.013585331,3.52E-05,0,0,0.016347822,0.00086392
+Hoffmann-La Roche Inc.,Little Falls,NJ,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,6.50E-19,0.002583979
+H. L. Blachford Ltd.,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Haemacure Corporation ,Montreal,CA,internal,business,within,0.002590674,1,0.013107851,3.40E-05,0,0,3.55E-06,0.00154563
+"Human Genome Sciences, Inc.",Rockville,MD,external,business,outside,0.002590674,1,0.013676304,3.54E-05,0,0,0.069119544,0.000846293
+Horacio Uri Saragovi ,Montreal,CA,internal,business,within,0.002590674,1,0.013357788,3.46E-05,0,0,0.000112665,0.001210365
+ICI Australia Limited ,Melbourne,AU,external,business,outside,0.002590674,1,0.012936957,3.35E-05,0,0,2.28E-08,0.00128183
+Chemisar Laboratories Inc.,Court Guelph,CA,external,business,within,0.002590674,1,0.013068797,3.39E-05,0,0,1.79E-07,0.001262307
+Institute Francais du Petrole ,Rueil Malmaison Cedex,FR,external,public institute,outside,0.002590674,1,0.013507366,3.50E-05,0,0,0.001200113,0.001003779
+Ipsen Pharma S.A.S.,Boulogne-Billancourt,FR,external,business,outside,0.002590674,1,0.013391154,3.47E-05,0,0,0.000295796,0.001160329
+"Johnson & Johnson Consumer Products, Inc.",Skillman,NJ,external,business,outside,0.002590674,1,0.01306924,3.39E-05,0,0,3.77E-07,0.001455215
+Les Sables Olimag Inc.,Thetford Mines,CA,external,business,within,0.002590674,1,0.013209226,3.42E-05,0,0,5.42E-06,0.00127511
+Li; Chao-Jun ,Brossard,CA,external,individual,within,0.002590674,1,0.013603045,3.52E-05,0,0,0.041764937,0.00082058
+ME RESOURCE CORP ,Vancouver,CA,external,business,within,0.002590674,1,0.013205159,3.42E-05,0,0,2.25E-06,0.001215645
+"Merrimack Pharmaceuticals, Inc.",Cambridge,MA,external,business,outside,0.002590674,1,0.013676304,3.54E-05,0,0,0.069119544,0.000846293
+"La Compagnie Americanine de Fer et Metaux, Inc.",Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,1.11E-18,0.002583979
+Michigan Cancer Foundation ,Detroit,MI,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Migenix Inc.,Vancouver,CA,external,business,within,0.002590674,1,0.013526299,3.50E-05,0,0,0.004800446,0.001169896
+"Millendo Therapeutics, Inc ",Ann Arbor,MI,external,business,outside,0.002590674,1,0.013584374,3.52E-05,0,0,0.022016737,0.000786855
+Minnesota Mining & Manufacturing Co. (St.,St. Paul,MN,external,business,outside,0.002590674,1,0.013605442,3.52E-05,0,0,0.054686569,0.000764215
+Nanoledge Inc.,Boucherville,CA,external,business,within,0.002590674,1,0.013588678,3.52E-05,0,0,0.049735984,0.000728694
+Micropharma Limited ,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,5.29E-19,0.002583979
+New England Deaconess Hospital ,Boston,MA,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+NanoXplore Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+NOVA Chemicals ,Calgary,CA,external,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Nymox Pharmaceutical Corporation (St.,St. Laurent,CA,external,business,within,0.002590674,1,0.002597385,6.73E-06,0,0,0,0.001990362
+Odyssey Pharmaceuticals Inc.,San Ramon,CA,external,business,within,0.002590674,1,0.013454634,3.49E-05,0,0,0.001437984,0.001035443
+Ohio State University Research Foundation ,Columbus,OH,external,university,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Ogilvie Mills Ltd.,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,1.41E-19,0.002583979
+Ontario Research Foundation ,Mississauga,CA,external,public institute,within,0.002590674,1,0.013560989,3.51E-05,0,0,0.00530587,0.001028636
+"OTONOMY, INC.",San Diego,CA,external,business,within,0.002590674,1,0.013357788,3.46E-05,0,0,0.000112665,0.001210365
+Oral Delivery Technology Ltd.,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+"Pegasus Refractory Materials, Inc.",Montreal,CA,internal,business,within,0.002590674,1,0.01345698,3.49E-05,0,0,0.003798056,0.001115285
+Peiromont and Company Limited ,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Phenogene Therapeutiques Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.01351446,3.50E-05,0,0,0.005393764,0.000969393
+PLUMOSCIENCE INC.,Montreal,CA,internal,business,within,0.002590674,1,0.013572433,3.52E-05,0,0,0.00637078,0.00088765
+Procrea BioSciences Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.002597385,6.73E-06,0,0,0,0.001990362
+PYROWAVE INC.,Oakville,CA,external,business,within,0.002590674,1,0.013205159,3.42E-05,0,0,2.25E-06,0.001215645
+RBA Pharma Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.013369354,3.46E-05,0,0,0.000358648,0.001175813
+"RedCell Canada, Inc.",Montreal,CA,internal,business,within,0.002590674,1,0.013403709,3.47E-05,0,0,0.000902562,0.001068043
+Roques; Elodie ,Montreal,CA,internal,individual,within,0.002590674,1,0.002590674,6.71E-06,0,0,8.67E-19,0.002583979
+Rougier Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Rozen; Rima ,Montreal,CA,internal,individual,within,0.002590674,1,0.013530092,3.51E-05,0,0,0.005217317,0.001016684
+SAFRAN ,Paris,FR,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+SAFRAN AIRCRAFT ENGINES ,Paris,FR,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Schering Corporation ,Kenilworth,NJ,external,business,outside,0.002590674,1,0.013576252,3.52E-05,0,0,0.017172221,0.000777419
+"SeaTek Marine Biotechnology, Inc.",Surrey,CA,external,business,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Signalgene ,Montreal,CA,internal,business,within,0.002590674,1,0.002597385,6.73E-06,0,0,0,0.001990362
+Sorbonne University ,Paris,FR,external,university,outside,0.002590674,1,0.013379549,3.47E-05,0,0,0.000761118,0.000997433
+The Board of Trustees of the University of Illinois ,Urbana,IL,external,university,outside,0.002590674,1,0.013530566,3.51E-05,0,0,0.004827754,0.001065532
+The Council of the Queensland Institute of Medical Research ,Herston,AU,external,business,outside,0.002590674,1,0.013676304,3.54E-05,0,0,0.069119544,0.000846293
+The Hospital for Sick Children ,Toronto,CA,external,public institute,within,0.002590674,1,0.013572433,3.52E-05,0,0,0.00637078,0.00088765
+The Ohio State University Research Foundation ,Columbus,OH,external,university,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+The Universite de Montreal ,Montreal,CA,internal,university,within,0.002590674,1,0.013583418,3.52E-05,0,0,0.013855853,0.000856025
+Thrasos Therapeutics Inc.,Montreal,CA,internal,business,within,0.002590674,1,0.013403709,3.47E-05,0,0,0.000902562,0.001068043
+The University of Akron ,Akron,OH,external,university,outside,0.002590674,1,0.002597385,6.73E-06,0,0,1.37E-18,0.001990362
+"The University of British Columbia (Vancouver, B.C.",Vancouver,CA,external,university,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+THE UNIVERSITY OF MANITOBA ,Winnipeg,CA,external,university,within,0.002590674,1,0.013361487,3.46E-05,0,0,8.95E-05,0.001168218
+Torcan Chemical LTD ,Aurora,CA,external,business,within,0.002590674,1,0.013238673,3.43E-05,0,0,4.70E-05,0.00138149
+Tricil Limited ,Montreal,CA,internal,business,within,0.002590674,1,0.012936957,3.35E-05,0,0,2.28E-08,0.00128183
+UAS Laboratories LLC ,Madison,WI,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Union Carbide Chemicals & Plastics Technology Corporation ,Danbury,CT,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Union Carbide Corporation ,Toronto,CA,external,business,within,0.002590674,1,0.013507366,3.50E-05,0,0,0.001200113,0.001003779
+"Universidad Nacional Autonoma de Mexico (Mexico, D.F.",Mexico,MM,external,university,outside,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+Universite Joseph Fourier ,Grenoble,FR,external,university,outside,0.002590674,1,0.013660332,3.54E-05,0,0,0.068776597,0.000766867
+University of British Columbia ,Vancouver,CA,external,university,within,0.002590674,1,0.002590674,6.71E-06,0,0,0,0.002583979
+University of Massachusettes ,Boston,MA,external,university,outside,0.002590674,1,0.013660332,3.54E-05,0,0,0.068776597,0.000766867
+University of Pittsburgh ,Pittsburgh,PA,external,university,outside,0.002590674,1,0.013606401,3.52E-05,0,0,0.01529693,0.000814932
+Valorbec Societe en Commandite ,Montreal,CA,internal,business,within,0.002590674,1,0.013019428,3.37E-05,0,0,9.37E-07,0.001547876
+Nitrogenix Inc.,VG,VG,external,business,outside,0.002590674,1,0.002590674,6.71E-06,0,0,3.07E-19,0.002583979
+Whitehead Institute for Biomedical Research ,Cambridge,MA,external,public institute,outside,0.002590674,1,0.01352867,3.50E-05,0,0,0.004872601,0.001043001
+ZYMEWORKS INC.,Vancouver,CA,external,business,within,0.002590674,1,0.013507366,3.50E-05,0,0,0.001200113,0.001003779
