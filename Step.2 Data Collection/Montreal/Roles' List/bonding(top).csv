@@ -1,0 +1,31 @@
+Label,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector,pagerank,role_bonding,role_connecting
+McGill Univeristy ,Montreal,CA,internal,university,within,0.196891192,76,0.013830664,3.58E-05,23812.08135,0.320464051,1,0.041012788,bonding,connecting
+Universite d'Angers ,Angers,FR,external,university,outside,0.155440415,60,0.01381433,3.58E-05,16540.26088,0.222599568,0.995038338,0.026771989,bonding,connecting
+National Research Coucil of Canada ,Toronto,CA,external,business,within,0.049222798,19,0.013657915,3.54E-05,5656.437678,0.07612459,0.017362858,0.013773473,bonding,connecting
+Merck Frosst Company ,Kirkland,CA,external,business,within,0.062176166,24,0.013736655,3.56E-05,4933.081238,0.066389627,0.318531278,0.011273174,bonding,connecting
+Bio-Chem Pharma Inc.,Laval,CA,external,business,within,0.051813472,20,0.013709821,3.55E-05,4283.445704,0.057646803,0.045769188,0.010403662,bonding,connecting
+The Royal Institute for the Advancement of Learning,Montreal,CA,internal,public institute,within,0.082901554,32,0.013755746,3.56E-05,4214.789708,0.056722828,0.604242081,0.016300537,bonding,connecting
+Hydro-Quabac ,Montreal,CA,internal,public institute,within,0.093264249,36,0.013758198,3.56E-05,3988.770147,0.053681046,0.791188222,0.015950883,bonding,connecting
+Merck & Co. Inc.,Rahway,NJ,external,business,outside,0.046632124,18,0.013742034,3.56E-05,3610.860414,0.04859512,0.210818139,0.009197626,bonding,connecting
+Institut de Cardiologie de Montreal ,Montreal,CA,internal,public institute,within,0.041450777,16,0.013724444,3.56E-05,3331.5423,0.044836045,0.09217046,0.009412764,bonding,connecting
+"TaiMed Biologics, Inc.",Taipei,TW,external,business,outside,0.025906736,10,0.013749866,3.56E-05,3061.254999,0.041198506,0.173425385,0.005153902,bonding,connecting
+"Polyvalor, Limited Partnership ",Montreal,CA,internal,business,within,0.018134715,7,0.013349011,3.46E-05,2961,0.03984927,3.25E-05,0.006819219,bonding,connecting
+"Ayerst, McKeena & Harrison, Inc.",Montreal,CA,internal,business,within,0.018134715,7,0.013405105,3.47E-05,2178.5,0.02931835,0.000581389,0.005531847,bonding,connecting
+Shire Biochem Inc.,Montreal,CA,internal,business,within,0.033678756,13,0.013653567,3.54E-05,1910.548855,0.025712252,0.023356962,0.007014967,bonding,connecting
+AstraZeneca A.B.,Sodertalje,SE,external,business,outside,0.018134715,7,0.01360832,3.53E-05,1889.689877,0.025431531,0.004662694,0.005070572,bonding,connecting
+Alcan Internatinal Limited ,Montreal,CA,internal,business,within,0.018134715,7,0.013353167,3.46E-05,1874,0.025220375,7.84E-05,0.007308932,bonding,connecting
+"Methyl Gene, Inc.",Montreal,CA,internal,business,within,0.033678756,13,0.013759179,3.56E-05,1790.932761,0.024102453,0.221311214,0.006535708,bonding,connecting
+Theratechnologies Inc.,Saint Laurent,CA,external,business,within,0.028497409,11,0.0136894,3.55E-05,1697.702987,0.022847762,0.171931131,0.005999747,bonding,connecting
+Vertex Pharmaceuticals ,Boston,MA,external,business,outside,0.033678756,13,0.0136894,3.55E-05,1678.168651,0.022584868,0.061618517,0.00679543,bonding,connecting
+Centre National de la Rechecch Scientifique ,Paris,FR,external,public institute,outside,0.07253886,28,0.013741056,3.56E-05,1642.328427,0.022102529,0.719564701,0.011236147,bonding,connecting
+Gemin X Biotechnologies ,Montreal,CA,internal,business,within,0.023316062,9,0.013719566,3.55E-05,1571.894492,0.021154626,0.116796468,0.004620231,bonding,connecting
+Valorisation-Recherche L.P.,Montreal,CA,internal,public institute,within,0.033678756,13,0.013699116,3.55E-05,1495.703308,0.020129242,0.282189404,0.006157586,bonding,connecting
+Boehringer Ingelheim ,Burlington,CA,external,business,within,0.020725389,8,0.013627538,3.53E-05,1325.972194,0.017844993,0.030752025,0.004302231,bonding,connecting
+Merck Sharp & Dohme Corp.,Rahway,NJ,external,business,outside,0.028497409,11,0.013721517,3.55E-05,1195.32156,0.016086691,0.177055155,0.00508066,bonding,connecting
+Boehringer Ingelheim International GmbH ,Ingelheim am Rhein,DE,external,business,outside,0.025906736,10,0.013647774,3.54E-05,1049.703098,0.014126951,0.037914663,0.004953136,bonding,NA
+The Regents of the University of California ,Oakland,CA,external,university,within,0.023316062,9,0.013735677,3.56E-05,1021.451812,0.013746744,0.200462155,0.004959822,bonding,NA
+Bristol-Meyers Company ,Princeton,NJ,external,business,outside,0.033678756,13,0.01371323,3.55E-05,902.6587544,0.012148022,0.343454517,0.005691589,bonding,NA
+"RSEM, Limited Partnership ",Montreal,CA,internal,business,within,0.025906736,10,0.01371323,3.55E-05,631.0464362,0.008492651,0.140567773,0.004926178,bonding,NA
+Institut National de la Sante et de la Recherche Medicale ,Paris,FR,external,public institute,outside,0.023316062,9,0.013728349,3.56E-05,534.3231119,0.007190944,0.248442333,0.004127525,bonding,NA
+ACEP Inc ,Ottawa,CA,external,business,within,0.025906736,10,0.013672428,3.54E-05,71.12989904,0.000957269,0.297363752,0.004008938,bonding,NA
+The Hong Kong Polytechnic University ,Kowloon,HK,external,university,outside,0.023316062,9,0.01369377,3.55E-05,8.513429463,0.000114574,0.365462353,0.004360128,bonding,NA
