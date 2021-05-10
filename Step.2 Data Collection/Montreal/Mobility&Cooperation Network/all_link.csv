@@ -1,0 +1,695 @@
+Source,Target,Weight,If_across,Type,Category
+Bathium Canada Inc.,ACEP Inc ,1,1,directed,Mobility
+"Board of Regents, The University of Texas System ",ACEP Inc ,1,1,directed,Mobility
+Centre de la Recherche Scientifique ,ACEP Inc ,1,1,directed,Mobility
+Centre National de la Rechecch Scientifique ,ACEP Inc ,3,1,directed,Mobility
+Abbott Laboratories ,"Achaogen, Inc.",1,1,directed,Mobility
+"Isis Pharmaceuticals, Inc.","Achaogen, Inc.",1,1,directed,Mobility
+Merck & Co. Inc.,Actelion Pharmaceuticals Ltd.,5,1,directed,Mobility
+Clinical Research Institute of Montreal ,Adaerata Limited Partnership ,1,0,directed,Mobility
+McGill Univeristy ,Adaerata Limited Partnership ,1,1,directed,Mobility
+McGill Univeristy ,Adherex Technologies ,2,1,directed,Mobility
+Ogilvie Mills Ltd.,"ADM Agri-Industries, Ltd.",3,0,directed,Mobility
+Martin R&F Inc.,Advanced Bioconcept ,1,1,directed,Mobility
+"PerkinElmer LAS, Inc.",Advanced Bioconcept ,2,1,directed,Mobility
+Bio-Chem Pharma Inc.,Aegera Therapeutics Inc.,1,1,directed,Mobility
+Pharmascience Inc.,Aegera Therapeutics Inc.,7,1,directed,Mobility
+Bio-Chem Pharma Inc.,Aenorasis SA Pharmaceuticals and Medical Devices ,1,1,directed,Mobility
+Kotinos Pharmaceuticals Inc.,Aenorasis SA Pharmaceuticals and Medical Devices ,3,1,directed,Mobility
+Alcan Research & Development Limited ,Alcan Internatinal Limited ,3,0,directed,Mobility
+Alcon International Limited ,Alcan Internatinal Limited ,2,0,directed,Mobility
+BL Technology Limited ,Alcan Internatinal Limited ,2,1,directed,Mobility
+National Research Coucil of Canada ,Alethia Biotherapeutics Inc.,3,1,directed,Mobility
+Enobia Pharma ,"Alexion Pharmaceuticals, Inc.",4,1,directed,Mobility
+McGill Univeristy ,Ambrilia Biopharma Inc.,1,1,directed,Mobility
+Pharmacor Inc.,Ambrilia Biopharma Inc.,1,1,directed,Mobility
+"TaiMed Biologics, Inc.",Ambrilia Biopharma Inc.,2,1,directed,Mobility
+Air Liquide Canada ,American Air Liquide Inc.,1,1,undirected,Cooperation
+"Quebepharma Recherche, Inc.",American Diagnostica Inc.,5,1,directed,Mobility
+"Averst McKenna & Harrison, Inc.",American Home Products Corp.,1,1,directed,Mobility
+"Ayerst, McKeena & Harrison, Inc.",American Home Products Corp.,18,1,directed,Mobility
+Centre National de la Rechecch Scientifique ,"Amicus Therapeutics, Inc.",1,1,directed,Mobility
+Universite d'Angers ,"Amicus Therapeutics, Inc.",1,1,directed,Mobility
+Conjuchem Biotechnologies Inc.,Angiochem Inc.,1,0,directed,Mobility
+Gemin X Biotechnologies ,Angiochem Inc.,1,0,directed,Mobility
+Transfert Plus ,Angiochem Inc.,1,0,directed,Mobility
+Institut National de Recherche Scientifique ,APTALIS PHARMA CANADA ULC ,2,1,directed,Mobility
+"Biosyntech Canada, Inc.",Archer Daniels Midland Company ,1,1,directed,Mobility
+ACADEMISCH ZIKENHUIS LEIDEN ,ARIZONA BOARD OF REGENTS ,1,1,undirected,Cooperation
+Aktiebolaget Astra ,Astra AB ,2,0,directed,Mobility
+Bio-Chem Pharma Inc.,Astra AB ,2,1,directed,Mobility
+Bio-Mega Boehringer Ingelheim Research Inc.,Astra AB ,1,1,directed,Mobility
+Abbott Laboratories ,AstraZeneca A.B.,1,1,directed,Mobility
+Astra Pharma Inc.,AstraZeneca A.B.,1,1,directed,Mobility
+Bio-Chem Pharma Inc.,AstraZeneca A.B.,1,1,directed,Mobility
+Her Majesty the Queen in Right of Canada as represented by the National ,AstraZeneca A.B.,1,1,directed,Mobility
+National Research Coucil of Canada ,AstraZeneca A.B.,3,1,directed,Mobility
+Neomed Institute ,AstraZeneca A.B.,4,1,directed,Mobility
+"Ayerst, McKeena & Harrison, Inc.","Averst McKenna & Harrison, Inc.",3,0,directed,Mobility
+Merck & Co. Inc.,"Axys Pharmaceuticals, Inc.",3,1,directed,Mobility
+Merck Frosst Company ,"Axys Pharmaceuticals, Inc.",6,1,directed,Mobility
+American Home Products Corp.,"Ayerst, McKeena & Harrison, Inc.",4,1,directed,Mobility
+Ayerst.,"Ayerst, McKeena & Harrison, Inc.",2,0,directed,Mobility
+Michigan Cancer Foundation ,Barbara Ann Karmanos Cancer Institute ,4,0,directed,Mobility
+DNA Landmarks Inc.,BASF Plant Science GmbH ,5,1,directed,Mobility
+ACEP Inc ,Bathium Canada Inc.,2,1,directed,Mobility
+Centre de la Recherche Scientifique ,Bathium Canada Inc.,2,1,directed,Mobility
+Centre National de la Rechecch Scientifique ,Bathium Canada Inc.,2,1,directed,Mobility
+Clariant ,Bathium Canada Inc.,2,1,directed,Mobility
+Johnson Matthey Public Limited Company ,Bathium Canada Inc.,2,1,directed,Mobility
+BHI Limited Partnership ,Bellus Health Inc.,10,0,directed,Mobility
+Astar Biotech LLC ,Beta Pharma Canada Inc.,1,1,undirected,Cooperation
+Merck & Co. Inc.,Beta Pharma Canada Inc.,1,1,directed,Mobility
+New England Deaconess Hospital ,Beth Israel Deaconess Medical Center ,2,0,directed,Mobility
+Bio-Chem Pharma Inc.,BHI Limited Partnership ,2,0,directed,Mobility
+"DANA-FARBER CANCER INSTITUTE, INC.",BHI Limited Partnership ,1,1,directed,Mobility
+Kong; Xianqi ,BHI Limited Partnership ,1,1,directed,Mobility
+Merck Frosst Company ,BHI Limited Partnership ,2,1,directed,Mobility
+Pharmacor Inc.,BHI Limited Partnership ,1,0,directed,Mobility
+Biochem Immunosystems Inc.,Bio-Chem Pharma Inc.,1,1,directed,Mobility
+Biochem Therapeutics Incorporated ,Bio-Chem Pharma Inc.,2,0,directed,Mobility
+"IAF BioChem International, Inc.",Bio-Chem Pharma Inc.,3,1,directed,Mobility
+Merck & Co. Inc.,Bio-Chem Pharma Inc.,1,1,directed,Mobility
+"Ayerst, McKeena & Harrison, Inc.",Bio-Mega Boehringer Ingelheim Research Inc.,1,1,directed,Mobility
+Bio-Mega Inc.,Bio-Mega Boehringer Ingelheim Research Inc.,10,0,directed,Mobility
+Boehringer Ingelheim ,Bio-Mega Boehringer Ingelheim Research Inc.,2,1,directed,Mobility
+Institut Armand Frappier ,BIOAMBER INC.,1,1,directed,Mobility
+Advanced Bioconcept ,"Bioartificial Gel Technologies Inc, ",1,1,directed,Mobility
+Martin R&F Inc.,"Bioartificial Gel Technologies Inc, ",1,0,directed,Mobility
+Angiochem Inc.,"biOasis Technologies, Inc.",1,1,directed,Mobility
+Universite d'Angers ,Bioaxone Therapeutique Inc.,1,1,directed,Mobility
+Ibex Technologies ,BioMarin Pharmaceutical Inc.,2,1,directed,Mobility
+Bioniche Urology IP Inc.,Bioniche Life Sciences Inc.,3,1,directed,Mobility
+"Bionicrie Life Sciences, Inc.",Bioniche Life Sciences Inc.,1,0,directed,Mobility
+"Bionicrie Life Sciences, Inc.",Bioniche Urology IP Inc.,3,0,directed,Mobility
+Bio Syntech ,"Biosyntech Canada, Inc.",3,0,directed,Mobility
+Boehringer Ingelheim ,Biota Scientific Management Pty Ltd ,1,1,directed,Mobility
+Rougier Inc.,"Biotech Cardio-Vision, Societe en Commandite Enregistree ",1,0,directed,Mobility
+Bitumar R. & D.,Bitumar R. & D.,1,1,directed,Mobility
+Alcan Internatinal Limited ,BL Technology Limited ,2,1,undirected,Cooperation
+Bio-Mega Boehringer Ingelheim Research Inc.,Boehringer Ingelheim ,2,1,directed,Mobility
+Bio-Mega Inc.,Boehringer Ingelheim ,3,1,directed,Mobility
+Boehringer Ingelheim International GmbH ,Boehringer Ingelheim ,8,1,directed,Mobility
+Merck Frosst Company ,Boehringer Ingelheim ,1,0,directed,Mobility
+Bio-Mega Boehringer Ingelheim Research Inc.,Boehringer Ingelheim International GmbH ,1,1,directed,Mobility
+Bio-Mega Inc.,Boehringer Ingelheim International GmbH ,1,1,directed,Mobility
+Boehringer Ingelheim ,Boehringer Ingelheim International GmbH ,4,1,directed,Mobility
+Delmar Chemicals ,Boehringer Ingelheim International GmbH ,1,1,directed,Mobility
+"Gilead Sciences, Inc.",Boehringer Ingelheim International GmbH ,11,1,directed,Mobility
+Merck Frosst Company ,Boehringer Ingelheim International GmbH ,3,1,directed,Mobility
+Noranda Inc.,BRAV METAL TECHNOLOGIES INC.,1,1,directed,Mobility
+Royal Canadian Mint ,BRAV METAL TECHNOLOGIES INC.,1,1,directed,Mobility
+Biochem Therapeutics Incorporated ,Bristol-Meyers Company ,1,1,directed,Mobility
+Centre National de la Rechecch Scientifique ,Bristol-Meyers Company ,9,1,directed,Mobility
+Gemin X Biotechnologies ,Bristol-Meyers Company ,1,1,directed,Mobility
+Merck & Co. Inc.,Bristol-Meyers Company ,1,1,directed,Mobility
+Merck Frosst Company ,Bristol-Meyers Company ,1,1,directed,Mobility
+"Methyl Gene, Inc.",Bristol-Meyers Company ,1,1,directed,Mobility
+ViiV Healthcare UK (No.,Bristol-Meyers Company ,2,1,directed,Mobility
+Adaerata Limited Partnership ,British Columbia Cancer Agency Branch ,1,1,undirected,Cooperation
+Hopital Maisonneuve-Rosemont ,British Columbia Cancer Agency Branch ,1,1,directed,Mobility
+Humphries; Keith ,British Columbia Cancer Agency Branch ,1,1,directed,Mobility
+Canadian Industries Limited ,C-I-L Inc.,3,0,directed,Mobility
+L'Institut Armand-Frappier ,Canada Packers Limited ,1,1,directed,Mobility
+The Institute of Microbiology and Hygiene of the University of Montreal ,Canada Packers Limited ,3,1,directed,Mobility
+Ontario Research Foundation ,Canadian Patent and Development Ltd.,1,1,directed,Mobility
+Complexe Hospitalier de la Sagamie ,Cancer Care Ontario ,1,1,directed,Mobility
+Advanced Bioconcept ,"Caprion Pharmaceuticals, Inc.",1,1,directed,Mobility
+"PerkinElmer LAS, Inc.","Caprion Pharmaceuticals, Inc.",1,1,directed,Mobility
+FPINNOVATION ,Celluforce Inc.,1,1,directed,Mobility
+Ibex Technologies ,Celmed Biosciences Inc.,1,1,directed,Mobility
+ACEP Inc ,Centre de la Recherche Scientifique ,1,0,undirected,Cooperation
+"Board of Regents, The University of Texas System ",Centre de la Recherche Scientifique ,1,1,directed,Mobility
+Centre National de la Rechecch Scientifique ,Centre de la Recherche Scientifique ,4,0,directed,Mobility
+National Research Coucil of Canada ,Centre de Recherche du Centre Hospitalier de l'Universite de Montreal ,1,1,directed,Mobility
+ACADEMISCH ZIKENHUIS LEIDEN ,Centre Hospitalier de l'Universite de Montreal ,1,1,undirected,Cooperation
+ARIZONA BOARD OF REGENTS ,Centre Hospitalier de l'Universite de Montreal ,1,1,undirected,Cooperation
+Val-Chum Limited Partnership ,Centre Hospitalier de l'Universite de Montreal ,1,0,directed,Mobility
+ACEP Inc ,Centre National de la Rechecch Scientifique ,12,1,undirected,Cooperation
+Bristol-Meyers Company ,Centre National de la Rechecch Scientifique ,1,1,undirected,Cooperation
+Clariant ,Centre National de la Rechecch Scientifique ,3,1,directed,Mobility
+CNRS ,Centre National de la Rechecch Scientifique ,1,0,directed,Mobility
+"Dai-Ichi Kogyo Seiyaku Co., Ltd.",Centre National de la Rechecch Scientifique ,1,1,directed,Mobility
+"E. R. Squibb & Sons, Inc.",Centre National de la Rechecch Scientifique ,9,1,directed,Mobility
+Hydro-Quebec ,Centre National de la Rechecch Scientifique ,8,1,directed,Mobility
+Institute of Organic Chemistry National Academy of Sciences of Ukraine ,Centre National de la Rechecch Scientifique ,4,1,directed,Mobility
+Phostech Lithium Inc.,Centre National de la Rechecch Scientifique ,2,1,directed,Mobility
+Valorisation-Recherche L.P.,Centre National de la Rechecch Scientifique ,4,1,directed,Mobility
+Corporation de I'Ecole Polytechnique ,"CERESTECH, INC.",1,0,directed,Mobility
+H&ocirc ;pital Sainte-Justine ,Chaichem Pharmaceuticals International ,1,1,directed,Mobility
+Haemacure Biotech Inc.,Chaichem Pharmaceuticals International ,1,1,directed,Mobility
+C-I-L Inc.,"Chemetics International Company, Ltd.",1,0,directed,Mobility
+Canadian Industries Limited ,"Chemetics International Company, Ltd.",1,0,directed,Mobility
+Hopital Sainte-Justine ,Chu Sainte-Justine ,1,1,directed,Mobility
+CNRS ,Clariant ,2,1,directed,Mobility
+Hydro-Quebec ,Clariant ,2,1,directed,Mobility
+Hydro-Quebec ,CNRS ,3,1,directed,Mobility
+Hopital Sainte-Justine ,Complexe Hospitalier de la Sagamie ,1,1,directed,Mobility
+McGill Univeristy ,Complexe Hospitalier de la Sagamie ,4,1,directed,Mobility
+Institut National de Recherche Scientifique ,Concordia University ,1,1,directed,Mobility
+ConjuChem Inc.,Conjuchem Biotechnologies Inc.,15,0,directed,Mobility
+National Research Coucil of Canada ,Conseil National de Recherches Canada ,1,0,directed,Mobility
+ACADEMISCH ZIKENHUIS LEIDEN ,CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS ,1,1,undirected,Cooperation
+ARIZONA BOARD OF REGENTS ,CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS ,1,1,undirected,Cooperation
+Centre Hospitalier de l'Universite de Montreal ,CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS ,1,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,CONSORZIO INTERUNIVERSITARIO NAZIONALE PER LA SCIENZA E TECNOLOGIA DEI MATERIALI INSTM ,1,1,directed,Mobility
+Astra AB ,"Cornell Research Foundation, Inc.",1,1,directed,Mobility
+Bio-Chem Pharma Inc.,"Cornell Research Foundation, Inc.",1,1,directed,Mobility
+Institut de Cardiologie de Montreal ,"Cornell Research Foundation, Inc.",3,1,directed,Mobility
+Canadian Industries Limited ,Corporation de I'Ecole Polytechnique ,1,0,directed,Mobility
+"Gas Metropolitain and Company, Limited ",Corporation de I'Ecole Polytechnique ,1,0,directed,Mobility
+Merck Frosst Company ,Critical Outcome Technologies Inc.,1,1,directed,Mobility
+Ecopia Biosciences Inc.,"Cubist Pharmaceuticals, Inc.",3,1,directed,Mobility
+Bio-Chem Pharma Inc.,"Cytovia, Inc.",5,1,directed,Mobility
+Gemin X Biotechnologies ,"Cytovia, Inc.",1,1,directed,Mobility
+Shire Biochem Inc.,"Cytovia, Inc.",2,1,directed,Mobility
+"Tetraphase Pharmaceuticals, Inc.","Cytovia, Inc.",1,1,directed,Mobility
+"Viro Chem Pharma, Inc.","Cytovia, Inc.",1,1,directed,Mobility
+Hydro-Quebec ,"Dai-Ichi Kogyo Seiyaku Co., Ltd.",3,1,directed,Mobility
+"Tranzyme Pharma, Inc.",DALSA Semiconductor Inc.,1,1,directed,Mobility
+Bio-Chem Pharma Inc.,"DANA-FARBER CANCER INSTITUTE, INC.",1,1,directed,Mobility
+Boehringer Ingelheim International GmbH ,"DANA-FARBER CANCER INSTITUTE, INC.",1,1,directed,Mobility
+Kong; Xianqi ,"DANA-FARBER CANCER INSTITUTE, INC.",1,1,directed,Mobility
+McGill Univeristy ,DNA Landmarks Inc.,1,1,directed,Mobility
+British Columbia Research Council ,Domtar Inc ,1,1,directed,Mobility
+Hydro-Quebec ,Dundee Sustainable Technologies Inc.,1,0,directed,Mobility
+Centre National de la Rechecch Scientifique ,"E. R. Squibb & Sons, Inc.",2,1,undirected,Cooperation
+Institut National de la Sante et de la Recherche Medicale ,"E. R. Squibb & Sons, Inc.",9,1,directed,Mobility
+Gemin X Biotechnologies ,Ecopia Biosciences Inc.,1,1,directed,Mobility
+"Tetraphase Pharmaceuticals, Inc.",Ecopia Biosciences Inc.,4,1,directed,Mobility
+Canadian Patent and Development Ltd.,Elitra Pharmaceuticals Inc.,1,1,directed,Mobility
+McGill Univeristy ,Elitra Pharmaceuticals Inc.,2,1,directed,Mobility
+Royal Institute for the Advancement of Learning ,Elitra Pharmaceuticals Inc.,1,1,directed,Mobility
+"Methyl Gene, Inc.","Elkimia, Inc.",3,1,directed,Mobility
+AFINA ENERGY INC.,Enerkem Inc.,3,0,directed,Mobility
+McGill Univeristy ,Enerkem Inc.,1,0,directed,Mobility
+Celmed Biosciences Inc.,Enobia Pharma ,1,1,directed,Mobility
+Phenogene Therapeutiques Inc.,Enobia Pharma ,2,0,directed,Mobility
+Universite d'Angers ,Enobia Pharma ,2,0,directed,Mobility
+Boehringer Ingelheim ,EnVivo Pharmaceuticals ,1,1,directed,Mobility
+The Regents of the University of California ,"Exelixis Pharmaceuticals, Inc.",7,1,directed,Mobility
+Corporation de I'Ecole Polytechnique ,ExxonMobil Chemical Patents Inc.,1,1,directed,Mobility
+Polyvalor Societe en Commandite ,ExxonMobil Chemical Patents Inc.,1,1,directed,Mobility
+M. S. & D. ,Florida Institute of Technology ,1,1,directed,Mobility
+The Royal Institute for the Advancement of Learning/McGill University ,Florida Institute of Technology ,1,1,directed,Mobility
+EnVivo Pharmaceuticals ,"Forum Pharmaceuticals, Inc.",9,1,directed,Mobility
+Merck Sharp & Dohme Corp.,"Forum Pharmaceuticals, Inc.",1,1,directed,Mobility
+"Methyl Gene, Inc.","Forum Pharmaceuticals, Inc.",8,1,directed,Mobility
+Ecole Polytechnique ,FPINNOVATION ,1,1,directed,Mobility
+Pulp and Paper Research Institute of Canada ,FPINNOVATION ,1,1,directed,Mobility
+CONSORZIO INTERUNIVERSITARIO NAZIONALE PER LA SCIENZA E TECNOLOGIA DEI MATERIALI INSTM ,FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.,1,1,undirected,Cooperation
+Hydro-Quebec ,FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.,4,1,directed,Mobility
+Chemisar Laboratories Inc.,"Gas Metropolitain and Company, Limited ",1,1,undirected,Cooperation
+Gemin X Pharmaceuticals Canada inc.,Gemin X Biotechnologies ,3,0,directed,Mobility
+McGill Univeristy ,Gemin X Biotechnologies ,1,0,directed,Mobility
+Merck & Co. Inc.,Gemin X Biotechnologies ,1,1,directed,Mobility
+Gemin X Biotechnologies ,Gemin X Pharmaceuticals Canada inc.,2,0,directed,Mobility
+Shire Biochem Inc.,Gemin X Pharmaceuticals Canada inc.,1,1,directed,Mobility
+"TaiMed Biologics, Inc.",Gemin X Pharmaceuticals Canada inc.,1,1,directed,Mobility
+Universite Laval ,Gemin X Pharmaceuticals Canada inc.,1,1,directed,Mobility
+Institut de Cardiologie de Montreal ,"GENE SIGNAL INTERNATIONAL, SA ",1,1,directed,Mobility
+"Polyvalor, Limited Partnership ","General Dynamics Ordnance and Tactical Systems--Canada Valleyfield, Inc.",1,1,directed,Mobility
+The Royal Institute for the Advancement of Learning/McGill University ,GERMAN CANCER RESEARCH CENTER ,9,1,directed,Mobility
+Boehringer Ingelheim International GmbH ,"Gilead Sciences, Inc.",7,1,directed,Mobility
+Merck & Co. Inc.,"Gilead Sciences, Inc.",1,1,directed,Mobility
+Royal Institute for the Advancement of Learning ,"Gilead Sciences, Inc.",1,1,directed,Mobility
+Biochem Immunosystems Inc.,Glaxo Wellcome Inc.,1,1,directed,Mobility
+H&ocirc ;pital Sainte-Justine ,GRIFFON PHARMACEUTICALS INC.,1,0,directed,Mobility
+Hopital Sainte-Justine ,H&ocirc ;pital Sainte-Justine ,3,0,directed,Mobility
+Haemacure Biotech Inc.,Haemacure Corporation ,1,1,directed,Mobility
+Hydro-Quebec ,"Her Majesty the Queen in right of Canada, as represented by the Minister ",1,1,directed,Mobility
+DNA Landmarks Inc.,Her Majesty the Queen in the Right of Canada as Represented by the Minister of Agriculture and Agri-Food Soils and Crops Research and Dev ,1,0,undirected,Cooperation
+McGill Univeristy ,Her Majesty the Queen in the Right of Canada as Represented by the Minister of Agriculture and Agri-Food Soils and Crops Research and Dev ,1,1,directed,Mobility
+Genome Atlantic ,Hoffmann-La Roche Inc.,1,1,directed,Mobility
+McGill Univeristy ,Hong Kong Polytechnic University ,2,1,directed,Mobility
+"Paladin Labs, Inc.",Hong Kong Polytechnic University ,1,1,directed,Mobility
+Celmed Biosciences Inc.,Hopital Maisonneuve-Rosemont ,1,1,directed,Mobility
+Kiadis Pharma Canada Inc.,Hopital Maisonneuve-Rosemont ,1,1,directed,Mobility
+"RSEM, Limited Partnership ",Hopital Maisonneuve-Rosemont ,1,0,directed,Mobility
+Universite d'Angers ,Hopital Maisonneuve-Rosemont ,2,0,directed,Mobility
+Hospital Sainte-Justine ,Hopital Sainte-Justine ,2,1,directed,Mobility
+McGill Univeristy ,Hopital Sainte-Justine ,3,0,directed,Mobility
+National Research Coucil of Canada ,HT Materials Corporation ,1,1,directed,Mobility
+McGill Univeristy ,"Hybridon, Inc.",2,1,directed,Mobility
+3M Innovative Properties Company (St.,Hydro-Quebec ,1,1,undirected,Cooperation
+ACEP Inc ,Hydro-Quebec ,1,0,undirected,Cooperation
+"Board of Regents, The University of Texas System ",Hydro-Quebec ,4,1,directed,Mobility
+Centre National de la Rechecch Scientifique ,Hydro-Quebec ,32,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,Hydro-Quebec ,2,1,directed,Mobility
+CNRS ,Hydro-Quebec ,2,1,undirected,Cooperation
+CNRS ,Hydro-Quebec ,1,1,directed,Mobility
+CONSORZIO INTERUNIVERSITARIO NAZIONALE PER LA SCIENZA E TECNOLOGIA DEI MATERIALI INSTM ,Hydro-Quebec ,1,1,undirected,Cooperation
+"Dai-Ichi Kogyo Seiyaku Co., Ltd.",Hydro-Quebec ,1,1,undirected,Cooperation
+FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.,Hydro-Quebec ,1,1,undirected,Cooperation
+FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.,Hydro-Quebec ,1,1,directed,Mobility
+Hydro-Quebec and McGill University ,Hydro-Quebec ,6,0,directed,Mobility
+Institute of Organic Chemistry National Academy of Sciences of Ukraine ,Hydro-Quebec ,2,1,directed,Mobility
+Johnson Matthey Public Limited Company ,Hydro-Quebec ,2,1,directed,Mobility
+McGill Univeristy ,Hydro-Quebec ,2,0,directed,Mobility
+Merck Frosst Company ,Hydro-Quebec ,1,1,directed,Mobility
+SHOWA DENKO K.K.,Hydro-Quebec ,1,1,directed,Mobility
+Societe Nationale Elf Aquitaine ,Hydro-Quebec ,3,1,directed,Mobility
+Universite d'Angers ,Hydro-Quebec ,2,1,directed,Mobility
+Canadian Industries Limited ,ICI Australia Limited ,1,1,undirected,Cooperation
+Ibex Technologies ,ID Biomedical Corporation of Quebec ,1,1,directed,Mobility
+"Ayerst, McKeena & Harrison, Inc.",Imperial Chemical Industries PLC ,1,1,directed,Mobility
+Institut Armand Frappier ,Imperial Chemical Industries PLC ,3,1,directed,Mobility
+Bio-Mega Inc.,Institut de Cardiologie de Montreal ,1,1,directed,Mobility
+Clinical Research Institute of Montreal ,Institut de Cardiologie de Montreal ,2,0,directed,Mobility
+"Cornell Research Foundation, Inc.",Institut de Cardiologie de Montreal ,3,1,undirected,Cooperation
+Humphries; Keith ,Institut de Cardiologie de Montreal ,1,1,directed,Mobility
+Institut National de la Recherche Scientifique ,Institut de Cardiologie de Montreal ,1,1,directed,Mobility
+L'Institut de Recherches Cliniques de Montreal ,Institut de Cardiologie de Montreal ,2,0,directed,Mobility
+Institut de Cardiologie de Montreal ,Institut National de la Recherche Scientifique ,1,1,undirected,Cooperation
+Bristol-Meyers Company ,Institut National de la Sante et de la Recherche Medicale ,1,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,Institut National de la Sante et de la Recherche Medicale ,3,0,undirected,Cooperation
+"E. R. Squibb & Sons, Inc.",Institut National de la Sante et de la Recherche Medicale ,2,1,undirected,Cooperation
+Universite Louis Pasteur ,Institut National de la Sante et de la Recherche Medicale ,9,1,directed,Mobility
+Montedison S.p.A.,Institut National de la Recherche Scientifique ,1,1,directed,Mobility
+Nova Molecular Inc.,Institut Pasteur ,3,1,directed,Mobility
+National Research Coucil of Canada ,Institute Francais du Petrole ,1,1,directed,Mobility
+ACEP Inc ,Institute of Organic Chemistry National Academy of Sciences of Ukraine ,1,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,Institute of Organic Chemistry National Academy of Sciences of Ukraine ,2,1,undirected,Cooperation
+Phostech Lithium Inc.,Institute of Organic Chemistry National Academy of Sciences of Ukraine ,1,1,directed,Mobility
+Societe Nationale Elf Aquitaine ,Institute of Organic Chemistry National Academy of Sciences of Ukraine ,1,1,directed,Mobility
+Universite d'Angers ,Institute of Organic Chemistry National Academy of Sciences of Ukraine ,4,1,directed,Mobility
+Institut Pasteur ,Institute Pasteur ,3,0,directed,Mobility
+L'Institut de Recherches Cliniques de Montreal ,Institute Pasteur ,1,1,directed,Mobility
+Imperial Cancer Research Technology ,International Center for Genetic Engineering and Biotechnology ,1,1,undirected,Cooperation
+Societe de Conseils de Recherches et d'Applications Scientifiques ,Ipsen Pharma S.A.S.,3,1,directed,Mobility
+Bristol-Meyers Company ,"Isis Pharmaceuticals, Inc.",1,1,directed,Mobility
+McGill Univeristy ,"Isis Pharmaceuticals, Inc.",9,1,directed,Mobility
+Merck & Co. Inc.,Johns Hopkins University ,2,1,directed,Mobility
+Alcan Internatinal Limited ,Johnson & Johnson ,1,1,directed,Mobility
+Johnson & Johnson ,"Johnson & Johnson Consumer Products, Inc.",2,1,directed,Mobility
+Bathium Canada Inc.,Johnson Matthey Public Limited Company ,1,1,undirected,Cooperation
+Clariant ,Johnson Matthey Public Limited Company ,1,1,directed,Mobility
+Hydro-Quebec ,Johnson Matthey Public Limited Company ,2,1,directed,Mobility
+Phostech Lithium Inc.,Johnson Matthey Public Limited Company ,1,1,directed,Mobility
+Celmed Biosciences Inc.,Kiadis Pharma Canada Inc.,2,1,directed,Mobility
+Enobia Pharma ,Kiadis Pharma Canada Inc.,1,1,directed,Mobility
+Ibex Technologies ,Kiadis Pharma Canada Inc.,1,1,directed,Mobility
+Theratechnologies Inc.,Kiadis Pharma Canada Inc.,2,1,directed,Mobility
+Universite d'Angers ,Kiadis Pharma Canada Inc.,1,1,directed,Mobility
+BHI Limited Partnership ,Kong; Xianqi ,1,1,directed,Mobility
+Bio-Chem Pharma Inc.,Kong; Xianqi ,1,1,directed,Mobility
+Conjuchem Biotechnologies Inc.,Kong; Xianqi ,1,1,directed,Mobility
+Shire Biochem Inc.,Kong; Xianqi ,1,1,directed,Mobility
+Bio-Chem Pharma Inc.,Kotinos Pharmaceuticals Inc.,1,1,directed,Mobility
+Procyon Biopharma Inc.,Kotinos Pharmaceuticals Inc.,5,1,directed,Mobility
+The Institute of Microbiology and Hygiene of the University of Montreal ,L'Institut Armand-Frappier ,1,1,directed,Mobility
+"American Iron & Metal Company, Inc.","La Compagnie Americanine de Fer et Metaux, Inc.",1,1,undirected,Cooperation
+Johnson Matthey Public Limited Company ,La Corporation de l'Ecole Polytechnique ,1,1,undirected,Cooperation
+Phostech Lithium Inc.,La Corporation de l'Ecole Polytechnique ,1,0,directed,Mobility
+Delmar Chemicals ,Labopharm ,2,1,directed,Mobility
+Labopharm Europe Limited ,Labopharm ,1,1,directed,Mobility
+Labopharm ,Labopharm Europe Limited ,2,1,undirected,Cooperation
+"Tetraphase Pharmaceuticals, Inc.",Labopharm Europe Limited ,1,1,directed,Mobility
+Universite d'Angers ,Labopharm Europe Limited ,1,1,directed,Mobility
+Institut de Cardiologie de Montreal ,LCB Pharma Inc.,1,0,directed,Mobility
+Merck & Co. Inc.,LCB Pharma Inc.,1,1,directed,Mobility
+Alcan Internatinal Limited ,Les Sables Olimag Inc.,1,1,undirected,Cooperation
+Merck & Co. Inc.,M. S. & D. ,2,1,directed,Mobility
+Universite d'Angers ,Martin R&F Inc.,1,0,directed,Mobility
+McGill Univeristy ,Martinex R & D Inc.,3,0,directed,Mobility
+American Diagnostica Inc.,McGill Univeristy ,1,1,undirected,Cooperation
+Amgen Canada Inc.,McGill Univeristy ,1,1,undirected,Cooperation
+Canadian Patent and Development Ltd.,McGill Univeristy ,1,1,directed,Mobility
+Cancer Care Ontario ,McGill Univeristy ,1,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,McGill Univeristy ,1,1,undirected,Cooperation
+Complexe Hospitalier de la Sagamie ,McGill Univeristy ,2,1,undirected,Cooperation
+DNA Landmarks Inc.,McGill Univeristy ,1,1,undirected,Cooperation
+Eastern Virginia Medical School of the Medical College of Hampton Roads ,McGill Univeristy ,1,1,undirected,Cooperation
+Eastern Virginia Medical School of the Medical College of Hampton Roads ,McGill Univeristy ,1,1,directed,Mobility
+Hopital Sainte-Justine ,McGill Univeristy ,2,0,undirected,Cooperation
+"Human Genome Sciences, Inc.",McGill Univeristy ,1,1,undirected,Cooperation
+"Hybridon, Inc.",McGill Univeristy ,2,1,undirected,Cooperation
+Hydro-Quebec ,McGill Univeristy ,6,0,undirected,Cooperation
+Imperial Cancer Research Technology ,McGill Univeristy ,1,1,undirected,Cooperation
+Institut National de la Sante et de la Recherche Medicale ,McGill Univeristy ,1,1,undirected,Cooperation
+International Center for Genetic Engineering and Biotechnology ,McGill Univeristy ,1,1,undirected,Cooperation
+"Isis Pharmaceuticals, Inc.",McGill Univeristy ,3,1,undirected,Cooperation
+Martinex R & D Inc.,McGill Univeristy ,1,1,directed,Mobility
+Massachusetts Institute of Technology ,McGill Univeristy ,1,1,directed,Mobility
+"Methyl Gene, Inc.",McGill Univeristy ,1,1,directed,Mobility
+Micrologix Biotech Inc.,McGill Univeristy ,2,1,directed,Mobility
+Nova Molecular Inc.,McGill Univeristy ,1,0,directed,Mobility
+Pence ,McGill Univeristy ,1,1,directed,Mobility
+Pulp and Paper Research Institute of Canada ,McGill Univeristy ,1,1,directed,Mobility
+Regents of the University of Minnesota ,McGill Univeristy ,3,1,directed,Mobility
+Royal Institute for the Advancement of Learning ,McGill Univeristy ,1,0,directed,Mobility
+SHOWA DENKO K.K.,McGill Univeristy ,1,1,directed,Mobility
+"Synergistics Industries, Inc.",McGill Univeristy ,2,1,directed,Mobility
+The Administrators of the Tulane Educational Fund ,McGill Univeristy ,3,1,directed,Mobility
+The Hong Kong Polytechnic University ,McGill Univeristy ,10,1,directed,Mobility
+The Rockefeller University ,McGill Univeristy ,4,1,directed,Mobility
+The Royal Institute for the Advancement of Learning/McGill University ,McGill Univeristy ,2,0,directed,Mobility
+University of Vermont and State Agricultural College ,McGill Univeristy ,1,1,directed,Mobility
+"Polyvalor, Limited Partnership ",ME RESOURCE CORP ,2,1,directed,Mobility
+Akzo Nobel ,Merck & Co. Inc.,1,1,directed,Mobility
+Johns Hopkins University ,Merck & Co. Inc.,1,1,undirected,Cooperation
+McGill Univeristy ,Merck & Co. Inc.,1,1,undirected,Cooperation
+Merck Frosst Company ,Merck & Co. Inc.,45,1,directed,Mobility
+Merck Sharp & Dohme Corp.,Merck & Co. Inc.,14,1,directed,Mobility
+"Axys Pharmaceuticals, Inc.",Merck Frosst Company ,1,1,undirected,Cooperation
+Merck & Co. Inc.,Merck Frosst Company ,7,1,undirected,Cooperation
+Merck & Co. Inc.,Merck Frosst Company ,6,1,directed,Mobility
+Merck Sharp & Dohme Corp.,Merck Frosst Company ,5,1,directed,Mobility
+Merk Frosst Canada & Co.,Merck Frosst Company ,5,0,directed,Mobility
+Vanderbilt University ,Merck Frosst Company ,4,1,directed,Mobility
+Bio-Chem Pharma Inc.,Merck Sharp & Dohme Corp.,2,1,directed,Mobility
+Merck & Co. Inc.,Merck Sharp & Dohme Corp.,6,1,undirected,Cooperation
+Merck Frosst Company ,Merck Sharp & Dohme Corp.,17,1,directed,Mobility
+Merk Frosst Canada & Co.,Merck Sharp & Dohme Corp.,2,1,directed,Mobility
+"Methyl Gene, Inc.",Merck Sharp & Dohme Corp.,1,1,directed,Mobility
+Merck Frosst Company ,Merk Frosst Canada & Co.,2,0,directed,Mobility
+McGill Univeristy ,"Merrimack Pharmaceuticals, Inc.",1,1,directed,Mobility
+Delmar Chemicals ,"Methyl Gene, Inc.",1,1,directed,Mobility
+EnVivo Pharmaceuticals ,"Methyl Gene, Inc.",1,1,undirected,Cooperation
+"Forum Pharmaceuticals, Inc.","Methyl Gene, Inc.",1,1,undirected,Cooperation
+Merck Frosst Company ,"Methyl Gene, Inc.",3,1,directed,Mobility
+MSD Italia S.R.L.,"Methyl Gene, Inc.",1,1,directed,Mobility
+University of Pittsburgh ,"Methyl Gene, Inc.",1,1,directed,Mobility
+Micrologix Biotech Inc.,Migenix Inc.,3,0,directed,Mobility
+Gemin X Pharmaceuticals Canada inc.,Milestone Pharmaceuticals ,1,1,directed,Mobility
+"TaiMed Biologics, Inc.",Milestone Pharmaceuticals ,1,1,directed,Mobility
+Merck Frosst Company ,"Millendo Therapeutics, Inc ",1,1,directed,Mobility
+Horacio Uri Saragovi ,Mimetogen Pharmaceuticals Inc.,1,0,directed,Mobility
+Shire Biochem Inc.,Mimetogen Pharmaceuticals Inc.,1,1,directed,Mobility
+Canadian Patent and Development Ltd.,"Minister of Energy, Mines and Resources Canada ",1,1,directed,Mobility
+Hydro-Quebec ,Minnesota Mining & Manufacturing Co.,1,1,undirected,Cooperation
+Eastern Virginia Medical School of the Medical College of Hampton Roads ,McGill Univeristy ,1,1,undirected,Cooperation
+Universite d'Angers ,MOUNT SINAI HOSPITAL ,5,1,directed,Mobility
+Merck Sharp & Dohme Corp.,MSD Italia S.R.L.,1,1,undirected,Cooperation
+Merk Frosst Canada & Co.,MSD Italia S.R.L.,1,1,directed,Mobility
+Hydro-Quebec ,MURATA MANUFACTURING CO.,1,1,undirected,Cooperation
+McGill Univeristy ,MURATA MANUFACTURING CO.,1,1,directed,Mobility
+SHOWA DENKO K.K.,MURATA MANUFACTURING CO.,1,1,directed,Mobility
+Centre National de la Rechecch Scientifique ,Nanoledge Inc.,1,1,undirected,Cooperation
+Group NanoXplore Inc.,NanoXplore Inc.,1,0,directed,Mobility
+Adaerata Limited Partnership ,National Research Coucil of Canada ,1,1,undirected,Cooperation
+Alethia Biotherapeutics Inc.,National Research Coucil of Canada ,1,1,undirected,Cooperation
+Canadian Patent and Development Ltd.,National Research Coucil of Canada ,2,0,directed,Mobility
+Centre de Recherche du Centre Hospitalier de l'Universite de Montreal ,National Research Coucil of Canada ,1,1,directed,Mobility
+Ecole Polytechnique ,National Research Coucil of Canada ,1,1,directed,Mobility
+Her Majesty the Queen in Right of Canada as represented by the National ,National Research Coucil of Canada ,3,0,directed,Mobility
+Institut National de la Recherche Scientifique ,National Research Coucil of Canada ,1,1,directed,Mobility
+The National Research Council of Canada ,National Research Coucil of Canada ,2,0,directed,Mobility
+Valorbec S.E.C.,National Research Coucil of Canada ,1,1,directed,Mobility
+AstraZeneca A.B.,Neomed Institute ,2,1,directed,Mobility
+Oral Delivery Technology Ltd.,Nitrogenix Inc.,1,1,directed,Mobility
+McGill Univeristy ,Noranda Inc.,1,0,undirected,Cooperation
+The Royal Institute for the Advancement of Learning/McGill University ,Noranda Inc.,1,1,directed,Mobility
+Northern Telecom Limited ,Nortel Networks Corporation ,2,0,directed,Mobility
+Queen's University ,Nortel Networks Corporation ,2,1,directed,Mobility
+Queen's University ,Northern Telecom Limited ,2,1,directed,Mobility
+Pharmacia Biotech Inc.,Nova Molecular Inc.,1,1,directed,Mobility
+The Royal Institute for the Advancement of Learning/McGill University ,Novartis AG ,4,1,directed,Mobility
+McGill Univeristy ,"Nuvelo, Inc.",1,1,directed,Mobility
+Nova Molecular Inc.,"Nuvelo, Inc.",1,1,directed,Mobility
+Rozen; Rima ,"Nuvelo, Inc.",1,1,directed,Mobility
+"Variagenics, Inc.","Nuvelo, Inc.",1,0,directed,Mobility
+DMS Pharmaceutical Inc.,Nymox Corporation ,1,1,directed,Mobility
+Nymox Pharmaceutical Corporation (St.,Nymox Corporation ,1,1,directed,Mobility
+Center for Translation Research in cancer ,Ocean University of China ,1,1,directed,Mobility
+McGill Univeristy ,"Ocera Therapeutics, Inc.",1,1,directed,Mobility
+The Board of Trustees of the University of Illinois ,"Ocera Therapeutics, Inc.",1,1,directed,Mobility
+"Tranzyme Pharma, Inc.","Ocera Therapeutics, Inc.",3,1,directed,Mobility
+National Research Coucil of Canada ,Odyssey Thera Inc.,1,1,directed,Mobility
+Odyssey Pharmaceuticals Inc.,Odyssey Thera Inc.,3,0,directed,Mobility
+"Biosyntech Canada, Inc.",Oligo Medic Inc ,2,1,directed,Mobility
+Piramal Healthcare ,Oligo Medic Inc ,2,1,directed,Mobility
+Cascades Canada ULC ,ORBITE TECHNOLOGIES INC.,1,1,directed,Mobility
+Exploration Orbite VSPA Inc.,ORBITE TECHNOLOGIES INC.,1,1,directed,Mobility
+National Research Coucil of Canada ,ORBITE TECHNOLOGIES INC.,1,1,directed,Mobility
+Chertkow; Howard ,Osta Biotechnologies ,1,1,directed,Mobility
+Queen's University at Kingston ,Osta Biotechnologies ,6,1,directed,Mobility
+Mimetogen Pharmaceuticals Inc.,"OTONOMY, INC.",1,1,directed,Mobility
+Veolia Water Solutions & Technologies Support ,OTV SA ,2,1,directed,Mobility
+Aquaconsult Anlagenbau GmbH ,OVIVO INC ,1,1,undirected,Cooperation
+McGill Univeristy ,"Paladin Labs, Inc.",1,0,directed,Mobility
+McGill Univeristy ,Pence ,1,1,undirected,Cooperation
+Massachusetts Institute of Technology ,"Phagetech, Inc.",1,1,directed,Mobility
+Targanta Therapeutics ,"Phagetech, Inc.",2,1,directed,Mobility
+Bio-Chem Pharma Inc.,Pharmacor Inc.,1,0,directed,Mobility
+Aegera Therapeutics Inc.,Pharmascience Inc.,1,0,directed,Mobility
+Merck Frosst Company ,Pharmascience Inc.,1,1,directed,Mobility
+Vertex Pharmaceuticals ,Pharmascience Inc.,1,1,directed,Mobility
+Centre National de la Rechecch Scientifique ,Phostech Lithium Inc.,3,1,undirected,Cooperation
+Universite d'Angers ,Phostech Lithium Inc.,5,0,directed,Mobility
+Pharmacia Biotech Inc.,"Pierce Biotechnology, Inc.",1,1,directed,Mobility
+"Variagenics, Inc.","Pierce Biotechnology, Inc.",1,1,directed,Mobility
+"Biosyntech Canada, Inc.",Piramal Healthcare ,1,1,directed,Mobility
+Institut de Cardiologie de Montreal ,PLUMOSCIENCE INC.,2,0,directed,Mobility
+HT Materials Corporation ,"Polymics, LTD ",2,1,directed,Mobility
+Ecole Polytechnique ,Polyvalor Societe en Commandite ,1,1,directed,Mobility
+Corporation de I'Ecole Polytechnique ,"Polyvalor, Limited Partnership ",1,0,directed,Mobility
+"Gas Metropolitain and Company, Limited ","Polyvalor, Limited Partnership ",1,0,directed,Mobility
+Polyvalor Societe en Commandite ,"Polyvalor, Limited Partnership ",1,1,directed,Mobility
+PYROWAVE INC.,"Polyvalor, Limited Partnership ",1,1,directed,Mobility
+Centre de Recherche de l'Hopital Ste-Justine ,Procrea BioSciences Inc.,2,0,directed,Mobility
+Bio-Chem Pharma Inc.,Prometic Biosciences Inc.,4,1,directed,Mobility
+"Tranzyme Pharma, Inc.",Prometic Biosciences Inc.,1,1,directed,Mobility
+Pharmacor Inc.,PROMETIC PHARMA SMT LIMITED ,1,1,directed,Mobility
+Prometic Biosciences Inc.,PROMETIC PHARMA SMT LIMITED ,7,1,directed,Mobility
+Rio Tinto Alcan International Limited ,PROMETIC PHARMA SMT LIMITED ,1,1,directed,Mobility
+Shire Biochem Inc.,PROMETIC PHARMA SMT LIMITED ,1,1,directed,Mobility
+"TaiMed Biologics, Inc.",PROMETIC PHARMA SMT LIMITED ,1,1,directed,Mobility
+McGill Univeristy ,Proscan RX Pharma ,2,0,directed,Mobility
+Theratechnologies Inc.,Proscan RX Pharma ,1,1,directed,Mobility
+Ecole Polytechnique ,Pulp and Paper Research Institute of Canada ,1,1,undirected,Cooperation
+Xerox Corporation ,Pulp and Paper Research Institute of Canada ,1,1,directed,Mobility
+Hydro-Quebec ,Pyrogenesis Inc.,1,0,directed,Mobility
+"Pegasus Refractory Materials, Inc.",Pyrogenesis Inc.,1,0,directed,Mobility
+American Diagnostica Inc.,"Quebepharma Recherche, Inc.",1,1,undirected,Cooperation
+Slemon; Clarke ,"Quebepharma Recherche, Inc.",2,1,directed,Mobility
+Nortel Networks Corporation ,Queen's University ,2,1,undirected,Cooperation
+Osta Biotechnologies ,Queen's University ,2,1,undirected,Cooperation
+Schipper; Hyman M.,Queen's University ,1,1,directed,Mobility
+The Sir Mortimer B.,Queen's University ,5,1,directed,Mobility
+"Bioartificial Gel Technologies Inc, ",RBA Pharma Inc.,2,0,directed,Mobility
+ConjuChem Inc.,"RedCell Canada, Inc.",2,0,directed,Mobility
+McGill Univeristy ,Regents of the University of Minnesota ,2,1,undirected,Cooperation
+Alcan Internatinal Limited ,Rio Tinto Alcan International Limited ,3,0,directed,Mobility
+Archambault; Denis ,Roques; Elodie ,1,1,undirected,Cooperation
+Noranda Inc.,Royal Canadian Mint ,1,1,directed,Mobility
+Adaerata Limited Partnership ,"RSEM, Limited Partnership ",1,0,undirected,Cooperation
+British Columbia Cancer Agency Branch ,"RSEM, Limited Partnership ",1,1,undirected,Cooperation
+Hospital Sainte-Justine ,"RSEM, Limited Partnership ",1,0,directed,Mobility
+Institut de Cardiologie de Montreal ,"RSEM, Limited Partnership ",1,0,directed,Mobility
+Sauvageau; Guy ,"RSEM, Limited Partnership ",1,1,directed,Mobility
+Theratechnologies Inc.,"RSEM, Limited Partnership ",1,1,directed,Mobility
+Universite d'Angers ,"RSEM, Limited Partnership ",2,0,directed,Mobility
+"Valorisation HSJ, Limited Partnership ","RSEM, Limited Partnership ",2,0,directed,Mobility
+SAFRAN ,SAFRAN AIRCRAFT ENGINES ,1,0,undirected,Cooperation
+ACADEMISCH ZIKENHUIS LEIDEN ,SANOFI PASTEUR LIMITED ,1,1,undirected,Cooperation
+ARIZONA BOARD OF REGENTS ,SANOFI PASTEUR LIMITED ,1,1,undirected,Cooperation
+Centre Hospitalier de l'Universite de Montreal ,SANOFI PASTEUR LIMITED ,1,1,undirected,Cooperation
+CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS ,SANOFI PASTEUR LIMITED ,1,1,undirected,Cooperation
+Humphries; Keith ,Sauvageau; Guy ,1,0,undirected,Cooperation
+Institut National de la Sante et de la Recherche Medicale ,Schering Corporation ,1,1,undirected,Cooperation
+Chertkow; Howard ,Schipper; Hyman M.,1,0,undirected,Cooperation
+The Sir Mortimer B.,Schipper; Hyman M.,1,1,directed,Mobility
+Bio-Chem Pharma Inc.,Shire Biochem Inc.,7,1,directed,Mobility
+Biochem Therapeutics Incorporated ,Shire Biochem Inc.,1,0,directed,Mobility
+"Cytovia, Inc.",Shire Biochem Inc.,1,1,undirected,Cooperation
+Delmar Chemicals ,Shire Biochem Inc.,1,1,directed,Mobility
+Glaxo Wellcome Inc.,Shire Biochem Inc.,1,1,directed,Mobility
+"IAF BioChem International, Inc.",Shire Biochem Inc.,2,1,directed,Mobility
+Hydro-Quebec ,SHOWA DENKO K.K.,1,1,undirected,Cooperation
+Centre de Recherche de l'Hopital Ste-Justine ,Signalgene ,1,1,directed,Mobility
+Torcan Chemical LTD ,Slemon; Clarke ,1,1,directed,Mobility
+Hydro-Quebec ,Societe Nationale Elf Aquitaine ,3,1,undirected,Cooperation
+Val-Chum Limited Partnership ,Socovar S.E.C.,3,0,directed,Mobility
+Universite Pierre Et Marie Curie ,Sorbonne University ,5,0,directed,Mobility
+The Royal Institute for the Advancement of Learning/McGill University ,"Synergistics Industries, Inc.",1,1,directed,Mobility
+"DANA-FARBER CANCER INSTITUTE, INC.","Syros Pharmaceuticals, Inc.",10,1,directed,Mobility
+Kong; Xianqi ,"Syros Pharmaceuticals, Inc.",1,1,directed,Mobility
+Merck Frosst Company ,"Syros Pharmaceuticals, Inc.",1,1,directed,Mobility
+Targanta Therapeutics ,"Syros Pharmaceuticals, Inc.",1,1,directed,Mobility
+Ambrilia Biopharma Inc.,"TaiMed Biologics, Inc.",1,1,directed,Mobility
+McGill Univeristy ,"TaiMed Biologics, Inc.",1,1,directed,Mobility
+"Methyl Gene, Inc.","TaiMed Biologics, Inc.",1,1,directed,Mobility
+Pharmacor Inc.,"TaiMed Biologics, Inc.",2,1,directed,Mobility
+Procyon Biopharma Inc.,"TaiMed Biologics, Inc.",1,1,directed,Mobility
+Universite d'Angers ,"TaiMed Biologics, Inc.",1,1,directed,Mobility
+"Phagetech, Inc.",Targanta Therapeutics ,1,0,directed,Mobility
+Universite d'Angers ,Targanta Therapeutics ,1,1,directed,Mobility
+"CERESTECH, INC.",TEKNOR APEX COMPANY ,1,1,undirected,Cooperation
+"Polyvalor, Limited Partnership ",TEKNOR APEX COMPANY ,1,1,directed,Mobility
+Ecopia Biosciences Inc.,"Tetraphase Pharmaceuticals, Inc.",1,1,directed,Mobility
+Gemin X Biotechnologies ,"Tetraphase Pharmaceuticals, Inc.",1,0,directed,Mobility
+ID Biomedical Corporation of Quebec ,"Tetraphase Pharmaceuticals, Inc.",1,1,directed,Mobility
+Montedison S.p.A.,The Abestos Institute ,1,1,directed,Mobility
+The Asbestos Institute ,The Abestos Institute ,1,1,directed,Mobility
+McGill Univeristy ,The Administrators of the Tulane Educational Fund ,2,1,undirected,Cooperation
+McGill Univeristy ,The Council of the Queensland Institute of Medical Research ,1,1,undirected,Cooperation
+McGill Univeristy ,The Hong Kong Polytechnic University ,9,1,undirected,Cooperation
+McGill Univeristy ,The Hong Kong Polytechnic University ,6,1,directed,Mobility
+The Royal Institute for the Advancement of Learning/McGill University ,The Hong Kong Polytechnic University ,1,1,directed,Mobility
+University of South Florida ,The Hong Kong Polytechnic University ,9,1,directed,Mobility
+Institut de Cardiologie de Montreal ,The Hospital for Sick Children ,1,1,undirected,Cooperation
+Canada Packers Limited ,The Institute of Microbiology and Hygiene of the University of Montreal ,4,1,undirected,Cooperation
+Targanta Therapeutics ,The Medicines Company ,3,1,directed,Mobility
+Bio-Mega Inc.,The National Research Council of Canada ,1,1,directed,Mobility
+Ohio State University Research Foundation ,The Ohio State University Research Foundation ,2,0,directed,Mobility
+"Exelixis Pharmaceuticals, Inc.",The Regents of the University of California ,1,1,undirected,Cooperation
+Humphries; Keith ,The Regents of the University of California ,1,0,undirected,Cooperation
+"Isis Pharmaceuticals, Inc.",The Regents of the University of California ,1,1,directed,Mobility
+McGill Univeristy ,The Regents of the University of California ,1,1,directed,Mobility
+Sauvageau; Guy ,The Regents of the University of California ,1,0,undirected,Cooperation
+McGill Univeristy ,The Rockefeller University ,2,1,undirected,Cooperation
+Florida Institute of Technology ,The Royal Institute for the Advancement of Learning/McGill University ,2,1,undirected,Cooperation
+GERMAN CANCER RESEARCH CENTER ,The Royal Institute for the Advancement of Learning/McGill University ,2,1,undirected,Cooperation
+Hong Kong Polytechnic University ,The Royal Institute for the Advancement of Learning/McGill University ,1,1,undirected,Cooperation
+Li; Chao-Jun ,The Royal Institute for the Advancement of Learning/McGill University ,1,1,directed,Mobility
+McGill Univeristy ,The Royal Institute for the Advancement of Learning/McGill University ,1,0,undirected,Cooperation
+McGill Univeristy ,The Royal Institute for the Advancement of Learning/McGill University ,4,1,directed,Mobility
+Merck Frosst Company ,The Royal Institute for the Advancement of Learning/McGill University ,2,1,directed,Mobility
+Merk Frosst Canada & Co.,The Royal Institute for the Advancement of Learning/McGill University ,1,1,directed,Mobility
+Novartis AG ,The Royal Institute for the Advancement of Learning/McGill University ,2,1,undirected,Cooperation
+Ocean University of China ,The Royal Institute for the Advancement of Learning/McGill University ,1,1,undirected,Cooperation
+"Paladin Labs, Inc.",The Royal Institute for the Advancement of Learning/McGill University ,1,0,directed,Mobility
+"Polymics, LTD ",The Royal Institute for the Advancement of Learning/McGill University ,1,1,directed,Mobility
+Royal Institute for the Advancement of Learning ,The Royal Institute for the Advancement of Learning/McGill University ,2,1,directed,Mobility
+The Hong Kong Polytechnic University ,The Royal Institute for the Advancement of Learning/McGill University ,2,1,undirected,Cooperation
+The Hong Kong Polytechnic University ,The Royal Institute for the Advancement of Learning/McGill University ,5,1,directed,Mobility
+The Regents of the University of California ,The Royal Institute for the Advancement of Learning/McGill University ,1,1,undirected,Cooperation
+UNIVERSITATSKLINIKUM HEIDELBERG ,The Royal Institute for the Advancement of Learning/McGill University ,9,1,directed,Mobility
+Universite d'Angers ,The Royal Institute for the Advancement of Learning/McGill University ,7,0,directed,Mobility
+University of South Florida ,The Royal Institute for the Advancement of Learning/McGill University ,1,1,directed,Mobility
+Wisconsin Alumni Research Foundation ,The Royal Institute for the Advancement of Learning/McGill University ,6,1,directed,Mobility
+Chertkow; Howard ,The Sir Mortimer B.,1,0,undirected,Cooperation
+Osta Biotechnologies ,The Sir Mortimer B.,2,1,undirected,Cooperation
+Queen's University at Kingston ,The Sir Mortimer B.,2,1,undirected,Cooperation
+Schipper; Hyman M.,The Sir Mortimer B.,2,0,undirected,Cooperation
+Institut de Cardiologie de Montreal ,The Trustees of the University of Pennsylvania ,1,1,undirected,Cooperation
+"Valorisation-Recherche, Societe en Commandite ",The Trustees of the University of Pennsylvania ,4,1,directed,Mobility
+Institut National de Recherche Scientifique ,"The United States of America, as represented by the Department of Health ",2,1,undirected,Cooperation
+The Regents of the University of California ,The Universite de Montreal ,1,1,undirected,Cooperation
+OVIVO INC ,The University of Akron ,1,1,undirected,Cooperation
+Angiochem Inc.,Theratechnologies Inc.,1,0,directed,Mobility
+Bioaxone Therapeutique Inc.,Theratechnologies Inc.,2,1,directed,Mobility
+Conjuchem Biotechnologies Inc.,Theratechnologies Inc.,1,0,directed,Mobility
+ConjuChem Inc.,Theratechnologies Inc.,1,0,directed,Mobility
+Hospital Sainte-Justine ,Theratechnologies Inc.,1,1,directed,Mobility
+Transfert Plus ,Theratechnologies Inc.,2,0,directed,Mobility
+Universite d'Angers ,Theratechnologies Inc.,2,0,directed,Mobility
+ConjuChem Inc.,Thrasos Therapeutics Inc.,1,0,directed,Mobility
+Aegera Therapeutics Inc.,"Tranzyme Pharma, Inc.",1,1,directed,Mobility
+Canadian Industries Limited ,Tricil Limited ,1,0,undirected,Cooperation
+Micropharma Limited ,UAS Laboratories LLC ,2,1,directed,Mobility
+Peiromont and Company Limited ,Union Carbide Chemicals & Plastics Technology Corporation ,1,1,undirected,Cooperation
+National Research Coucil of Canada ,Union Carbide Corporation ,1,0,undirected,Cooperation
+"The University of British Columbia (Vancouver, B.C.",Universidad Nacional Autonoma de Mexico,1,1,undirected,Cooperation
+CONSORZIO INTERUNIVERSITARIO NAZIONALE PER LA SCIENZA E TECNOLOGIA DEI MATERIALI INSTM ,Universita Degli Studi di Milano ,1,1,undirected,Cooperation
+FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.,Universita Degli Studi di Milano ,1,1,undirected,Cooperation
+Hydro-Quebec ,Universita Degli Studi di Milano ,1,1,undirected,Cooperation
+McGill Univeristy ,Universita Degli Studi di Milano ,1,1,undirected,Cooperation
+SHOWA DENKO K.K.,Universita Degli Studi di Milano ,2,1,directed,Mobility
+GERMAN CANCER RESEARCH CENTER ,UNIVERSITATSKLINIKUM HEIDELBERG ,2,1,undirected,Cooperation
+The Royal Institute for the Advancement of Learning/McGill University ,UNIVERSITATSKLINIKUM HEIDELBERG ,2,1,undirected,Cooperation
+ACADEMISCH ZIKENHUIS LEIDEN ,Universite d'Angers ,1,1,undirected,Cooperation
+ACEP Inc ,Universite d'Angers ,13,1,undirected,Cooperation
+"Amicus Therapeutics, Inc.",Universite d'Angers ,1,1,undirected,Cooperation
+ARIZONA BOARD OF REGENTS ,Universite d'Angers ,1,1,undirected,Cooperation
+Biosystemix Ltd.,Universite d'Angers ,1,1,undirected,Cooperation
+Biosystemix Ltd.,Universite d'Angers ,1,1,directed,Mobility
+Bristol-Meyers Company ,Universite d'Angers ,3,1,undirected,Cooperation
+Bristol-Meyers Company ,Universite d'Angers ,14,1,directed,Mobility
+Centre de la Recherche Scientifique ,Universite d'Angers ,1,0,undirected,Cooperation
+Centre Hospitalier de l'Universite de Montreal ,Universite d'Angers ,2,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,Universite d'Angers ,16,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,Universite d'Angers ,1,1,directed,Mobility
+CNRS ,Universite d'Angers ,2,1,undirected,Cooperation
+CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS ,Universite d'Angers ,1,1,undirected,Cooperation
+Hopital Maisonneuve-Rosemont ,Universite d'Angers ,3,0,undirected,Cooperation
+Hydro-Quebec ,Universite d'Angers ,3,0,undirected,Cooperation
+Institut de Cardiologie de Montreal ,Universite d'Angers ,1,0,directed,Mobility
+Institut National de la Sante et de la Recherche Medicale ,Universite d'Angers ,1,1,undirected,Cooperation
+Institute of Organic Chemistry National Academy of Sciences of Ukraine ,Universite d'Angers ,2,1,undirected,Cooperation
+Johnson Matthey Public Limited Company ,Universite d'Angers ,1,1,undirected,Cooperation
+La Corporation de l'Ecole Polytechnique ,Universite d'Angers ,1,0,undirected,Cooperation
+McGill Univeristy ,Universite d'Angers ,1,1,undirected,Cooperation
+Merck Frosst Company ,Universite d'Angers ,1,1,directed,Mobility
+Merck Sharp & Dohme Corp.,Universite d'Angers ,2,1,directed,Mobility
+"Methyl Gene, Inc.",Universite d'Angers ,1,1,directed,Mobility
+MOUNT SINAI HOSPITAL ,Universite d'Angers ,2,1,undirected,Cooperation
+Phostech Lithium Inc.,Universite d'Angers ,4,1,undirected,Cooperation
+SANOFI PASTEUR LIMITED ,Universite d'Angers ,1,1,undirected,Cooperation
+Societe Nationale Elf Aquitaine ,Universite d'Angers ,1,1,directed,Mobility
+The Regents of the University of California ,Universite d'Angers ,1,1,directed,Mobility
+The Royal Institute for the Advancement of Learning/McGill University ,Universite d'Angers ,4,0,undirected,Cooperation
+"The United States of America, as represented by the Department of Health ",Universite d'Angers ,1,1,undirected,Cooperation
+Theratechnologies Inc.,Universite d'Angers ,1,1,undirected,Cooperation
+Universite Joseph Fourier ,Universite d'Angers ,1,1,directed,Mobility
+Val-Chum L.P.,Universite d'Angers ,5,0,directed,Mobility
+"Valorisation HSJ, Limited Partnership ",Universite d'Angers ,2,0,directed,Mobility
+Valorisation-Recherche L.P.,Universite d'Angers ,3,0,directed,Mobility
+ViiV Healthcare UK (No.,Universite d'Angers ,2,1,directed,Mobility
+McGill Univeristy ,Universite Laval ,1,1,directed,Mobility
+Shire Biochem Inc.,Universite Laval ,1,1,directed,Mobility
+Bristol-Meyers Company ,Universite Louis Pasteur ,1,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,Universite Louis Pasteur ,3,0,undirected,Cooperation
+"E. R. Squibb & Sons, Inc.",Universite Louis Pasteur ,2,1,undirected,Cooperation
+Institut National de la Sante et de la Recherche Medicale ,Universite Louis Pasteur ,3,1,undirected,Cooperation
+"Valorisation HSJ, Limited Partnership ",Universite Pierre Et Marie Curie ,1,1,directed,Mobility
+"Valorisation HSJ, Societe en Commandite ",Universite Pierre Et Marie Curie ,1,1,directed,Mobility
+"SeaTek Marine Biotechnology, Inc.",University of British Columbia ,1,1,undirected,Cooperation
+Universite d'Angers ,University of Massachusettes ,1,1,undirected,Cooperation
+Universite d'Angers ,University of Montreal ,3,1,directed,Mobility
+"Valorisation HSJ, Societe en Commandite ",University of Montreal ,1,1,directed,Mobility
+Xerox Corporation ,University of Montreal ,9,1,directed,Mobility
+McGill Univeristy ,University of South Florida ,7,1,undirected,Cooperation
+The Hong Kong Polytechnic University ,University of South Florida ,7,1,undirected,Cooperation
+Wayne State University ,University of South Florida ,8,1,directed,Mobility
+McGill Univeristy ,University of Vermont and State Agricultural College ,1,1,undirected,Cooperation
+The Royal Institute for the Advancement of Learning/McGill University ,Val-Chum Limited Partnership ,4,0,undirected,Cooperation
+Universite d'Angers ,Val-Chum Limited Partnership ,4,0,undirected,Cooperation
+Centre Hospitalier de l'Universite de Montreal ,Val-Chum Limited Partnership ,2,0,directed,Mobility
+Socovar S.E.C.,Val-Chum Limited Partnership ,2,0,undirected,Cooperation
+The Royal Institute for the Advancement of Learning/McGill University ,"Val-Chum, S.E.C.",1,0,undirected,Cooperation
+Universite d'Angers ,"Val-Chum, S.E.C.",2,0,directed,Mobility
+Conseil National de Recherches Canada ,Valorbec Societe en Commandite ,1,1,undirected,Cooperation
+THE UNIVERSITY OF MANITOBA ,Valorbec Societe en Commandite ,1,1,undirected,Cooperation
+The Asbestos Institute ,Valorbec Societe en Commandite ,1,0,directed,Mobility
+Universite Paul Sabatier Toulouse III ,"Valorisation HSJ, Limited Partnership ",1,1,directed,Mobility
+"Valorisation HSJ, Societe en Commandite ","Valorisation HSJ, Limited Partnership ",1,0,directed,Mobility
+Valorisation-Recherche L.P.,"Valorisation HSJ, Limited Partnership ",7,0,directed,Mobility
+Adaerata Limited Partnership ,Valorisation-Recherche L.P.,1,0,undirected,Cooperation
+British Columbia Cancer Agency Branch ,Valorisation-Recherche L.P.,1,1,undirected,Cooperation
+Centre National de la Rechecch Scientifique ,Valorisation-Recherche L.P.,5,1,undirected,Cooperation
+Odyssey Thera Inc.,Valorisation-Recherche L.P.,2,1,directed,Mobility
+"RSEM, Limited Partnership ",Valorisation-Recherche L.P.,2,0,undirected,Cooperation
+Universite d'Angers ,Valorisation-Recherche L.P.,1,0,directed,Mobility
+Universite Paul Sabatier Toulouse III ,Valorisation-Recherche L.P.,1,1,undirected,Cooperation
+"Valorisation HSJ, Limited Partnership ",Valorisation-Recherche L.P.,4,0,undirected,Cooperation
+"Valorisation HSJ, Societe en Commandite ",Valorisation-Recherche L.P.,2,0,directed,Mobility
+"Valorisation-Recherche, Societe en Commandite ",Valorisation-Recherche L.P.,3,0,directed,Mobility
+Institut de Cardiologie de Montreal ,"Valorisation-Recherche, Societe en Commandite ",1,0,undirected,Cooperation
+The Trustees of the University of Pennsylvania ,"Valorisation-Recherche, Societe en Commandite ",2,1,undirected,Cooperation
+"Valorisation HSJ, Societe en Commandite ","Valorisation-Recherche, Societe en Commandite ",1,0,undirected,Cooperation
+Merck Frosst Company ,Vanderbilt University ,3,1,undirected,Cooperation
+Institut Pasteur ,"Variagenics, Inc.",1,1,undirected,Cooperation
+Nova Molecular Inc.,"Variagenics, Inc.",1,1,directed,Mobility
+OTV SA ,Veolia Water Solutions & Technologies Support ,1,1,directed,Mobility
+Actelion Pharmaceuticals Ltd.,Vertex Pharmaceuticals ,1,1,directed,Mobility
+Bio-Chem Pharma Inc.,Vertex Pharmaceuticals ,2,1,directed,Mobility
+Biochem Therapeutics Incorporated ,Vertex Pharmaceuticals ,1,1,directed,Mobility
+Boehringer Ingelheim International GmbH ,Vertex Pharmaceuticals ,1,1,directed,Mobility
+"Isis Pharmaceuticals, Inc.",Vertex Pharmaceuticals ,1,1,directed,Mobility
+Merck Frosst Company ,Vertex Pharmaceuticals ,2,1,directed,Mobility
+Merck Sharp & Dohme Corp.,Vertex Pharmaceuticals ,1,1,directed,Mobility
+Shire Biochem Inc.,Vertex Pharmaceuticals ,4,1,directed,Mobility
+Societe de Conseils de Recherches et d'Applications Scientifiques ,Vertex Pharmaceuticals ,1,1,directed,Mobility
+The Medicines Company ,Vertex Pharmaceuticals ,1,1,directed,Mobility
+"Viro Chem Pharma, Inc.",Vertex Pharmaceuticals ,18,1,directed,Mobility
+McGill Univeristy ,Wayne State University ,2,1,undirected,Cooperation
+The Hong Kong Polytechnic University ,Wayne State University ,2,1,undirected,Cooperation
+University of South Florida ,Wayne State University ,2,1,undirected,Cooperation
+Massachusetts Institute of Technology ,Whitehead Institute for Biomedical Research ,1,0,undirected,Cooperation
+The Royal Institute for the Advancement of Learning/McGill University ,Wisconsin Alumni Research Foundation ,2,1,undirected,Cooperation
+American Home Products Corp.,Wyeth ,5,0,directed,Mobility
+"Ayerst, McKeena & Harrison, Inc.",Wyeth ,1,1,directed,Mobility
+University of Montreal ,Xerox Corporation ,1,1,undirected,Cooperation
+National Research Coucil of Canada ,ZYMEWORKS INC.,1,1,undirected,Cooperation
