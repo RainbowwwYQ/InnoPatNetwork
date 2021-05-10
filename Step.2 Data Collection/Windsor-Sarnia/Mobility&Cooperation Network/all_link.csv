@@ -1,0 +1,376 @@
+Source,Target,Weight,If_across,Type,Category
+American Home Products Corp.,American Can Company ,1,0,directed,Mobility
+American Home Products Corp.,Wyeth ,1,0,directed,Mobility
+BASF Corporation ,BASF Catalysts LLC ,2,0,directed,Mobility
+Bayer Aktiengesellschaft ,LANXESS Deutschland GmbH ,8,0,directed,Mobility
+Bayer Inc.,ARLANXEO Canada Inc.,1,0,directed,Mobility
+Bayer Inc.,Lanxess Inc.,8,0,directed,Mobility
+Bayer Rubber Inc.,Lanxess Inc.,1,0,directed,Mobility
+Board of Governors of Wayne State University ,The Board of Governors of Wayne State University ,2,0,directed,Mobility
+Bristol-Meyers Squibb Company ,"AMIRA PHARMACEUTICALS, INC.",1,0,directed,Mobility
+Bristol-Meyers Squibb Company ,"Flexus Biosciences, Inc.",4,0,directed,Mobility
+Cities Service Co.,Cities Service Oil & Gas Corp ,4,0,directed,Mobility
+Colorado State University Research Foundation ,"SOLIX ALGREDIENTS, INC.",1,0,directed,Mobility
+Combustion Engineering ,ABB Environmental Services Inc.,1,0,directed,Mobility
+"E. R. Squibb & Sons, Inc.",Bristol-Meyers Squibb Company ,12,0,directed,Mobility
+Exxon Chemical Patents Inc ,United Technologies Corp.,3,0,directed,Mobility
+Exxon Research & Engineering Co.,Exxon Chemical Patents Inc ,6,0,directed,Mobility
+GreenField Ethanol Inc.,GreenField Specialty Alcohols Inc.,2,0,directed,Mobility
+Hamilton Sunstrand Corporation ,"HAMILTON SUNDSTRAND SPACE SYSTEM INTERNATIONAL, INC.",3,0,directed,Mobility
+"Headwaters Technology Innovation, LLC ","Hydrocarbon Technologies Innovation Group, Inc.",1,0,directed,Mobility
+Henkel Loctite Corporation ,Henkel Corporation ,2,0,directed,Mobility
+Hydrocarbon Technologies ,"Headwaters Technology Innovation, LLC ",1,0,directed,Mobility
+Hydrocarbon Technologies ,"Hydrocarbon Technologies Innovation Group, Inc.",3,0,directed,Mobility
+i-Stat Corporation ,Abbott Point of Care Inc.,4,0,directed,Mobility
+"IGEN International, Inc.",BioVeris Corporation ,6,0,directed,Mobility
+International Fuel Cells ,"Doosan Fuel Cell America, Inc.",3,0,directed,Mobility
+International Fuel Cells ,DTC Fuel Cells LLC ,1,0,directed,Mobility
+International Fuel Cells ,"UTC Fuel Cells, LLC ",6,0,directed,Mobility
+Johnson & Johnson ,Chicopee ,1,0,directed,Mobility
+Lanxess Inc.,ARLANXEO Canada Inc.,2,0,directed,Mobility
+Lanxess Inc.,Bayer Inc.,10,0,directed,Mobility
+Merck & Co.,Merck Sharp & Dohme ,4,0,directed,Mobility
+MSD OSS B.V.,Merck Sharp & Dohme ,9,0,directed,Mobility
+Nepera Inc.,Cambrex Hydrogels ,1,0,directed,Mobility
+Pennwalt Corporation ,"Atochem North America, Inc.",3,0,directed,Mobility
+Polymer Corporation Limited ,Bayer Inc.,2,0,directed,Mobility
+Polymer Corporation Limited ,Bayer Rubber Inc.,1,0,directed,Mobility
+Polymer Corporation Limited ,Lanxess Inc.,3,0,directed,Mobility
+Polymer Corporation Limited ,Nova Chemicals ,3,0,directed,Mobility
+Polymer Corporation Limited ,Polysar Rubber Corporation ,5,0,directed,Mobility
+Polysar Rubber Corporation ,Bayer Rubber Inc.,1,0,directed,Mobility
+Polysar Rubber Corporation ,Lanxess Inc.,1,0,directed,Mobility
+Polysar Rubber Corporation ,Polymer Corporation Limited ,1,0,directed,Mobility
+RCA Corporation ,RCA Licensing Corp.,1,0,directed,Mobility
+Reckitt Benckiser Inc.,Reckitt & Colman Inc.,9,0,directed,Mobility
+Rhone Poulenc Inc.,Rhodia Inc.,3,0,directed,Mobility
+Sanofi ,"LG Electronics, Inc.",4,0,directed,Mobility
+Scheeing Corporation ,Schering Plough Corporation ,9,0,directed,Mobility
+Schering Plough Corporation ,Scheeing Corporation ,9,0,directed,Mobility
+ScinoPharm ," Pharmaceuticals, Ltd.",3,0,directed,Mobility
+"Soladigm, Inc.","View, Inc.",1,0,directed,Mobility
+"Solix Biosystems, Inc.","SOLIX ALGREDIENTS, INC.",3,0,directed,Mobility
+Standard Oil Company ,The Standard Oil Co.,3,0,directed,Mobility
+The Dow Chemical Company ,Dow Global Technologies ,5,0,directed,Mobility
+THE TRUSTESS OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK ,THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK ,7,0,directed,Mobility
+"The University of Western Ontario, in trust for Surface Science Western ",University of Waterloo ,1,0,directed,Mobility
+"TherOx, Inc.","DynamOx, Inc.",5,0,directed,Mobility
+Union Carbide Corporation ,Mobile Oil Corporation ,1,0,directed,Mobility
+"UTC Fuel Cells, LLC ",Hamilton Sundstrand Corporation ,3,0,directed,Mobility
+"UTC Fuel Cells, LLC ",Hamilton Sunstrand Corporation ,2,0,directed,Mobility
+"UTC Fuel Cells, LLC ",International Fuel Cells ,1,0,directed,Mobility
+"UTC Fuel Cells, LLC ",UTC Power Corporation ,16,0,directed,Mobility
+"View, Inc.","Soladigm, Inc.",6,0,directed,Mobility
+Wayne State University ,The Board of Governors of Wayne State University ,2,0,directed,Mobility
+Wyeth ,American Home Products Corp.,5,0,directed,Mobility
+Wyeth ,Wyeth Holdings Corporation ,5,0,directed,Mobility
+" Pharmaceuticals, Ltd.",ScinoPharm ,2,0,undirected,Cooperation
+"AMIRA PHARMACEUTICALS, INC.",Bristol-Meyers Squibb Company ,1,0,undirected,Cooperation
+Collins and Aikman Corporation ,Exxon Research & Engineering Co.,1,0,undirected,Cooperation
+Colorado State University Research Foundation ,"SOLIX ALGREDIENTS, INC.",1,0,undirected,Cooperation
+Colorado State University Research Foundation ,"Solix Biosystems, Inc.",1,0,undirected,Cooperation
+Commonwealth Scientific ,Industrial Research Organisation ,1,0,undirected,Cooperation
+Commonwealth Scientific ,The Broken Hill Proprietary Company Limited ,1,0,undirected,Cooperation
+"DynamOx, Inc.","TherOx, Inc.",2,0,undirected,Cooperation
+Industrial Research Organisation ,The Broken Hill Proprietary Company Limited ,1,0,undirected,Cooperation
+"LG Electronics, Inc.",Sanofi ,1,0,undirected,Cooperation
+The University of Western Ontario ,"The University of Western Ontario, in trust for Surface Science Western ",1,0,undirected,Cooperation
+"3-Dimensional Pharmaceuticals, Inc.","Boehringer Ingelheim Pharmaceuticals, Inc.",1,1,directed,Mobility
+"3-Dimensional Pharmaceuticals, Inc.",Janssen Pharmaceutica NV ,1,1,directed,Mobility
+Abb Lummus Global Inc.,BASF Corporation ,1,1,directed,Mobility
+"Accelrys Software, Inc.",Bristol-Meyers Squibb Company ,1,1,directed,Mobility
+Alberta Oil Sands Technology & Research Authority ,"Headwaters Heavy Oil, LLC ",2,1,directed,Mobility
+American Can Company ,American Home Products Corp.,2,1,directed,Mobility
+American Can Company ,BASF Aktiengesellschaft ,1,1,directed,Mobility
+American Can Company ,BASF Corporation ,1,1,directed,Mobility
+American Home Products Corp.,John Wyeth & Bro.,1,1,directed,Mobility
+American Telephone and Telegraph Company ,Bristol-Meyers Squibb Company ,1,1,directed,Mobility
+Amoco Corporation ,Henkel Research Corporation ,1,1,directed,Mobility
+"Anzon America, Inc.","N L Industries, Inc.",1,1,directed,Mobility
+ARLANXEO Deutschland GmbH ,ARLANXEO Canada Inc.,1,1,directed,Mobility
+ARLANXEO Switzerland S.A.,ARLANXEO Deutschland GmbH ,5,1,directed,Mobility
+ARLANXEO Switzerland S.A.,LANXESS Deutschland GmbH ,1,1,directed,Mobility
+AT&T Bell Laboratories ,American Telephone and Telegraph Company ,2,1,directed,Mobility
+Aventis Pharmaceuticals Inc.,Sanofi ,3,1,directed,Mobility
+BASF Aktiengesellschaft ,Exxon Chemical Patents Inc ,1,1,directed,Mobility
+Bayer Aktiengesellschaft ,ARLANXEO Switzerland S.A.,1,1,directed,Mobility
+Bayer Aktiengesellschaft ,Bayer Inc.,2,1,directed,Mobility
+Bayer Aktiengesellschaft ,Lanxess Inc.,2,1,directed,Mobility
+Bayer Aktiengesellschaft ,Miles Inc.,2,1,directed,Mobility
+Bayer CropScience AG ,FMC Corporation ,14,1,directed,Mobility
+Bayer Inc.,ARLANXEO Deutschland GmbH ,2,1,directed,Mobility
+Bayer Inc.,Bayer Aktiengesellschaft ,1,1,directed,Mobility
+Bayer Inc.,LANXESS Deutschland GmbH ,2,1,directed,Mobility
+Bayer Rubber Inc.,Bayer Aktiengesellschaft ,2,1,directed,Mobility
+Bell Telephone Laboratories ,"AT&T Technologies, Inc.",2,1,directed,Mobility
+"BIOWA, Inc.",ASTRAZENECA AB ,4,1,directed,Mobility
+BJ Services Company ,Rhodia Inc.,1,1,directed,Mobility
+Board of Governors of Wayne State University ,Abbott Laboratories ,2,1,directed,Mobility
+"Boehringer Ingelheim Pharmaceuticals, Inc.",Janssen Pharmaceutica NV ,1,1,directed,Mobility
+Brandt Technologies ,"Brandt Manufacturing Systems, Inc.",2,1,directed,Mobility
+Brandt Technologies ,Heineken Technical Services B.V.,2,1,directed,Mobility
+Bristol-Meyers Squibb Company ,"Cubist Pharmaceuticals, Inc.",1,1,directed,Mobility
+Bristol-Meyers Squibb Company ,"Hydra Biosciences, Inc.",1,1,directed,Mobility
+Bristol-Meyers Squibb Company ,Merck Sharp & Dohme ,2,1,directed,Mobility
+Carrier Corporation ,Hamilton Sunstrand Corporation ,1,1,directed,Mobility
+Celltech Limited ,Aluguisse Holding A.G.,1,1,directed,Mobility
+"Cephalon, Inc.",Bristol-Meyers Squibb Company ,1,1,directed,Mobility
+"Cephalon, Inc.","Pharmacopeia Drug Disclovery, Inc.",1,1,directed,Mobility
+Chimie; Rhodia ,Rhodia Chimie ,1,1,directed,Mobility
+Cities Service Co.,Mobile Oil Corporation ,1,1,directed,Mobility
+ClearEdge Power Corporation ,"Doosan Fuel Cell America, Inc.",3,1,directed,Mobility
+"CLIPLIGHT HOLDINGS, LTD.",Allied Products Corporation ,1,1,directed,Mobility
+Cogas Development Company ,FMC Corporation ,1,1,directed,Mobility
+"Cognis, Inc.",Henkel Corporation ,5,1,directed,Mobility
+Canadian Patents and Development Limited ,Exxon Research & Engineering Co.,1,1,directed,Mobility
+Combustion Engineering ,ALSTOM Technology Ltd ,3,1,directed,Mobility
+Collins and Aikman Corporation ,Exxon Research & Engineering Co.,2,1,directed,Mobility
+Dendreon Corporation ,Merck Sharp & Dohme ,2,1,directed,Mobility
+"E. R. Squibb & Sons, Inc.","AGIOS PHARMACEUTICALS, INC ",1,1,directed,Mobility
+"E. R. Squibb & Sons, Inc.","Cubist Pharmaceuticals, Inc.",1,1,directed,Mobility
+"E. R. Squibb & Sons, Inc.",Lexicon Pharmaceuticals ,1,1,directed,Mobility
+Eastman Kodak Company ,Kodak Polychrome Graphics LLC ,1,1,directed,Mobility
+Emhart Corporation ,Emhart Glass S.A.,1,1,directed,Mobility
+Emhart Glass Machinery Investments Inc.,Emhart Glass S.A.,1,1,directed,Mobility
+"Emhart Industries, Inc.",Emhart Glass Machinery Investments Inc.,2,1,directed,Mobility
+"Emhart Industries, Inc.",Emhart Glass S.A.,1,1,directed,Mobility
+"Emhart Industries, Inc.",International Partners in Glass Research ,1,1,directed,Mobility
+Engelhard Corporation ,BASF Corporation ,1,1,directed,Mobility
+Enichem Synthesis S.P.A.,Enichem S.p.A.,1,1,directed,Mobility
+"Ethicon, Inc.","Johnson & Johnson Consumer Companies, Inc.",1,1,directed,Mobility
+Euro-Celtique S.A.,"Amicus Therapeutics, Inc.",1,1,directed,Mobility
+Euro-Celtique S.A.,Universite de Montreal ,1,1,directed,Mobility
+Exxon Research & Engineering Co.,BP Corporation North America Inc.,2,1,directed,Mobility
+CPC International Inc.,Exxon Research & Engineering Co.,1,1,directed,Mobility
+Exxon Research & Engineering Co.,Imperial Oil Enterprises Ltd.,1,1,directed,Mobility
+Exxon Research & Engineering Co.,Imperial Oil Limited ,1,1,directed,Mobility
+Exxon Research & Engineering Co.,Infineum International Inc.,1,1,directed,Mobility
+ExxonMobil Oil Corporation ,Exxon Chemical Patents Inc ,1,1,directed,Mobility
+ExxonMobil Reasearch and Engineering Company ,Exxon Research & Engineering Co.,3,1,directed,Mobility
+ExxonMobil Reasearch and Engineering Company ,ExxonMobil Upstream Research Company ,1,1,directed,Mobility
+Imperial Oil Enterprises Ltd.,Exxon Research & Engineering Co.,1,1,directed,Mobility
+Imperial Oil Limited ,Exxon Research & Engineering Co.,2,1,directed,Mobility
+Exxon Research & Engineering Co.,ExxonMobil Reasearch and Engineering Company ,25,1,directed,Mobility
+F.,Bristol-Meyers Squibb Company ,1,1,directed,Mobility
+F.,Hoffmann-La Roche Inc.,5,1,directed,Mobility
+"Flex Product, Inc.",JDS Uniphase Corporation ,3,1,directed,Mobility
+"Flex Product, Inc.",Viavi Solutions Inc.,2,1,directed,Mobility
+FMC Corporation ,Bayer CropScience AG ,4,1,directed,Mobility
+FMC Corporation ,"Cephalon, Inc.",1,1,directed,Mobility
+FMC Corporation ,Hercules Chemical Company Inc.,1,1,directed,Mobility
+FMC Corporation ,Universal Display Corporation ,1,1,directed,Mobility
+GAF Corporation ,Tarkett AB ,1,1,directed,Mobility
+General Electric Co.,"David Sarnoff Research Center, Inc.",4,1,directed,Mobility
+H.,"MindImmune Therapeutics, Inc.",1,1,directed,Mobility
+"HAMILTON SUNDSTRAND SPACE SYSTEM INTERNATIONAL, INC.",Carrier Corporation ,1,1,directed,Mobility
+"Headwaters Technology Innovation, LLC ","Headwaters Heavy Oil, LLC ",4,1,directed,Mobility
+Henkel Corporation ,Henkel IP & Holding GmbH ,1,1,directed,Mobility
+Henkel Loctite Corporation ,Henkel IP & Holding GmbH ,1,1,directed,Mobility
+Heska Corporation ,Colorado State University Research Foundation ,4,1,directed,Mobility
+"Hydra Biosciences, Inc.","Cubist Pharmaceuticals, Inc.",1,1,directed,Mobility
+"Idemitsu Kosan Co., Ltd.",American Can Company ,1,1,directed,Mobility
+"Idemitsu Kosan Co., Ltd.",BASF Corporation ,1,1,directed,Mobility
+"IMPACT Therapeutics, Inc.",Princeton Drug Discovery Inc ,1,1,directed,Mobility
+ExxonMobil Upstream Research Company ,ExxonMobil Reasearch and Engineering Company ,1,1,directed,Mobility
+International Business Machines Corporation ,Crystalline Materials Corporation ,5,1,directed,Mobility
+International Fuel Cells ,United Technologies Corp.,2,1,directed,Mobility
+Janssen Pharmaceutica NV ,Merck Sharp & Dohme ,1,1,directed,Mobility
+JDS Uniphase Corporation ,"Flex Product, Inc.",6,1,directed,Mobility
+JDS Uniphase Corporation ,Viavi Solutions Inc.,6,1,directed,Mobility
+John Wyeth & Bro.,American Home Products Corp.,1,1,directed,Mobility
+Johnson Matthey Public Limited Company ,BASF SE ,1,1,directed,Mobility
+"Kemeta, LLC ","Kamata, LLC ",6,1,directed,Mobility
+Kodak Polychrome Graphics LLC ,Eastman Kodak Company ,1,1,directed,Mobility
+LANXESS Deutschland GmbH ,ARLANXEO Switzerland S.A.,4,1,directed,Mobility
+Lanxess Inc.,LANXESS Deutschland GmbH ,4,1,directed,Mobility
+Lanxess Inc.,LANXESS International S.A.,3,1,directed,Mobility
+LANXESS International S.A.,ARLANXEO Deutschland GmbH ,2,1,directed,Mobility
+LANXESS International S.A.,LANXESS Deutschland GmbH ,4,1,directed,Mobility
+LANXESS International S.A.,Lanxess Inc.,2,1,directed,Mobility
+Lexicon Pharmaceuticals ,Bristol-Meyers Squibb Company ,12,1,directed,Mobility
+Lexicon Pharmaceuticals ,Coelacanth Corporation ,1,1,directed,Mobility
+Lexicon Pharmaceuticals ,"Hydra Biosciences, Inc.",1,1,directed,Mobility
+"LG Electronics, Inc.","Daewoo Electronics Co., Ltd.",2,1,directed,Mobility
+Loctite Corporation ,Henkel IP & Holding GmbH ,1,1,directed,Mobility
+Loctite Corporation ,Henkel Loctite Corporation ,1,1,directed,Mobility
+Lummus Technology Inc.,BASF Corporation ,5,1,directed,Mobility
+"Madrigal Pharmaceuticals, Inc.",Hoffmann-La Roche Inc.,1,1,directed,Mobility
+Medical Research Council Laboratories of Molecular Biology ,Amersham Biosciences UK Limited ,5,1,directed,Mobility
+"Medimmune, LLC ","BIOWA, Inc.",4,1,directed,Mobility
+Merck & Co.,Bristol-Meyers Squibb Company ,1,1,directed,Mobility
+Merck & Co.,Scheeing Corporation ,1,1,directed,Mobility
+Merck Sharp & Dohme ,"AGIOS PHARMACEUTICALS, INC ",1,1,directed,Mobility
+Merck Sharp & Dohme ,"Cephalon, Inc.",1,1,directed,Mobility
+Merck Sharp & Dohme ,Dendreon Corporation ,4,1,directed,Mobility
+Mobile Oil Corporation ,ExxonMobil Reasearch and Engineering Company ,1,1,directed,Mobility
+Merck Sharp & Dohme ,"MindImmune Therapeutics, Inc.",1,1,directed,Mobility
+Merck Sharp & Dohme ,MSD R&D ,14,1,directed,Mobility
+Merck Sharp & Dohme ,"Pharmacopeia Drug Disclovery, Inc.",1,1,directed,Mobility
+Merck Sharp & Dohme ,Scheeing Corporation ,1,1,directed,Mobility
+Merck Sharp & Dohme ,THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK ,1,1,directed,Mobility
+Miles Inc.,Bayer Aktiengesellschaft ,3,1,directed,Mobility
+Milton Roy Company ,Hamilton Sundstrand Corporation ,2,1,directed,Mobility
+Milton Roy Company ,United Technologies Corp.,1,1,directed,Mobility
+Mobile Oil Corporation ,ExxonMobil Oil Corporation ,6,1,directed,Mobility
+Mobile Oil Corporation ,The Valspar Corporation ,1,1,directed,Mobility
+Mobile Oil Corporation ,United Technologies Corp.,6,1,directed,Mobility
+MSD OSS B.V.,Ligand Pharmaceuticals Incorporated ,1,1,directed,Mobility
+MSD OSS B.V.,MSD R&D ,1,1,directed,Mobility
+MSD OSS B.V.,Pharmacopeia Inc.,1,1,directed,Mobility
+"N L Industries, Inc.","NL Chemicals, Inc.",3,1,directed,Mobility
+N.V.,MSD R&D ,1,1,directed,Mobility
+N.V.,Pharmacopeia Inc.,2,1,directed,Mobility
+N.V.,Wyeth ,1,1,directed,Mobility
+Novo Nordisk A/S ,BioGeneriX ,1,1,directed,Mobility
+"Pharmaceopeia, Inc.",Bristol-Meyers Squibb Company ,13,1,directed,Mobility
+"Pharmaceopeia, Inc.","Cephalon, Inc.",1,1,directed,Mobility
+"Pharmaceopeia, Inc.",Merck Sharp & Dohme ,1,1,directed,Mobility
+"Pharmaceopeia, Inc.","Pharmacopeia Drug Disclovery, Inc.",3,1,directed,Mobility
+"Pharmacopeia Drug Disclovery, Inc.",Dendreon Corporation ,2,1,directed,Mobility
+"Pharmacopeia Drug Disclovery, Inc.",Merck Sharp & Dohme ,36,1,directed,Mobility
+"Pharmacopeia Drug Disclovery, Inc.",MSD R&D ,2,1,directed,Mobility
+"Pharmacopeia Drug Disclovery, Inc.",Pharmacopeia Inc.,4,1,directed,Mobility
+"Pharmacopeia Drug Disclovery, Inc.",Scheeing Corporation ,7,1,directed,Mobility
+"Pharmacopeia Drug Disclovery, Inc.",Wyeth ,1,1,directed,Mobility
+Pharmacopeia Inc.,Bristol-Meyers Squibb Company ,3,1,directed,Mobility
+Pharmacopeia Inc.,Dendreon Corporation ,1,1,directed,Mobility
+Pharmacopeia Inc.,Ligand Pharmaceuticals Incorporated ,2,1,directed,Mobility
+Pharmacopeia Inc.,Merck Sharp & Dohme ,7,1,directed,Mobility
+Pharmacopeia Inc.,MSD OSS B.V.,1,1,directed,Mobility
+Pharmacopeia Inc.,MSD R&D ,1,1,directed,Mobility
+Pharmacopeia Inc.,"Pharmacopeia Drug Disclovery, Inc.",42,1,directed,Mobility
+Pharmacopeia Inc.,Scheeing Corporation ,6,1,directed,Mobility
+Pharmacopeia Inc.,Wyeth ,3,1,directed,Mobility
+Polymer Corporation Limited ,BASF Aktiengesellschaft ,2,1,directed,Mobility
+Polymer Corporation Limited ,BASF Corporation ,3,1,directed,Mobility
+Polymer Corporation Limited ,Fiberglas Canada Inc.,1,1,directed,Mobility
+Polymer Corporation Limited ,Rhein Chemie Corporation ,1,1,directed,Mobility
+Polymer Corporation Limited ,Rhodia Inc.,1,1,directed,Mobility
+Polymer Corporation Limited ,The University of Akron ,2,1,directed,Mobility
+Polysar Financial Services S.A.,Polymer Corporation Limited ,1,1,directed,Mobility
+Queen's University at Kingston ,Lanxess Inc.,3,1,directed,Mobility
+Queen's University at Kingston ,"LANXSS, Inc.",1,1,directed,Mobility
+Reetz; Manfred T.,Bayer Aktiengesellschaft ,1,1,directed,Mobility
+"Research Corporation Technologies, Inc.",Lanxess Inc.,1,1,directed,Mobility
+"Research Corporation Technologies, Inc.",The University of Windsor ,1,1,directed,Mobility
+Rhein Chemie Rheinau GmbH ,LANXESS International S.A.,1,1,directed,Mobility
+Rhodia Chimie ,Rhodia Operations ,1,1,directed,Mobility
+Rhodia Chimie ,"Signal Pharmaceuticals, LLC ",1,1,directed,Mobility
+Rhodia Inc.,Rhodia Operations ,12,1,directed,Mobility
+Rock Oil Corporation ,"TekSonix, Inc.",1,1,directed,Mobility
+Rutgers University ,"Rutgers, The State University ",1,1,directed,Mobility
+"Rutgers, The State University ",LAFARGE ,1,1,directed,Mobility
+"Rutgers, The State University ","Solidia Technologies, Inc.",2,1,directed,Mobility
+Scheeing Corporation ,Dendreon Corporation ,22,1,directed,Mobility
+Scheeing Corporation ,Merck Sharp & Dohme ,17,1,directed,Mobility
+Scheeing Corporation ,"Pharmacopeia Drug Disclovery, Inc.",10,1,directed,Mobility
+Scheeing Corporation ,Pharmacopeia Inc.,35,1,directed,Mobility
+Scheeing Corporation ,Wyeth ,1,1,directed,Mobility
+Sharp Corporation ,Sanofi ,2,1,directed,Mobility
+Shell Oil Company ,HydrogenSource LLC ,2,1,directed,Mobility
+"Solidia Technologies, Inc.",LAFARGE ,1,1,directed,Mobility
+The Board of Trustees of the University of Alabama ,Audi AG ,3,1,directed,Mobility
+The Carborundum Company ,International Business Machines Corporation ,15,1,directed,Mobility
+The Institute For Chemical Science and Technology ,Exxon Chemical Patents Inc ,1,1,directed,Mobility
+The Procter & Gamble Company ,Rhodia Chimie ,1,1,directed,Mobility
+The Trustees of Princeton University ,Massachusetts Institute of Technology ,2,1,directed,Mobility
+The United States of America as represented by the United States ,International Fuel Cells ,2,1,directed,Mobility
+The University of Akron ,"LANXSS, Inc.",1,1,directed,Mobility
+The University of Connecticut ,University of Connecticut ,1,1,directed,Mobility
+The University of Western Ontario ,The Institute For Chemical Science and Technology ,1,1,directed,Mobility
+The University of Western Ontario ,The University of Akron ,1,1,directed,Mobility
+The University of Windsor ,Lanxess Inc.,3,1,directed,Mobility
+Thiokol Corporation ,"Caschem, Inc.",1,1,directed,Mobility
+Trustees of Columbia University in the City of New York ,PIONEER HI BRED INTERNATIONAL INC ,5,1,directed,Mobility
+"Tyrx, Inc.","Rutgers, The State University ",2,1,directed,Mobility
+Union Camp Corporation ,Cities Service Oil & Gas Corp ,1,1,directed,Mobility
+Union Carbide Chemicals and Plastics Company Inc.,"Lever Brothers Company, Division of Conopco, Inc.",1,1,directed,Mobility
+United Technologies Corp.,Ballard Power Systems Inc.,1,1,directed,Mobility
+United Technologies Corp.,"Doosan Fuel Cell America, Inc.",2,1,directed,Mobility
+United Technologies Corp.,Hamilton Sunstrand Corporation ,2,1,directed,Mobility
+United Technologies Corp.,International Fuel Cells ,3,1,directed,Mobility
+United Technologies Corp.,Proton Energy Systems ,1,1,directed,Mobility
+United Technologies Corp.,Toyota Jidosha Kabushiki Kaisha ,1,1,directed,Mobility
+United Technologies Corp.,"UTC Fuel Cells, LLC ",4,1,directed,Mobility
+Universite de Montreal ,"Amicus Therapeutics, Inc.",1,1,directed,Mobility
+University of Kentucky Research Foundation ,Firmenich SA ,1,1,directed,Mobility
+University of Waterloo ,Polysar Rubber Corporation ,2,1,directed,Mobility
+"USF Filtration & Separations Group, Inc.","Lifescan, Inc.",4,1,directed,Mobility
+"UTC Fuel Cells, LLC ",Shell Oil Company ,1,1,directed,Mobility
+"UTC Fuel Cells, LLC ",United Technologies Corp.,2,1,directed,Mobility
+UTC Power Corporation ,United Technologies Corp.,1,1,directed,Mobility
+"Warsaw Orthopedic, Inc.","Medtronic Vascular, Inc.",1,1,directed,Mobility
+Wayne State University ,"TherOx, Inc.",5,1,directed,Mobility
+"Western Electric Co., Inc.",AT&T Bell Laboratories ,1,1,directed,Mobility
+"Western Electric Co., Inc.","AT&T Technologies, Inc.",1,1,directed,Mobility
+"World Properties, Inc.",Rogers Corporation ,2,1,directed,Mobility
+"World Properties, Inc.",The University of Connecticut ,1,1,directed,Mobility
+"World Properties, Inc.",University of Connecticut ,1,1,directed,Mobility
+Wyeth ,FMC Corporation ,1,1,directed,Mobility
+Wyeth ,"Kadmon Corporation, LLC ",2,1,directed,Mobility
+Wyeth ,MSD OSS B.V.,1,1,directed,Mobility
+Wyeth ,Pfizer Inc.,4,1,directed,Mobility
+Wyeth ,Pharmacopeia Inc.,1,1,directed,Mobility
+Wyeth ,The Curators of the University of Missouri ,1,1,directed,Mobility
+Wyeth Holdings Corporation ,The Curators of the University of Missouri ,4,1,directed,Mobility
+Abbott Laboratories ,Board of Governors of Wayne State University ,1,1,undirected,Cooperation
+American Can Company ,"Idemitsu Kosan Co., Ltd.",2,1,undirected,Cooperation
+American Home Products Corp.,John Wyeth & Bro.,1,1,undirected,Cooperation
+Amersham Biosciences UK Limited ,Medical Research Council Laboratories of Molecular Biology ,2,1,undirected,Cooperation
+"Amicus Therapeutics, Inc.",Universite de Montreal ,1,1,undirected,Cooperation
+ARLANXEO Switzerland S.A.,LANXESS Deutschland GmbH ,1,1,undirected,Cooperation
+ASTRAZENECA AB ,"BIOWA, Inc.",1,1,undirected,Cooperation
+"AT&T Technologies, Inc.",Bell Telephone Laboratories ,3,1,undirected,Cooperation
+Audi AG ,The Board of Trustees of the University of Alabama ,1,1,undirected,Cooperation
+Audi AG ,Toyota Jidosha Kabushiki Kaisha ,2,1,undirected,Cooperation
+BASF Corporation ,Lummus Technology Inc.,2,1,undirected,Cooperation
+Bayer Aktiengesellschaft ,Bayer Inc.,1,1,undirected,Cooperation
+Bayer Inc.,Rhein Chemie Corporation ,1,1,undirected,Cooperation
+"BIOWA, Inc.","Medimmune, LLC ",1,1,undirected,Cooperation
+Bristol-Meyers Squibb Company ,Lexicon Pharmaceuticals ,3,1,undirected,Cooperation
+Bristol-Meyers Squibb Company ,"Pharmaceopeia, Inc.",1,1,undirected,Cooperation
+Bristol-Meyers Squibb Company ,Pharmacopeia Inc.,3,1,undirected,Cooperation
+Bristol-Meyers Squibb Company ,YALE UNIVERSITY ,1,1,undirected,Cooperation
+Colgate Palmolive Company ,Dow Corning Corporation ,1,1,undirected,Cooperation
+Colorado State University Research Foundation ,Heska Corporation ,2,1,undirected,Cooperation
+Crystalline Materials Corporation ,International Business Machines Corporation ,1,1,undirected,Cooperation
+Cytogen Corp.,The University of North Carolina at Chapel Hill ,1,1,undirected,Cooperation
+Cytogen Corp.,University of North Carolina at Chapel Hill ,2,1,undirected,Cooperation
+"Daewoo Electronics Co., Ltd.",Sanofi ,1,1,undirected,Cooperation
+"David Sarnoff Research Center, Inc.",Sharp Corporation ,1,1,undirected,Cooperation
+Dendreon Corporation ,Scheeing Corporation ,5,1,undirected,Cooperation
+"DENSO CORPORATION (Kariya, Aichi-pref.","Denso International America, Inc.",1,1,undirected,Cooperation
+"DynamOx, Inc.",Wayne State University ,2,1,undirected,Cooperation
+Enichem Synthesis S.P.A.,Istituto Guido Donegani S.P.A.,1,1,undirected,Cooperation
+Fujitsu Limited ,I.C.S.T.,1,1,undirected,Cooperation
+Fujitsu Limited ,The University of Western Ontario ,1,1,undirected,Cooperation
+Gammatron Pty LTD ,"Ion Beam Applications, S.A.",1,1,undirected,Cooperation
+"Human Genome Sciences, Inc.",Smithkline Beecham Corp.,1,1,undirected,Cooperation
+I.C.S.T.,The University of Western Ontario ,1,1,undirected,Cooperation
+International Business Machines Corporation ,The Carborundum Company ,2,1,undirected,Cooperation
+LAFARGE ,"Solidia Technologies, Inc.",1,1,undirected,Cooperation
+LANXESS Deutschland GmbH ,Lanxess Inc.,1,1,undirected,Cooperation
+LANXESS Deutschland GmbH ,LANXESS International S.A.,1,1,undirected,Cooperation
+LANXESS Deutschland GmbH ,Rhein Chemie Rheinau GmbH ,1,1,undirected,Cooperation
+Lanxess Inc.,Queen's University at Kingston ,2,1,undirected,Cooperation
+Lanxess Inc.,Rhein Chemie Rheinau GmbH ,1,1,undirected,Cooperation
+Lanxess Inc.,The University of Akron ,2,1,undirected,Cooperation
+Lanxess Inc.,The University of Windsor ,3,1,undirected,Cooperation
+Merck Sharp & Dohme ,MSD R&D ,1,1,undirected,Cooperation
+Merck Sharp & Dohme ,"Pharmacopeia Drug Disclovery, Inc.",2,1,undirected,Cooperation
+Merck Sharp & Dohme ,Pharmacopeia Inc.,3,1,undirected,Cooperation
+Mines and Resources Canada ,Petro Canada Inc.,1,1,undirected,Cooperation
+MSD OSS B.V.,Pharmacopeia Inc.,1,1,undirected,Cooperation
+National Research Council of Canada ,University of Windsor ,1,1,undirected,Cooperation
+"Pharmacopeia Drug Disclovery, Inc.",Scheeing Corporation ,3,1,undirected,Cooperation
+Pharmacopeia Inc.,Scheeing Corporation ,2,1,undirected,Cooperation
+PIONEER HI BRED INTERNATIONAL INC ,Trustees of Columbia University in the City of New York ,2,1,undirected,Cooperation
+"Rutgers, The State University ",University of Medicine and Dentistry of New Jersey ,1,1,undirected,Cooperation
+Sanofi ,Sharp Corporation ,3,1,undirected,Cooperation
+The Board of Trustees of the University of Alabama ,Toyota Jidosha Kabushiki Kaisha ,1,1,undirected,Cooperation
+The Curators of the University of Missouri ,Wyeth Holdings Corporation ,2,1,undirected,Cooperation
+The Institute For Chemical Science and Technology ,The University of Western Ontario ,1,1,undirected,Cooperation
+The Institute For Chemical Science and Technology ,"The University of Western Ontario, in trust for Surface Science Western ",1,1,undirected,Cooperation
+The University of Southern California ,Universal Display Corporation ,1,1,undirected,Cooperation
+"TherOx, Inc.",Wayne State University ,2,1,undirected,Cooperation
+University of Saskatchewan Technologies Inc.,Wayne State University ,1,1,undirected,Cooperation
