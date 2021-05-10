@@ -1,0 +1,292 @@
+Label,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector,pagerank
+" Pharmaceuticals, Ltd.",Changshu,CN,external,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+"3-Dimensional Pharmaceuticals, Inc.",Exton,PA,external,business,outside,0.006756757,2,0.006168594,2.08E-05,0,0,0.008079528,0.002370422
+ABB Environmental Services Inc.,Windsor,CT,internal,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+Abb Lummus Global Inc.,Bloomfield,NJ,external,business,outside,0.003378378,1,0.006205971,2.10E-05,0,0,0.000170109,0.00134896
+Abbott Laboratories ,Abbott Park,IL,external,public institute,outside,0.006756757,2,0.003435947,1.16E-05,0,0,0,0.002709698
+Abbott Point of Care Inc.,Windsor,NJ,internal,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Accelrys Software, Inc.",San Diego,CA,external,business,within,0.003378378,1,0.006185869,2.09E-05,0,0,0.037360022,0.001132459
+"AGIOS PHARMACEUTICALS, INC ",Cambridge,MA,external,business,outside,0.006756757,2,0.006186256,2.09E-05,5.886072261,0.000134816,0.085934101,0.001716353
+Akzo Nobel N. V.,Arnhem,NL,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Alberta Oil Sands Technology & Research Authority ,Edmonton,CA,external,public institute,within,0.003378378,1,0.003412773,1.15E-05,0,0,0,0.00202617
+Allied Products Corporation ,Pickering,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+ALSTOM Technology Ltd ,Baden,CH,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+Aluguisse Holding A.G.,Neuhausen am Rheinfall,CH,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+American Can Company ,Greenwich,CT,external,business,outside,0.02027027,6,0.006231185,2.11E-05,4679.316667,0.107176286,0.016600047,0.004851166
+American Home Products Corp.,New York,NY,external,business,outside,0.023648649,7,0.006227122,2.10E-05,4557,0.104374714,0.087991806,0.004960549
+American Telephone and Telegraph Company ,New York,NY,external,business,outside,0.006756757,2,0.006186903,2.09E-05,536,0.012276683,0.03766346,0.002259335
+Amersham Biosciences UK Limited ,Buckinghanshire,GB,external,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+"Amicus Therapeutics, Inc.",Cranbury,NJ,external,business,outside,0.010135135,3,0.003389831,1.15E-05,0,0,0,0.003738686
+"AMIRA PHARMACEUTICALS, INC.",Princeton,NJ,external,business,outside,0.006756757,2,0.006185869,2.09E-05,0,0,0.074720045,0.001759868
+Amoco Corporation ,Chicago,IL,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Anzon America, Inc.",Freehold,NJ,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+ARLANXEO Canada Inc.,Sarnia,CA,internal,business,within,0.010135135,3,0.006195579,2.09E-05,2.36007326,5.41E-05,1.42E-05,0.002146336
+ARLANXEO Deutschland GmbH ,Dormagen,DE,external,business,outside,0.013513514,4,0.006194024,2.09E-05,9.615873016,0.000220244,1.02E-05,0.002713252
+ARLANXEO Switzerland S.A.,Granges-Paccot,CH,external,business,outside,0.016891892,5,0.006179412,2.09E-05,1.35,3.09E-05,1.28E-05,0.003145947
+ASTRAZENECA AB ,Sodertalje,SE,external,business,outside,0.006756757,2,0.003389792,1.15E-05,0,0,0,0.002593503
+AT&T Bell Laboratories ,Murray Hill,NJ,external,public institute,outside,0.006756757,2,0.006170009,2.08E-05,405,0.009276225,0.003394314,0.002651471
+"AT&T Technologies, Inc.",Berkeley Heights,NJ,external,business,outside,0.010135135,3,0.006135732,2.07E-05,137,0.003137884,2.83E-05,0.004091088
+"Atochem North America, Inc.",Philadelphia,PA,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Audi AG ,Ingolstadt,DE,external,business,outside,0.010135135,3,0.00618096,2.09E-05,0,0,1.51E-07,0.003235576
+Aventis Pharmaceuticals Inc.,Bridgewater,NJ,external,business,outside,0.003378378,1,0.003436187,1.16E-05,0,0,0,0.001434059
+Ballard Power Systems Inc.,Burnaby,CA,external,business,within,0.003378378,1,0.006198044,2.09E-05,0,0,1.36E-06,0.001332504
+BASF Aktiengesellschaft ,Ludwigshafen,DE,external,business,outside,0.010135135,3,0.006233416,2.11E-05,4752.76978,0.108858676,0.001528564,0.002661913
+BASF Catalysts LLC ,Florham Park,NJ,external,business,outside,0.003378378,1,0.006205971,2.10E-05,0,0,0.000170109,0.00134896
+BASF Corporation ,Florham Park,NJ,external,business,outside,0.027027027,8,0.006223848,2.10E-05,1510.183333,0.034589632,0.001902867,0.00794268
+BASF SE ,Ludwigshafen,DE,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Bayer Aktiengesellschaft ,Leverkusen,DE,external,business,outside,0.033783784,10,0.006196358,2.09E-05,316.2190476,0.007242763,3.47E-05,0.006588724
+Bayer CropScience AG ,Monheim,DE,external,business,outside,0.006756757,2,0.00619221,2.09E-05,0,0,0.011344185,0.002214378
+Bayer Inc.,Sarnia,CA,internal,business,within,0.033783784,10,0.00621105,2.10E-05,490.9856532,0.011245663,6.47E-05,0.006329783
+Bayer Rubber Inc.,Sarnia,CA,internal,business,within,0.013513514,4,0.006210789,2.10E-05,80.31666667,0.001839594,4.94E-05,0.002917453
+Bell Telephone Laboratories ,Murray Hill,NJ,external,public institute,outside,0.006756757,2,0.006118357,2.07E-05,0,0,5.05E-06,0.002823333
+BioGeneriX ,Ulm,DE,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+BioVeris Corporation ,Gaithersburg,MD,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"BIOWA, Inc.",Princeton,NJ,external,business,outside,0.013513514,4,0.003389831,1.15E-05,1,2.29E-05,0,0.004914005
+BJ Services Company ,Houston,TX,external,business,outside,0.003378378,1,0.00619221,2.09E-05,0,0,2.92E-06,0.001613929
+Board of Governors of Wayne State University ,Detroit,MI,external,university,outside,0.010135135,3,0.003436147,1.16E-05,5,0.000114521,0,0.003890554
+"Boehringer Ingelheim Pharmaceuticals, Inc.",Ridgefield,CT,external,business,outside,0.006756757,2,0.006168594,2.08E-05,0,0,0.008079528,0.002370422
+BP Corporation North America Inc.,Warrenville,IL,external,business,outside,0.003378378,1,0.006194542,2.09E-05,0,0,1.36E-06,0.001389076
+"Brandt Manufacturing Systems, Inc.",Deposit,NY,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+Brandt Technologies ,Windsor,NY,internal,business,outside,0.006756757,2,0.003389831,1.15E-05,1,2.29E-05,0,0.004914005
+Bristol-Meyers Squibb Company ,Princeton,NJ,external,business,outside,0.064189189,19,0.00620363,2.10E-05,2169.221071,0.049684404,0.417916065,0.014024435
+Cambrex Hydrogels ,Harriman,NY,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Canadian Patents and Development Limited ,Ottawa,CA,external,business,within,0.003378378,1,0.006194542,2.09E-05,0,0,1.36E-06,0.001389076
+Carrier Corporation ,Farmington,CT,external,business,outside,0.006756757,2,0.006181476,2.09E-05,0,0,1.69E-07,0.002450624
+"Caschem, Inc.",Bayonne,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Celltech Limited ,Berkshire,GB,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Cephalon, Inc.",Frazer,PA,external,business,outside,0.016891892,5,0.00620181,2.10E-05,191.2769231,0.004381056,0.229853893,0.003478996
+Chicopee ,New Brunswick,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Chimie; Rhodia ,Boulogne Billancourt Ceded,FR,external,individual,outside,0.003378378,1,0.006158712,2.08E-05,0,0,2.41E-08,0.001937181
+Cities Service Co.,Tulsa,OK,external,business,outside,0.006756757,2,0.006184189,2.09E-05,272,0.006229959,2.58E-07,0.002939722
+Cities Service Oil & Gas Corp ,Tulsa,OK,external,business,outside,0.006756757,2,0.006166795,2.08E-05,137,0.003137884,2.33E-08,0.003418748
+ClearEdge Power Corporation ,Windsor,CT,internal,business,outside,0.003378378,1,0.00618096,2.09E-05,0,0,1.51E-07,0.001486843
+"CLIPLIGHT HOLDINGS, LTD.",Toronto,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Coelacanth Corporation ,Windsor,NJ,internal,business,outside,0.003378378,1,0.006168851,2.08E-05,0,0,0.007587015,0.001225039
+Cogas Development Company ,Princeton,NJ,external,business,outside,0.003378378,1,0.00619221,2.09E-05,0,0,0.005672093,0.001359714
+"Cognis, Inc.",Santa Rosa,CA,external,business,within,0.003378378,1,0.003412812,1.15E-05,0,0,0,0.001708546
+Colgate Palmolive Company ,New York,NY,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Collins and Aikman Corporation ,Troy,MI,external,business,outside,0.006756757,2,0.006194542,2.09E-05,0,0,2.71E-06,0.002273101
+Colorado State University Research Foundation ,Ft. Collins Colorado,CO,external,university,outside,0.016891892,5,0.003401361,1.15E-05,2,4.58E-05,0,0.005402771
+Combustion Engineering ,Windsor,CT,internal,business,outside,0.006756757,2,0.003389831,1.15E-05,1,2.29E-05,0,0.004914005
+Commonwealth Scientific ,Canberra,AU,external,business,outside,0.006756757,2,0.003389831,1.15E-05,0,0,0,0.003367003
+CPC International Inc.,Englewood Cliffs,NJ,external,business,outside,0.003378378,1,0.006194542,2.09E-05,0,0,1.36E-06,0.001389076
+Crystalline Materials Corporation ,Phoenix,AZ,external,business,outside,0.006756757,2,0.003389792,1.15E-05,0,0,0,0.002593503
+"Cubist Pharmaceuticals, Inc.",Lexington,MA,external,business,outside,0.010135135,3,0.006186256,2.09E-05,0.583333333,1.34E-05,0.046831468,0.002566536
+Cuno Incorporated ,Meriden,CT,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Cuno Incorporated ,Meriden,CT,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Cytogen Corp.,Princeton,NJ,external,business,outside,0.006756757,2,0.003389831,1.15E-05,0,0,0,0.003367003
+"Daewoo Electronics Co., Ltd.",Seoul,KR,external,business,outside,0.006756757,2,0.003436227,1.16E-05,0,0,0,0.00239158
+"David Sarnoff Research Center, Inc.",Princeton,NJ,external,business,outside,0.010135135,3,0.003436306,1.16E-05,5,0.000114521,0,0.00373093
+Dendreon Corporation ,San Diego,CA,external,business,within,0.02027027,6,0.006198304,2.09E-05,0,0,0.474006678,0.003341439
+"DENSO CORPORATION (Kariya, Aichi-pref.",Kariya,JP,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Denso International America, Inc.",Southfield,MI,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Dexter Corporation ,Windsor,CT,internal,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+"Doosan Fuel Cell America, Inc.",Atlanta,GA,external,business,outside,0.010135135,3,0.006198693,2.09E-05,137,0.003137884,1.69E-06,0.003465149
+Dow Chemical Company ,Midland,MI,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+Dow Corning Corporation ,Midland,MI,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Dow Global Technologies ,Midland,MI,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+DTC Fuel Cells LLC ,Windsor,CT,internal,business,outside,0.003378378,1,0.006181606,2.09E-05,0,0,3.21E-07,0.001373879
+Du Pont Canada Inc.,Montreal,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"DynamOx, Inc.",Irvine,CA,external,business,within,0.010135135,3,0.003436147,1.16E-05,0,0,0,0.003236536
+"E. R. Squibb & Sons, Inc.",Princeton,NJ,external,business,outside,0.013513514,4,0.006186515,2.09E-05,10.75,0.000246221,0.056815747,0.003309083
+Eastman Kodak Company ,Rochester,NY,external,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+Emhart Corporation ,Farmington,CT,external,business,outside,0.003378378,1,0.003412812,1.15E-05,0,0,0,0.001890357
+Emhart Glass Machinery Investments Inc.,Wilmington,DE,external,business,outside,0.006756757,2,0.003412891,1.15E-05,0,0,0,0.003275664
+Emhart Glass S.A.,Cham,CH,external,business,outside,0.010135135,3,0.00341293,1.15E-05,3,6.87E-05,0,0.004889319
+"Emhart Industries, Inc.",Farmington,CT,external,business,outside,0.010135135,3,0.00341293,1.15E-05,3,6.87E-05,0,0.004889319
+Engelhard Corporation ,Iselin,NJ,external,business,outside,0.003378378,1,0.006205971,2.10E-05,0,0,0.000170109,0.00134896
+Enichem Synthesis S.P.A.,Palermo,IT,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+Enichem Synthesis S.P.A.,Palermo,IT,external,business,outside,0.006756757,2,0.003389831,1.15E-05,1,2.29E-05,0,0.004914005
+"Ethicon, Inc.",Somerville,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Euro-Celtique S.A.,Luxembourg,LU,external,business,outside,0.006756757,2,0.003389831,1.15E-05,0,0,0,0.002623639
+Exxon Chemical Patents Inc ,Houston,TX,external,business,outside,0.016891892,5,0.00622686,2.10E-05,4217.536447,0.096599552,0.000141796,0.004674514
+ExxonMobil Reasearch and Engineering Company ,Florham Park,NJ,external,business,outside,0.043918919,13,0.006212353,2.10E-05,1241,0.028424187,1.52E-05,0.013520385
+ExxonMobil Oil Corporation ,Fairfax,VA,external,business,outside,0.006756757,2,0.006210919,2.10E-05,303,0.006939991,1.29E-05,0.002281422
+ExxonMobil Reasearch and Engineering Company ,Florham Park,NJ,external,business,outside,0.023648649,7,0.006199342,2.09E-05,321,0.007352268,3.17E-06,0.007005774
+ExxonMobil Upstream Research Company ,Houston,TX,external,business,outside,0.006756757,2,0.006181606,2.09E-05,0,0,5.68E-07,0.002206453
+ExxonMobil Reasearch and Engineering Company ,Annandale,NJ,external,business,outside,0.006756757,2,0.006181606,2.09E-05,0,0,5.68E-07,0.002206453
+Fiberglas Canada Inc.,Point Edward,CA,external,business,within,0.003378378,1,0.006208184,2.10E-05,0,0,3.19E-05,0.001179997
+Firmenich SA ,Geneva,CH,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Flex Product, Inc.",Santa Rosa,CA,external,business,within,0.010135135,3,0.003389831,1.15E-05,0,0,0,0.003738686
+"Flexus Biosciences, Inc.",Princeton,NJ,external,business,outside,0.003378378,1,0.006185869,2.09E-05,0,0,0.037360022,0.001132459
+FMC Corporation ,Philadelphia,PA,external,business,outside,0.023648649,7,0.006210007,2.10E-05,720,0.016491067,0.063449068,0.007038409
+Fujitsu Limited ,Kawasaki,JP,external,business,outside,0.006756757,2,0.006187291,2.09E-05,0,0,7.79E-07,0.002019037
+GAF Corporation ,New York,NY,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Gammatron Pty LTD ,Pretoria,ZA,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+General Electric Co.,Schenectady,NY,external,business,outside,0.003378378,1,0.003436107,1.16E-05,0,0,0,0.001562147
+GreenField Ethanol Inc.,Toronto,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+GreenField Specialty Alcohols Inc.,Toronto,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Hamilton Sundstrand Corporation ,Windsor,CT,internal,business,outside,0.006756757,2,0.006182251,2.09E-05,1,2.29E-05,4.59E-07,0.002331317
+"HAMILTON SUNDSTRAND SPACE SYSTEM INTERNATIONAL, INC.",Windsor,CT,internal,business,outside,0.006756757,2,0.006181476,2.09E-05,0,0,1.69E-07,0.002450624
+Hamilton Sunstrand Corporation ,Windsor,CT,internal,business,outside,0.013513514,4,0.006199083,2.09E-05,272,0.006229959,1.72E-06,0.004254393
+"Headwaters Heavy Oil, LLC ",South Jordan,UT,external,business,outside,0.006756757,2,0.003412891,1.15E-05,3,6.87E-05,0,0.003579106
+"Headwaters Technology Innovation, LLC ",Lawrenceville,NJ,external,business,outside,0.010135135,3,0.00341293,1.15E-05,4,9.16E-05,0,0.004771095
+Heineken Technical Services B.V.,Zoerterwoude,NL,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+Henkel Corporation ,Rocky Hill,CT,external,business,outside,0.010135135,3,0.00341293,1.15E-05,3,6.87E-05,0,0.004247632
+Henkel IP & Holding GmbH ,Duesseldorf,DE,external,business,outside,0.010135135,3,0.00341293,1.15E-05,1,2.29E-05,0,0.004041736
+Henkel Loctite Corporation ,Rocky Hill,CT,external,business,outside,0.010135135,3,0.00341293,1.15E-05,1,2.29E-05,0,0.004041736
+Henkel Research Corporation ,Santa Rosa,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Hercules Chemical Company Inc.,Passaic,NJ,external,business,outside,0.003378378,1,0.00619221,2.09E-05,0,0,0.005672093,0.001359714
+Heska Corporation ,Ft. Collins,CO,external,business,outside,0.006756757,2,0.003401282,1.15E-05,0,0,0,0.002341993
+Hoffmann-La Roche Inc.,Nutley,NJ,external,business,outside,0.010135135,3,0.00616898,2.08E-05,137,0.003137884,0.00695769,0.003597878
+"Human Genome Sciences, Inc.",Rockville,MD,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Hydra Biosciences, Inc.",Cambridge,MA,external,business,outside,0.010135135,3,0.006186256,2.09E-05,0.5,1.15E-05,0.049133583,0.002579633
+Hydrocarbon Technologies ,Lawrenceville,NJ,external,business,outside,0.006756757,2,0.003412851,1.15E-05,0,0,0,0.003229323
+"Hydrocarbon Technologies Innovation Group, Inc.",Lawrenceville,NJ,external,business,outside,0.006756757,2,0.003412851,1.15E-05,0,0,0,0.003229323
+HydrogenSource LLC ,Windsor,CT,internal,business,outside,0.003378378,1,0.006164612,2.08E-05,0,0,3.01E-08,0.001684871
+i-Stat Corporation ,Windsor,NJ,internal,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+I.C.S.T.,Sarnia,CA,internal,business,within,0.010135135,3,0.006199732,2.09E-05,24.58333333,0.000563063,1.95E-06,0.002814
+"Idemitsu Kosan Co., Ltd.",Tokyo,JP,external,business,outside,0.010135135,3,0.006218487,2.10E-05,0,0,0.003138064,0.002723457
+"IGEN International, Inc.",Gaithersburg,MD,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"IMPACT Therapeutics, Inc.",Ninjing,CN,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Imperial Oil Enterprises Ltd.,Toronto,CA,external,business,within,0.006756757,2,0.006194542,2.09E-05,0,0,2.71E-06,0.002273101
+Imperial Oil Limited ,Toronto,CA,external,business,within,0.006756757,2,0.006194542,2.09E-05,0,0,2.71E-06,0.002273101
+Industrial Research Organisation ,Canberra,AU,external,public institute,outside,0.006756757,2,0.003389831,1.15E-05,0,0,0,0.003367003
+Infineum International Inc.,Milton Hill,GB,external,business,outside,0.003378378,1,0.006194542,2.09E-05,0,0,1.36E-06,0.001389076
+International Business Machines Corporation ,Armonk,NY,external,business,outside,0.013513514,4,0.003389831,1.15E-05,1,2.29E-05,0,0.004914005
+International Fuel Cells ,Windsor,CT,internal,business,outside,0.023648649,7,0.006199342,2.09E-05,276.8,0.006339899,3.59E-06,0.00715506
+International Partners in Glass Research ,Windsor,CT,internal,public institute,outside,0.003378378,1,0.003412812,1.15E-05,0,0,0,0.001890357
+"Ion Beam Applications, S.A.",Louvain-la-Neuve,BE,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Istituto Guido Donegani S.P.A.,Milan,IT,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+Janssen Pharmaceutica NV ,Beerse,BE,external,business,outside,0.010135135,3,0.006186127,2.09E-05,272,0.006229959,0.082299555,0.003028032
+JDS Uniphase Corporation ,Milpitas,CA,external,business,within,0.010135135,3,0.003389831,1.15E-05,0,0,0,0.003738686
+John Wyeth & Bro.,Maidenhead,GB2,external,business,outside,0.010135135,3,0.006209226,2.10E-05,0,0,0.023598345,0.002312108
+Johnson & Johnson ,New Brunswick,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Johnson & Johnson Consumer Companies, Inc.",Skillman,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Johnson Matthey Public Limited Company ,London,GB,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Kadmon Corporation, LLC ",New York,NY,external,business,outside,0.003378378,1,0.00620467,2.10E-05,0,0,0.039347529,0.001062906
+"Kamata, LLC ",Phoenix,AZ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Kemeta, LLC ",Mesa,AZ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Kodak Polychrome Graphics LLC ,Norwalk,CT,external,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+LAFARGE ,Paris,FR,external,business,outside,0.010135135,3,0.003424539,1.16E-05,0,0,0,0.003961844
+LANXESS Deutschland GmbH ,Leverkusen,DE,external,business,outside,0.033783784,10,0.006196228,2.09E-05,86.07698413,0.00197153,3.26E-05,0.005899173
+Lanxess Inc.,Sarnia,CA,internal,business,within,0.067567568,20,0.006212745,2.10E-05,1053.838462,0.02413739,8.42E-05,0.012392645
+LANXESS International S.A.,Granges-Paccot,CH,external,business,outside,0.02027027,6,0.006195579,2.09E-05,6.053479853,0.00013865,2.29E-05,0.003721631
+LANXESS International S.A.,Sarnia,CA,internal,business,within,0.013513514,4,0.006195839,2.09E-05,1.866666667,4.28E-05,2.03E-05,0.00281114
+"Lever Brothers Company, Division of Conopco, Inc.",New York,NY,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Lexicon Pharmaceuticals ,The Woodlands,TX,external,business,outside,0.016891892,5,0.006186515,2.09E-05,137.5833333,0.003151244,0.084869739,0.004235228
+"LG Electronics, Inc.",Princeton,NJ,external,business,outside,0.010135135,3,0.003436227,1.16E-05,0,0,0,0.003379488
+"Lifescan, Inc.",Milpitas,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Ligand Pharmaceuticals Incorporated ,La Jolla,CA,external,business,within,0.006756757,2,0.006196358,2.09E-05,0,0,0.131345629,0.001435597
+Loctite Corporation ,Rocky Hill,CT,external,business,outside,0.006756757,2,0.003412851,1.15E-05,0,0,0,0.002795367
+Lummus Technology Inc.,Bloomfield,NJ,external,business,outside,0.006756757,2,0.006205971,2.10E-05,0,0,0.000340217,0.00219287
+"Madrigal Pharmaceuticals, Inc.",Fort Washington,PA,external,business,outside,0.003378378,1,0.006151416,2.08E-05,0,0,0.00062199,0.001524449
+Massachusetts Institute of Technology ,Cambridge,MA,external,public institute,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Medical Research Council Laboratories of Molecular Biology ,Cambridge,GB,external,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+"Medimmune, LLC ",Gaithersburg,MD,external,business,outside,0.006756757,2,0.003389792,1.15E-05,0,0,0,0.002593503
+"Medtronic Vascular, Inc.",Santa Rosa,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Merck & Co.,Rahway,NJ,external,business,outside,0.016891892,5,0.006200381,2.09E-05,140.959596,0.003228575,0.198261817,0.003555866
+Merck & Co.,Rahway,NJ,external,business,outside,0.006756757,2,0.006182638,2.09E-05,0,0,0.035447625,0.001714045
+Merk Sharp & Dohme Corp.,Rahway,NJ,external,business,outside,0.074324324,22,0.00620337,2.10E-05,1240.421748,0.028410942,0.904458869,0.013151397
+Merk Sharp & Dohme Corp.,Rahway,NJ,external,business,outside,0.003378378,1,0.00618561,2.09E-05,0,0,0.080855,0.001013173
+Miles Inc.,West Haven,CT,external,business,outside,0.006756757,2,0.006178638,2.09E-05,0,0,6.21E-06,0.001625134
+Milton Roy Company ,Ivyland,PA,external,business,outside,0.006756757,2,0.006198304,2.09E-05,42.06666667,0.000963506,1.40E-06,0.002323314
+"MindImmune Therapeutics, Inc.",Kingston,RI,external,business,outside,0.010135135,3,0.006185739,2.09E-05,0,0,0.098458611,0.002338091
+Mines and Resources Canada ,Ottawa,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Mobile Oil Corporation ,Fairfax,VA,external,business,outside,0.02027027,6,0.00620142,2.10E-05,745,0.017063674,2.87E-06,0.006929674
+Morgan Crucible Company PLC ,Windsor,GB,internal,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+MSD OSS B.V.,Oss,NL,external,business,outside,0.027027027,8,0.00621105,2.10E-05,149.4416667,0.003422851,0.469256309,0.004496668
+MSD R&D ,Beijing,CN,external,business,outside,0.02027027,6,0.006198304,2.09E-05,2.25,5.15E-05,0.40174762,0.003380763
+"N L Industries, Inc.",New York,NY,external,business,outside,0.006756757,2,0.003389831,1.15E-05,1,2.29E-05,0,0.004914005
+National Research Council of Canada ,Ottawa,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Nepera Inc.,Harriman,NY,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"NL Chemicals, Inc.",Hightstown,NJ,external,business,outside,0.003378378,1,0.003389792,1.15E-05,0,0,0,0.002593503
+Nova Chemicals ,International,CA,external,business,within,0.013513514,4,0.006208444,2.10E-05,137,0.003137884,3.44E-05,0.003512774
+Novo Nordisk A/S ,Bagsvaerd,DK,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Pennwalt Corporation ,Philadelphia,PA,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Petro Canada Inc.,Calgary,CA,external,business,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Pfizer Inc.,New York,NY,external,business,outside,0.003378378,1,0.00620467,2.10E-05,0,0,0.039347529,0.001062906
+"Pharmaceopeia, Inc.",Cranbury,NJ,external,business,outside,0.02027027,6,0.006201291,2.10E-05,3.821703297,8.75E-05,0.341001653,0.003762872
+"Pharmacopeia Drug Disclovery, Inc.",Princeton,NJ,external,business,outside,0.047297297,14,0.006211571,2.10E-05,402.652381,0.009222455,0.84436217,0.007422919
+Pharmacopeia Inc.,San Diego,CA,external,business,within,0.067567568,20,0.006214049,2.10E-05,2355.64503,0.053954307,1,0.010653531
+PIONEER HI BRED INTERNATIONAL INC ,Johnston,IA,external,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+Polymer Corporation Limited ,Sarnia,CA,internal,business,within,0.043918919,13,0.006226074,2.10E-05,3686.624237,0.084439401,0.000356951,0.010322708
+Polysar Financial Services S.A.,Canton of Fribourg,CH,external,business,outside,0.003378378,1,0.006208184,2.10E-05,0,0,3.19E-05,0.001179997
+Polysar Rubber Corporation ,Sarnia,CA,internal,business,within,0.016891892,5,0.006210659,2.10E-05,114.5265568,0.002623146,7.64E-05,0.00382781
+Princeton Drug Discovery Inc ,Monmouth Junction,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Proton Energy Systems ,Rocky Hill,CT,external,business,outside,0.003378378,1,0.006198044,2.09E-05,0,0,1.36E-06,0.001332504
+Queen's University at Kingston ,Kingston,CA,external,university,within,0.010135135,3,0.006195061,2.09E-05,0,0,1.69E-05,0.002155793
+RCA Corporation ,Princeton,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+RCA Licensing Corp.,Princeton,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Reckitt & Colman Inc.,Wayne,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Reckitt Benckiser Inc.,Wayne,NJ,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Reetz; Manfred T.,Muelheim/Ruhr,DE,external,individual,outside,0.003378378,1,0.006178638,2.09E-05,0,0,3.11E-06,0.001065092
+"Research Corporation Technologies, Inc.",Tucson,AZ,external,business,outside,0.006756757,2,0.006195061,2.09E-05,0,0,8.94E-06,0.001674988
+Rhein Chemie Corporation ,Trenton,NJ,external,business,outside,0.006756757,2,0.006209226,2.10E-05,0,0,3.77E-05,0.001718028
+Rhein Chemie Rheinau GmbH ,Mannheim,DE,external,business,outside,0.010135135,3,0.00619545,2.09E-05,0,0,1.25E-05,0.002060399
+Rhodia Chimie ,Billancourt Cedex,FR,external,business,outside,0.013513514,4,0.006176317,2.09E-05,408,0.009344938,2.70E-07,0.006739437
+Rhodia Inc.,Cranbury,NJ,external,business,outside,0.013513514,4,0.006210007,2.10E-05,928,0.021255153,3.27E-05,0.005218251
+Rhodia Operations ,Ambervilliers,FR,external,business,outside,0.006756757,2,0.006193246,2.09E-05,536,0.012276683,2.95E-06,0.003046059
+Rhone Poulenc Inc.,Cranbury,NJ,external,business,outside,0.003378378,1,0.00619221,2.09E-05,0,0,2.92E-06,0.001613929
+Rock Oil Corporation ,Detroit,MI,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Rogers Corporation ,Rogers,CT,external,business,outside,0.003378378,1,0.003401282,1.15E-05,0,0,0,0.001904492
+Rutgers University ,New Brunswick,NJ,external,university,outside,0.003378378,1,0.003424499,1.16E-05,0,0,0,0.001716799
+"Rutgers, The State University ",New Brunswick,NJ,external,university,outside,0.016891892,5,0.003424658,1.16E-05,9,0.000206138,0,0.007127934
+Sanofi ,Princeton,NJ,external,business,outside,0.023648649,7,0.003436386,1.16E-05,11,0.000251947,0,0.007650655
+Scheeing Corporation ,Kenilworth,NJ,external,business,outside,0.047297297,14,0.006211441,2.10E-05,551.7404762,0.012637207,0.824522885,0.007549226
+Schering Plough Corporation ,Kenilworth,NJ,external,business,outside,0.006756757,2,0.006193635,2.09E-05,0,0,0.147418087,0.001421742
+ScinoPharm ,Changshu,CN,external,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+Sharp Corporation ,Osaka,JP,external,business,outside,0.010135135,3,0.003436267,1.16E-05,0,0,0,0.003420164
+Shell Oil Company ,Houston,TX,external,business,outside,0.006756757,2,0.006182251,2.09E-05,137,0.003137884,3.37E-07,0.002776049
+"Signal Pharmaceuticals, LLC ",San Diego,CA,external,business,within,0.003378378,1,0.006158712,2.08E-05,0,0,2.41E-08,0.001937181
+Smithkline Beecham Corp.,Philadelphia,PA,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"Soladigm, Inc.",Milpitas,CA,external,business,within,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+"Solidia Technologies, Inc.",Piscataway,NJ,external,business,outside,0.010135135,3,0.003424539,1.16E-05,0,0,0,0.003961844
+"SOLIX ALGREDIENTS, INC.",Fort Collins,CO,external,business,outside,0.010135135,3,0.003401321,1.15E-05,0,0,0,0.003350438
+"Solix Biosystems, Inc.",Fort Collins,CO,external,business,outside,0.006756757,2,0.003401321,1.15E-05,0,0,0,0.002372812
+Standard Oil Company ,Cleveland,OH,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Tarkett AB ,Ronneby,SE,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"TekSonix, Inc.",Commerce City,CO,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+The Board of Governors of Wayne State University ,Detroit,MI,external,university,outside,0.006756757,2,0.003436267,1.16E-05,8,0.000183234,0,0.002546495
+The Board of Trustees of the University of Alabama ,Tuscaloosa,AL,external,university,outside,0.010135135,3,0.00618096,2.09E-05,0,0,1.51E-07,0.003235576
+The Broken Hill Proprietary Company Limited ,Broken Hill ,AU,external,business,outside,0.006756757,2,0.003389831,1.15E-05,0,0,0,0.003367003
+The Carborundum Company ,Niagara Falls,NY,external,business,outside,0.006756757,2,0.003389792,1.15E-05,0,0,0,0.002593503
+The Curators of the University of Missouri ,Columbia,MO,external,university,outside,0.010135135,3,0.0062048,2.10E-05,0,0,0.047914205,0.002452859
+The Dexter Corporation ,Windsor,CT,internal,business,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+The Dow Chemical Company ,Midland,MI,external,business,outside,0.006756757,2,0.003389831,1.15E-05,1,2.29E-05,0,0.004914005
+The Institute For Chemical Science and Technology ,Sarnia,CA,internal,public institute,within,0.016891892,5,0.006212484,2.10E-05,412.7833333,0.009454497,1.43E-05,0.004318661
+"The Morgan Crucible Company, p/c ",Windsor,GB,internal,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+The Procter & Gamble Company ,Cincinnati,OH,external,business,outside,0.003378378,1,0.006158712,2.08E-05,0,0,2.41E-08,0.001937181
+The Standard Oil Co.,Cleveland,OH,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK ,New York,NY,external,university,outside,0.006756757,2,0.006185869,2.09E-05,137,0.003137884,0.08150637,0.002258263
+The Trustees of Princeton University ,Princeton,NJ,external,university,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+THE TRUSTESS OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK ,New York,NY,external,university,outside,0.003378378,1,0.006168209,2.08E-05,0,0,0.007286343,0.001464812
+The United States of America as represented by the United States ,Washington,DC,external,business,outside,0.003378378,1,0.006181606,2.09E-05,0,0,3.21E-07,0.001373879
+The University of Akron ,Akron,OH,external,university,outside,0.013513514,4,0.00621131,2.10E-05,249.3298535,0.005710716,4.19E-05,0.003020738
+The University of Connecticut ,Storrs,CT,external,university,outside,0.006756757,2,0.003401321,1.15E-05,0,0,0,0.003312159
+The University of North Carolina at Chapel Hill ,Chapel Hill,NC,external,university,outside,0.006756757,2,0.003389831,1.15E-05,0,0,0,0.003367003
+The University of Southern California ,Los Angeles,CA,external,university,within,0.003378378,1,0.006174771,2.09E-05,0,0,0.000511147,0.001695388
+The University of Western Ontario ,London,CA,external,university,within,0.02027027,6,0.00620493,2.10E-05,234.6703297,0.00537495,6.76E-06,0.005058963
+"The University of Western Ontario, in trust for Surface Science Western ",London,CA,external,university,within,0.010135135,3,0.006200251,2.09E-05,45.31666667,0.001037945,2.51E-06,0.00278213
+The University of Windsor ,Windsor,CA,internal,university,within,0.010135135,3,0.006195061,2.09E-05,0,0,1.58E-05,0.002270295
+The Valspar Corporation ,Minneapolis,MN,external,business,outside,0.003378378,1,0.006183672,2.09E-05,0,0,2.56E-07,0.001486754
+"TherOx, Inc.",Irvine,CA,external,business,within,0.013513514,4,0.003436147,1.16E-05,0,0,0,0.004217329
+Thiokol Corporation ,Chicago,IL,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Toyota Jidosha Kabushiki Kaisha ,Toyota-Shi,JP,external,business,outside,0.010135135,3,0.006198563,2.09E-05,272,0.006229959,1.38E-06,0.003165997
+Trustees of Columbia University in the City of New York ,New York,NY,external,university,outside,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+"Tyrx, Inc.",Monmouth Junction,NJ,external,business,outside,0.003378378,1,0.003424499,1.16E-05,0,0,0,0.001716799
+Union Camp Corporation ,Wayne,NJ,external,business,outside,0.003378378,1,0.006149244,2.08E-05,0,0,2.08E-09,0.001958018
+Union Carbide Chemicals and Plastics Company Inc.,Danbury,CT,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Union Carbide Corporation ,New York,NY,external,business,outside,0.003378378,1,0.006183672,2.09E-05,0,0,2.56E-07,0.001486754
+United Technologies Corp.,Hartford,CT,external,business,outside,0.043918919,13,0.006215876,2.10E-05,2671.7,0.061193312,1.52E-05,0.012655172
+Universal Display Corporation ,Ewing,NJ,external,business,outside,0.006756757,2,0.006192469,2.09E-05,137,0.003137884,0.005717787,0.002800794
+Universite de Montreal ,Montreal,CA,external,university,within,0.010135135,3,0.003389831,1.15E-05,0,0,0,0.003738686
+University of Connecticut ,Farmington,CT,external,university,outside,0.006756757,2,0.003401321,1.15E-05,0,0,0,0.003312159
+University of Kentucky Research Foundation ,Lexington,KY,external,university,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+University of Medicine and Dentistry of New Jersey ,Somerset,NJ,external,university,outside,0.003378378,1,0.003424499,1.16E-05,0,0,0,0.001716799
+University of North Carolina at Chapel Hill ,Chapel Hill,NC,external,university,outside,0.006756757,2,0.003389831,1.15E-05,0,0,0,0.003367003
+University of Saskatchewan Technologies Inc.,Saskatoon,CA,external,university,within,0.003378378,1,0.003436107,1.16E-05,0,0,0,0.001444171
+University of Waterloo ,Waterloo,CA,external,university,within,0.006756757,2,0.006199213,2.09E-05,24.67655678,0.000565198,7.05E-06,0.001944048
+University of Windsor ,Windsor,CA,internal,university,within,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"USF Filtration & Separations Group, Inc.",Timonium,MD,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+"UTC Fuel Cells, LLC ",Windsor,CT,internal,business,outside,0.027027027,8,0.006199732,2.09E-05,371.4333333,0.008507406,3.73E-06,0.007895133
+UTC Power Corporation ,Windsor,CT,internal,business,outside,0.006756757,2,0.006198563,2.09E-05,0,0,1.69E-06,0.002171362
+Viavi Solutions Inc.,San Jose,CA,external,business,within,0.006756757,2,0.003389831,1.15E-05,0,0,0,0.002623639
+"View, Inc.",Milpitas,CA,external,business,within,0.006756757,2,0.003378378,1.14E-05,0,0,0,0.003367003
+"Warsaw Orthopedic, Inc.",Warsaw,IN,external,business,outside,0.003378378,1,0.003378378,1.14E-05,0,0,0,0.003367003
+Wayne State University ,Detroit,MI,external,university,outside,0.016891892,5,0.003436306,1.16E-05,11,0.000251947,0,0.00552424
+"Western Electric Co., Inc.",New York,NY,external,business,outside,0.006756757,2,0.006152951,2.08E-05,272,0.006229959,0.000305964,0.002791067
+"World Properties, Inc.",Lincolnwood,IL,external,business,outside,0.010135135,3,0.003401361,1.15E-05,2,4.58E-05,0,0.004939204
+Wyeth ,Madison,NJ,external,business,outside,0.043918919,13,0.00622254,2.10E-05,4681.033333,0.107215605,0.44014868,0.008531901
+Wyeth Holdings Corporation ,Madison,NJ,external,business,outside,0.010135135,3,0.0062048,2.10E-05,0,0,0.047914205,0.002452859
+YALE UNIVERSITY ,New Haven,CT,external,university,outside,0.003378378,1,0.006185869,2.09E-05,0,0,0.037360022,0.001132459
