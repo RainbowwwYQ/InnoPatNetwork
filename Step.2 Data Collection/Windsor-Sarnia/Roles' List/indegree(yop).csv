@@ -1,0 +1,24 @@
+Label,internal,external,indegree,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector
+"Pharmacopeia Drug Disclovery, Inc.",12,100,112,Cranbury,NJ,external,business,outside,0.04379562,12,0.004434016,1.62E-05,463.9333333,0.006202151,0.87452486
+Merck Sharp & Dohme ,17,66,83,Rahway,NJ,external,business,outside,0.069343066,19,0.004431864,1.62E-05,786.3333333,0.010512197,0.888733798
+Bristol-Meyers Squibb Company ,12,33,45,Princeton,NJ,external,business,outside,0.051094891,14,0.004429285,1.62E-05,552,0.007379482,0.34971499
+Dendreon Corporation ,0,29,29,San Diego,CA,external,business,within,0.018248175,5,0.004428354,1.62E-05,0,0,0.487295517
+ExxonMobil Reasearch and Engineering Company ,1,27,28,Florham Park,NJ,external,business,outside,0.025547445,7,0.003964923,1.45E-05,77,0.001029384,1.66E-05
+Lanxess Inc.,16,11,27,Sarnia,CA,internal,business,within,0.054744526,15,0.003759141,1.37E-05,95.5,0.001276704,0.000317739
+Scheeing Corporation ,9,15,24,Kenilworth,NJ,external,business,outside,0.040145985,11,0.004433944,1.62E-05,422.7333333,0.005651364,0.787491994
+LANXESS Deutschland GmbH ,8,11,19,Cologne,DE,external,business,outside,0.02189781,6,0.003676323,1.34E-05,12,0.000160424,9.50E-05
+MSD R&D ,0,19,19,Beijing,CN,external,business,outside,0.018248175,5,0.003636364,1.33E-05,0,0,0.410366523
+FMC Corporation ,0,16,16,Philadelphia,PA,external,business,outside,0.025547445,7,0.004428784,1.62E-05,197.3333333,0.002638076,0.103745563
+UTC Power Corporation ,16,0,16,Windsor,CT,internal,business,outside,0.00729927,2,0.003830293,1.40E-05,0,0,9.45E-06
+International Business Machines Corporation ,0,15,15,Armonk,NY,external,business,outside,0.00729927,2,0.003649635,1.33E-05,1,1.34E-05,0
+United Technologies Corp.,3,12,15,Hartford,CT,external,business,outside,0.047445255,13,0.003830936,1.40E-05,836.5,0.011182856,6.47E-05
+Bayer Inc.,12,2,14,Sarnia,CA,internal,business,within,0.02919708,8,0.003759192,1.37E-05,34,0.000454533,0.000245226
+Rhodia Operations ,0,13,13,Ambervilliers,FR,external,business,outside,0.00729927,2,0.003636364,1.33E-05,0,0,1.42E-05
+BASF Corporation ,0,12,12,Florham Park,NJ,external,business,outside,0.025547445,7,0.003649635,1.33E-05,42,0.000561482,0.004329852
+Exxon Research & Engineering Co.,0,10,10,Florham Park,NJ,external,business,outside,0.04379562,12,0.003965956,1.45E-05,185,0.002473196,6.08E-05
+"UTC Fuel Cells, LLC ",6,4,10,Windsor,CT,internal,business,outside,0.02919708,8,0.003830936,1.40E-05,249,0.003328788,2.14E-05
+ARLANXEO Deutschland GmbH ,0,9,9,Dormagen,DE,external,business,outside,0.01459854,4,0.003649635,1.33E-05,3,4.01E-05,4.83E-05
+Exxon Chemical Patents Inc ,6,3,9,Houston,TX,external,business,outside,0.018248175,5,0.003844913,1.40E-05,795,0.010628058,0.000433733
+Reckitt & Colman Inc.,9,0,9,Wayne,NJ,external,business,outside,0.003649635,1,0.003636364,1.33E-05,0,0,0
+Sanofi ,4,5,9,Princeton,NJ,external,business,outside,0.01459854,4,0.003662955,1.34E-05,8,0.000106949,0
+Schering Plough Corporation ,9,0,9,Kenilworth,NJ,external,business,outside,0.00729927,2,0.004430431,1.62E-05,0,0,0.172876523
