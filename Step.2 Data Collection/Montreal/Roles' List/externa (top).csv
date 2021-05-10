@@ -1,0 +1,21 @@
+Label,internal_relation,external_relation,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector,ratio_internal_to_external
+McGill Univeristy ,10,47,Montreal,CA,internal,university,within,0.174698795,29,0.014580588,8.78E-05,2731.2,0.199430449,0.791943171,0.212765957
+Hydro-Quabac ,10,45,Montreal,CA,internal,public institute,within,0.084337349,14,0.014532084,8.75E-05,763.8166667,0.055773397,0.515241114,0.222222222
+The Royal Institute for the Advancement of Learning,10,15,Montreal,CA,internal,public institute,within,0.078313253,13,0.014525726,8.75E-05,1213.4,0.088601679,0.356814752,0.666666667
+Valorisation-Recherche L.P.,7,7,Montreal,CA,internal,business,within,0.036144578,6,0.014441061,8.70E-05,825,0.060240964,0.091373089,1
+Institut de Cardiologie de Montreal ,1,6,Montreal,CA,internal,public institute,within,0.030120482,5,0.006210948,3.74E-05,12,0.000876232,5.63E-17,0.166666667
+The Sir Mortimer B.,3,4,Montreal,CA,internal,public institute,within,0.024096386,4,0.006134969,3.70E-05,4,0.000292077,5.00E-17,0.75
+Universita Degli Studi di Milano ,0,4,Montreal,CA,internal,university,within,0.024096386,4,0.014472537,8.72E-05,43,0.003139832,0.208222418,0
+Alcan Internatinal Limited ,0,3,Montreal,CA,internal,business,within,0.012048193,2,0.006060606,3.65E-05,1,7.30E-05,1.80E-17,0
+Valorbec S.E.C.,4,2,Montreal,CA,internal,business,within,0.012048193,2,0.006060606,3.65E-05,1,7.30E-05,1.23E-17,2
+Adaerata Limited Partnership ,2,2,Montreal,CA,internal,business,within,0.024096386,4,0.014331348,8.63E-05,380,0.027747353,0.017372671,1
+Centre National de la Rechecch Scientifique ,6,75,Paris,FR,external,public institute,outside,0.072289157,12,0.014542269,8.76E-05,1145.8,0.083665571,0.596998024,0.08
+Universite d'Angers ,17,56,Angers,FR,external,university,outside,0.162650602,27,0.014572908,8.78E-05,2088.066667,0.152469271,1,0.303571429
+ACEP Inc ,2,26,Ottawa,CA,external,business,within,0.030120482,5,0.014481375,8.72E-05,15.11666667,0.001103809,0.347258754,0.076923077
+The Hong Kong Polytechnic University ,0,20,Kowloon,HK,external,university,outside,0.024096386,4,0.014477586,8.72E-05,14.66666667,0.00107095,0.198082657,0
+University of South Florida ,0,16,Tampa,FL,external,university,outside,0.018072289,3,0.014458671,8.71E-05,0,0,0.155446866,0
+Merck & Co. Inc.,0,15,Rahway,NJ,external,business,outside,0.024096386,4,0.014471275,8.72E-05,569,0.04154801,0.113882293,0
+Merck Frosst Company ,0,11,Kirkland,CA,external,business,within,0.018072289,3,0.014353653,8.65E-05,195,0.014238773,0.01604543,0
+Institut National de la Sante et de la Recherche Medicale ,3,9,Paris,FR,external,public institute,outside,0.042168675,7,0.014514296,8.74E-05,173.8666667,0.012695631,0.422771588,0.333333333
+Merck Sharp & Dohme Corp.,0,7,Rahway,NJ,external,business,outside,0.012048193,2,0.014351171,8.65E-05,98,0.007155896,0.015744394,0
+Phostech Lithium Inc.,0,7,Montarville,CA,external,business,within,0.012048193,2,0.014466231,8.71E-05,0,0,0.216721305,0
