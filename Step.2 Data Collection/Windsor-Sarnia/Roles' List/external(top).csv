@@ -1,0 +1,15 @@
+Label,internal_relation,external_relation,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector,ratio_internal_to_external
+Nova Chemicals ,0,17,International,CA,external,business,within,0.01010101,1,0.01010101,0.00010203,0,0,1.85E-18,0
+Scheeing Corporation ,0,10,Kenilworth,NJ,external,business,outside,0.03030303,3,0.011219402,0.000113327,13.5,0.002782931,0,0
+Pharmacopeia Inc.,0,9,San Diego,CA,external,business,within,0.04040404,4,0.011227036,0.000113404,37,0.007627293,0,0
+Bristol-Meyers Squibb Company ,1,8,Princeton,NJ,external,business,outside,0.050505051,5,0.01122449,0.000113379,34,0.007008864,0,0.125
+Merck Sharp & Dohme ,0,6,Rahway,NJ,external,business,outside,0.03030303,3,0.011219402,0.000113327,13.5,0.002782931,0,0
+Dendreon Corporation ,0,5,San Diego,CA,external,business,within,0.01010101,1,0.011206701,0.000113199,0,0,0,0
+"Pharmacopeia Drug Disclovery, Inc.",0,5,Princeton,NJ,external,business,outside,0.02020202,2,0.011211778,0.00011325,2,0.000412286,0,0
+Wayne State University ,0,5,Detroit,MI,external,university,outside,0.03030303,3,0.010309278,0.000104134,2,0.000412286,0,0
+Sanofi ,1,4,Princeton,NJ,external,business,outside,0.03030303,3,0.010415571,0.000105208,5,0.001030715,3.26E-16,0.25
+LANXESS Deutschland GmbH ,0,4,Leverkusen,DE,external,business,outside,0.04040404,4,0.010749186,0.000108578,11,0.002267574,0.873547415,0
+Lanxess Inc.,0,9,Sarnia,CA,internal,business,within,0.050505051,5,0.010750353,0.000108589,15,0.003092146,1,0
+The University of Windsor ,0,4,Windsor,CA,internal,university,within,0.01010101,1,0.010743353,0.000108519,0,0,0.372137635,0
+Bayer Inc.,0,2,Sarnia,CA,internal,business,within,0.02020202,2,0.010204082,0.000103072,1,0.000206143,0,0
+The Institute For Chemical Science and Technology ,0,4,Sarnia,CA,internal,public institute,within,0.02020202,4,0.010414475,0.000105197,0,0,0,0
