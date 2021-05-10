@@ -1,0 +1,11 @@
+Label,internal_relation,external_relation,City,Country,regions,classification,nations,degree_normalized,degree,clossness_normalized,closeness,betweenness,betweenness_normalized,eigenvector,ratio_internal_to_external
+Colorado State University Research Foundation ,2,2,Ft. Collins Colorado,CO,external,university,outside,0.03030303,3,0.010309278,0.000104134,3,0.000618429,5.19E-16,1
+"DynamOx, Inc.",2,2,Irvine,CA,external,business,within,0.02020202,2,0.010308205,0.000104123,0,0,0,1
+"TherOx, Inc.",2,2,Irvine,CA,external,business,within,0.02020202,2,0.010308205,0.000104123,0,0,0,1
+" Pharmaceuticals, Ltd.",2,0,Changshu,CN,external,business,outside,0.01010101,1,0.01010101,0.00010203,0,0,1.10E-17,Inf
+Commonwealth Scientific ,2,0,Canberra,AU,external,business,outside,0.02020202,2,0.010204082,0.000103072,0,0,6.95E-17,Inf
+Industrial Research Organisation ,2,0,Melbourne,AU,external,public institute,outside,0.02020202,2,0.010204082,0.000103072,0,0,8.46E-18,Inf
+ScinoPharm ,2,0,Changshu,CN,external,business,outside,0.01010101,1,0.01010101,0.00010203,0,0,8.77E-18,Inf
+The Broken Hill Proprietary Company Limited ,2,0,New South Wales,AU,external,business,outside,0.02020202,2,0.010204082,0.000103072,0,0,4.56E-17,Inf
+Bristol-Meyers Squibb Company ,1,8,Princeton,NJ,external,business,outside,0.050505051,5,0.01122449,0.000113379,34,0.007008864,0,0.125
+Sanofi ,1,4,Princeton,NJ,external,business,outside,0.03030303,3,0.010415571,0.000105208,5,0.001030715,3.26E-16,0.25
